@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The nature of foreign.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The nature of foreign"
+              "title": "Testing"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The nature of foreign.md",
+            "file": "Testing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The nature of foreign.md",
+            "file": "Testing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The nature of foreign.md",
+            "file": "Testing.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,7 +170,7 @@
   },
   "active": "2d4ad151596c7cc6",
   "lastOpenFiles": [
-    "Testing.md",
-    "The nature of foreign.md"
+    "The nature of foreign.md",
+    "Testing.md"
   ]
 }
