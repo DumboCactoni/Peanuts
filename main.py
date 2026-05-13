@@ -4,11 +4,10 @@ sys.stdin = open("main.in","r")
 a = sys.stdin.read().strip().split('\n')
 b  = [i for i in a[0]]
 c = defaultdict(int)
-d = []
 for i in b:
     c[i]+=1
-for i in c.values():
-    d.append(i)
+t = ["b","s","c"]
+d = [c[i] for i in t if i in c]
 
 e = [int(i) for i in a[1].split()]
 f = [int(i) for i in a[2].split()]
