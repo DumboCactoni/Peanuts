@@ -1,3 +1,5 @@
-Jiashen chess 32588884
-Jiaying chess 32588062
+Thursday
+4-6
+7-8
+7-9
 
