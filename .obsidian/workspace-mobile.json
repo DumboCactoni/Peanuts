@@ -126,10 +126,55 @@
               },
               "icon": "lucide-file",
               "title": "May 2"
-            }
+            },
+            "group": "1dd8dbf740c84c52"
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "21df5ab1e52a9a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb15c10cb413852f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "May 2.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.670646053711692,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "1dd8dbf740c84c52"
+          }
+        ]
       },
       {
         "id": "a2d37b5f774c09c9",
@@ -321,7 +366,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "674ea43af2b90a0e",
+  "active": "eb15c10cb413852f",
   "lastOpenFiles": [
     "May 2.md",
     "chess.md",
