@@ -1,1 +1,4 @@
+# Master
+
 [[plans]]
+[[Notes]]
