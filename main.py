@@ -1,6 +1,6 @@
 import sys
 from collections import defaultdict
-#sys.stdin = open("main.in","r")
+sys.stdin = open("main.in","r")
 a = sys.stdin.read().strip().split('\n')
 b  = [i for i in a[0]]
 c = defaultdict(int)
@@ -33,4 +33,3 @@ else:
     r = e[0]*f[0] + e[1]*f[1] + e[2]*f[2]
     h += g // r
     print(h)
-
