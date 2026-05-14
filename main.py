@@ -5,6 +5,7 @@ a = sys.stdin.read().strip().split('\n')
 b  = [i for i in a[0]]
 c = defaultdict(int)
 d = []
+
 for i in b:
     c[i]+=1
 for i in c.values():
