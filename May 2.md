@@ -9,5 +9,5 @@ Friday
 8,9 usaaao and chess
 
 Saturday
-
+The boys right before bed, plan for future
 
