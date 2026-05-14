@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "chess.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "chess"
             }
           }
         ],
@@ -309,10 +309,11 @@
   },
   "active": "aceae60ee3cc9c3d",
   "lastOpenFiles": [
+    "Notes.md",
+    "chess.md",
     "plans.md",
     "Master.md",
     "May 2.md",
-    "Notes.md",
     "The nature of foreign.md",
     "Testing.md",
     "Library.md"
