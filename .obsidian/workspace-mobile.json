@@ -87,10 +87,55 @@
               },
               "icon": "lucide-file",
               "title": "Master"
-            }
+            },
+            "group": "90bee13d8faa2cfd"
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "a2d37b5f774c09c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2070ed4e73f84082",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Master.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "90bee13d8faa2cfd"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,11 +283,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "acab60f7fe66d3e3",
+  "active": "2070ed4e73f84082",
   "lastOpenFiles": [
+    "Master.md",
     "plans.md",
     "May 2.md",
-    "Master.md",
     "Notes.md",
     "The nature of foreign.md",
     "Testing.md",
