@@ -376,26 +376,6 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "fe26e0f0e947d0be",
-        "type": "leaf",
-        "state": {
-          "type": "juggl_nodes",
-          "state": {},
-          "icon": "ag-node-list",
-          "title": "Juggl nodes"
-        }
-      },
-      {
-        "id": "74c7331abb50c1ef",
-        "type": "leaf",
-        "state": {
-          "type": "juggl_style",
-          "state": {},
-          "icon": "ag-style",
-          "title": "Juggl style"
-        }
       }
     ],
     "currentTab": 0
