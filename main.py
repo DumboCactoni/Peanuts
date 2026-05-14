@@ -1,6 +1,6 @@
 import sys
 from collections import defaultdict
-sys.stdin = open("/storage/emulated/0/Github/main.in","r")
+sys.stdin = open("main.in","r")
 a = sys.stdin.read().strip().split('\n')
 b  = [i for i in a[0]]
 c = defaultdict(int)
