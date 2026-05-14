@@ -1,6 +1,6 @@
 import sys
 from collections import defaultdict
-#sys.stdin = open("/storage/emulated/0/Github/main.in","r")
+sys.stdin = open("/storage/emulated/0/Github/main.in","r")
 a = sys.stdin.read().strip().split('\n')
 b  = [i for i in a[0]]
 c = defaultdict(int)
@@ -13,11 +13,11 @@ e = [int(i) for i in a[1].split()]
 f = [int(i) for i in a[2].split()]
 g = int(a[3])
 h = 0
-#print(d)
-
+print(d)
 m = int(min(e[0]//d[0], e[1]//d[1], e[2]//d[2]))
 p = int(max(e[0]//d[0], e[1]//d[1], e[2]//d[2]))
-#print(m,p)
+print(m,p)
+
 for i in range(m+1,p+2): # i iterates across number of burgers
     n = 0
     for j in range(3):
@@ -32,6 +32,6 @@ for i in range(m+1,p+2): # i iterates across number of burgers
 #print(h)
 g -= n
 h += p+1
-r = f[0] + f[1] + f[2]
+r = d[0]*f[0] + d[1]*f[1] + d[2]*f[2]
 h += g // r
 print(h)
