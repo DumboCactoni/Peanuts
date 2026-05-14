@@ -1,6 +1,6 @@
 Thursday
 4-5 usaaao further planning
-Counterpoint concert at 6, get good sleep
+Counterpoint concert at 6
 
 Friday
 4,5 usaaao
@@ -9,6 +9,6 @@ Friday
 8,9 usaaao and chess
 
 Saturday
-The boys right before bed, plan for future
+Plan for future
 
 
