@@ -34,24 +34,6 @@
             }
           },
           {
-            "id": "e73ecaf1835bb69c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "May 2.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "May 2"
-            }
-          },
-          {
             "id": "2a4f2615aa0c39fe",
             "type": "leaf",
             "state": {
@@ -349,6 +331,26 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "fe26e0f0e947d0be",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {},
+          "icon": "ag-node-list",
+          "title": "Juggl nodes"
+        }
+      },
+      {
+        "id": "74c7331abb50c1ef",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {},
+          "icon": "ag-style",
+          "title": "Juggl style"
+        }
       }
     ],
     "currentTab": 0
@@ -362,7 +364,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "juggl:Juggl global graph": false
     }
   },
   "active": "3c126c7297f6eab4",
