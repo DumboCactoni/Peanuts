@@ -71,12 +71,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May 2.md",
+                "file": "Master.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
               },
               "icon": "lucide-file",
-              "title": "May 2"
+              "title": "Master"
             }
           }
         ],
@@ -231,9 +241,9 @@
   "active": "acab60f7fe66d3e3",
   "lastOpenFiles": [
     "plans.md",
+    "May 2.md",
     "Master.md",
     "Notes.md",
-    "May 2.md",
     "The nature of foreign.md",
     "Testing.md",
     "Library.md"
