@@ -17,18 +17,21 @@ h = 0
 
 m = int(min(e[0]//d[0], e[1]//d[1], e[2]//d[2]))
 p = int(max(e[0]//d[0], e[1]//d[1], e[2]//d[2]))
-print(m,p)
-for i in range(m+1,p+2):
-    n = ((i-m)*d[0])*f[0] + ((i-m)*d[1])*f[1] + ((i-m)*d[2])*f[2]
+#print(m,p)
+for i in range(m+1,p+2): # i iterates across number of burgers
+    n = 0
+    for j in range(3):
+        x = f[j]*(i*d[j]-e[j]) if f[j]*(i*d[j]-e[j])>0 else 0
+        n += x
+    #print(i,n)
     if n-g>0.3:
         h += i-1
         print(h)
-        print(n,g)
-        break
-else:
-    #print(h)
-    g -= n
-    h += p
-    r = e[0]*f[0] + e[1]*f[1] + e[2]*f[2]
-    h += g // r
-    print(h)
+        #print(n,g)
+        sys.exit()
+#print(h)
+g -= n
+h += p+1
+r = e[0]*f[0] + e[1]*f[1] + e[2]*f[2]
+h += g // r
+print(h)
