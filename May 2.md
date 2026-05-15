@@ -2,6 +2,9 @@
 ~~4-5 cf hamburgers~~
 ~~Counterpoint concert at 6~~
 
+Obsidian planning
+Usaaao
+
 Friday
 4,5 usaaao
 5,6 cf hard potions
