@@ -1,6 +1,6 @@
 import sys
 import heapq
-sys.stdin = open("main.in","r")
+#sys.stdin = open("main.in","r")
 a = sys.stdin.read().strip().split('\n')
 b = [int(i) for i in a[1].split()]
 c,d = 0,0
