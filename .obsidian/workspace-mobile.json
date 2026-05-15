@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May 2.md",
+                "file": "plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "May 2"
+              "title": "plans"
             }
           }
         ],
@@ -239,9 +239,9 @@
   },
   "active": "f73a856fd17a9fe9",
   "lastOpenFiles": [
-    "plans.md",
     "Notes.md",
     "May 2.md",
+    "plans.md",
     "Numbers.md",
     "Master.md",
     "The nature of foreign.md",
