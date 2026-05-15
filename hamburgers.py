@@ -1,22 +1,27 @@
 import sys
 from collections import defaultdict
-sys.stdin = open("/storage/emulated/0/Github/main.in","r")
+#sys.stdin = open("/storage/emulated/0/Github/main.in","r")
 a = sys.stdin.read().strip().split('\n')
 b  = [i for i in a[0]]
 c = defaultdict(int)
 for i in b:
     c[i]+=1
 t = ["B","S","C"]
-d = [c[i] if i in c else 10**-9 for i in t]
+d = [c[i] if i in c else 0 for i in t]
 
 e = [int(i) for i in a[1].split()]
 f = [int(i) for i in a[2].split()]
 g = int(a[3])
 h = 0
-print(d)
-m = int(min(e[0]//d[0], e[1]//d[1], e[2]//d[2]))
-p = int(max(e[0]//d[0], e[1]//d[1], e[2]//d[2]))
-print(m,p)
+#print(d)
+y = [0,0,0]
+for i in range(3):
+    y[i] = e[i]//d[i] if e[i]!=0 and d[i]!=0 else 10**9
+m = int(min(y[0],y[1],y[2]))
+for i in range(3):
+    y[i] = e[i]//d[i] if e[i]!=0 and d[i]!=0 else 0
+p = int(max(y[0],y[1],y[2]))
+#print(m,p)
 
 for i in range(m+1,p+2): # i iterates across number of burgers
     n = 0
