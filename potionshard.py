@@ -8,12 +8,15 @@ e = []
 for i in b:
     c += i
     d += 1
-    if c>0:
+    if i<0:
         heapq.heappush(e,i)
+    if c>=0:
+        #print(i,c)
         continue
     elif e[0]<i:
-        d-=1
-        c += -e[0]+i
+        d -= 1
+        c += -e[0]
+    #print(i,c)
 print(d)
 
 
