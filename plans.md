@@ -2,6 +2,6 @@
 
 [[May 2]]
 
-[[Summer]]
+[[May-]]
 [[Test seasons]]
 [[]]
