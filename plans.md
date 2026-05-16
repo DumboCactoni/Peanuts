@@ -4,4 +4,4 @@
 
 [[26 May-August]]
 [[26 September-February]]
-[[27 March-Jun3]]
+[[27 March-June]]
