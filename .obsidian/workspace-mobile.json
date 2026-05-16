@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26 September-February.md",
+                "file": "plans.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -152,7 +152,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26 September-February"
+              "title": "plans"
             }
           }
         ],
@@ -305,6 +305,7 @@
   },
   "active": "6047e5de89b955c1",
   "lastOpenFiles": [
+    "27 March-Jun3.md",
     "plans.md",
     "26 September-February.md",
     "26 May-August.md",
