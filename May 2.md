@@ -22,4 +22,4 @@ Sunday
 7,8 usaaao
 8,9 reading
 
-- [ ] 
+- [ ]  
