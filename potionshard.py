@@ -8,18 +8,11 @@ e = []
 for i in b:
     c += i
     d += 1
-    if c>=0 and i>=0:
+    heapq.heappush(e,i)
+    if c>=0:
         continue
-    if c>=0 and i<0:
-        heapq.heappush(e,-i)
-        continue
-    elif e and c-i+e[0] >= 0:
-        c += -i+heapq.heappop(e); d-=1
-        #print(i,c,d)
     else:
-        #print(i,c,d)
-        c-=i; d-=1
-        #print(i,c,d,e,"skip")
+        c += -heapq.heappop(e); d-=1
 print(d)
 
 
