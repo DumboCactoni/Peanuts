@@ -21,8 +21,25 @@
 - [ ]  240,265
 - [ ]  265,290
 - [ ]  320,340
+##### 200 confusing
+- [ ] kinematics dynamics dimensional analysis
+- [ ] gravitation mech
+- [ ] collisions rigid bodies
+- [ ] elasticity ropes
+- [ ] liquids surface tension
+##### 200 more confusing
+- [ ] kinematics dynamics dimensional analysis
+- [ ] gravitation mech
+- [ ] collisions rigid bodies
+- [ ] elasticity ropes
+- [ ] liquids surface tension
+
+### Math
 
 
+### Others
 Francois
 Mendelssohn f minor
-24 thousand magic in the wir
+24 thousand magic in the 
+https://youtube.com/shorts/2GUah9xHVto?si=UEMfP5d5vLDtPHM7
+Gonna. R gonna be golden
