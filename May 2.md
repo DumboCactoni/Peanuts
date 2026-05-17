@@ -17,8 +17,7 @@
 ~~8,9 usaaao~~
 
 Sunday
-3,4 cf hard potions
-4,5 usaaao
+~~3,4 cf hard potions~~
 5,6 reading
 7,8 usaaao
-8,9 cf hard potions
+8,9 reading
