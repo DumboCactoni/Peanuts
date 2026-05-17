@@ -19,6 +19,6 @@
 Sunday
 3,4 cf hard potions
 4,5 usaaao
-5,6 chess
+5,6 reading
 7,8 usaaao
 8,9 cf hard potions
