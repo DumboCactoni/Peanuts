@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans.md",
+                "file": "May 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -152,7 +152,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "plans"
+              "title": "May 2"
             }
           }
         ],
@@ -305,15 +305,15 @@
   },
   "active": "6047e5de89b955c1",
   "lastOpenFiles": [
-    "26 May-August.md",
     "26 May.md",
+    "26 May-August.md",
+    "plans.md",
+    "26 September-February.md",
     "May 2.md",
     "26 June.md",
     "June 1.md",
-    "plans.md",
     "May 3.md",
     "27 March-June.md",
-    "26 September-February.md",
     "Numbers.md",
     "Notes.md",
     "Master.md",
