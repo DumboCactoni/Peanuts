@@ -16,3 +16,12 @@ Monday
 3.30 valorant, headphones?
 5 integrals practice
 7 aime 4
+
+Christian brothers academy 
+Colonie high school
+Albany high school
+Columbia high school
+Saratoga springs
+Pittsfield hs
+St Joseph central (both)
+Taconic 
