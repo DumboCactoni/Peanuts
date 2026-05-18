@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd6097d57f65ddb",
+        "id": "3084ecdb26af2425",
         "type": "tabs",
         "children": [
           {
-            "id": "3c126c7297f6eab4",
+            "id": "b38e5c546b05d71c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,124 +20,12 @@
             }
           },
           {
-            "id": "ac44322d617f48c5",
+            "id": "60510918f0fdfe20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Numbers"
-            }
-          },
-          {
-            "id": "437742c19365ee8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "May 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "May 2"
-            }
-          },
-          {
-            "id": "39c76d9d671a9ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Numbers"
-            }
-          },
-          {
-            "id": "409ec7060a1633fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "May 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "May 2"
-            }
-          },
-          {
-            "id": "f73a856fd17a9fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "May 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "May 2"
-            }
-          },
-          {
-            "id": "c70973c9b162b981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26 May-August.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "26 May-August"
-            }
-          },
-          {
-            "id": "0c8024f9cd37d1d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "plans"
-            }
-          },
-          {
-            "id": "f9af305eef7a29a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "plans"
-            }
-          },
-          {
-            "id": "6047e5de89b955c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "May 2.md",
+                "file": "May 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -152,11 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "May 2"
+              "title": "May 3"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -303,16 +191,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "6047e5de89b955c1",
+  "active": "60510918f0fdfe20",
   "lastOpenFiles": [
     "26 May.md",
-    "26 May-August.md",
-    "plans.md",
-    "26 September-February.md",
     "May 2.md",
+    "26 May-August.md",
     "26 June.md",
-    "June 1.md",
+    "plans.md",
     "May 3.md",
+    "26 September-February.md",
+    "June 1.md",
     "27 March-June.md",
     "Numbers.md",
     "Notes.md",
