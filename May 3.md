@@ -7,7 +7,12 @@
 - [ ] cf tree
 - [ ] cf maze
 
-Call nisky Counseling (518) 382-2511, ext. 21724
 Director application and cheat sheet
 Integrals practice 
 Flat galaxies globular clusters area of shadow constellations 
+
+Monday
+2.30 Call nisky Counseling (518) 382-2511, ext. 21724
+3.30 valorant, headphones?
+5 integrals practice
+7 aime 4
