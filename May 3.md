@@ -7,10 +7,11 @@
 - [ ] cf tree
 - [ ] cf maze
 
+##### 
 ~~Director application~~ and cheat sheet
 ~~Integrals practice~~ 
 Flat galaxies globular clusters area of shadow constellations 
-Esyo audition
+~~Esyo audition~~
 
 ~~Monday~~
 ~~2.30 Call nisky Counseling (518) 382-2511, ext. 21724~~
@@ -18,11 +19,16 @@ Esyo audition
 ~~5 integrals practice~~
 ~~7 aime 4~~
 
-Tuesday
+~~Tuesday~~
 5 integrals
 7 director application
-8 aime 7 work on math plan
+~~8 aime 7~~ ~~work on math plan~~
 
+##### wednesday
+7 first 3 pages saint seans lock in, scheherezade excerpt
+8 
+
+##### for ap: has spackenkill called back
 Christian brothers academy 
 Colonie high school
 Albany high school
