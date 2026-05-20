@@ -7,8 +7,8 @@
 - [ ] cf tree
 - [ ] cf maze
 
-##### 
-~~Director application~~ and cheat sheet
+##### old
+~~Director application~~ ~~and cheat sheet~~
 ~~Integrals practice~~ 
 Flat galaxies globular clusters area of shadow constellations 
 ~~Esyo audition~~
@@ -19,14 +19,17 @@ Flat galaxies globular clusters area of shadow constellations
 ~~5 integrals practice~~
 ~~7 aime 4~~
 
-Wednesday
-5 integrals
-7 director application
-8 aime q7 work on math plan
+~~Wednesday~~
+~~5 integrals~~
+~~7 director application~~
+~~8 aime q7 work on math plan~~
 
 ##### wednesday
 7 first 3 pages saint seans lock in, scheherezade excerpt
-8 
+8 integrals director and cheat
+
+##### Thursday
+
 
 ##### for ap: has spackenkill called back
 Christian brothers academy 
