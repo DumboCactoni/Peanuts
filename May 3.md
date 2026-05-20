@@ -18,10 +18,10 @@ Esyo audition
 ~~5 integrals practice~~
 ~~7 aime 4~~
 
-Tuesday
+Wednesday
 5 integrals
 7 director application
-8 aime 7 work on math plan
+8 aime q7 work on math plan
 
 Christian brothers academy 
 Colonie high school
