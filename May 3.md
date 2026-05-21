@@ -41,3 +41,49 @@ Pittsfield hs
 St Joseph central (both)
 Taconic 
 Dream playground
+
+
+##### test case
+Time: 46 ms, memory: 0 KB
+Verdict: OK
+Input
+3 3 2
+
+Participant's output
+3
+
+Jury's answer
+3
+
+Checker comment
+ok 1 number(s): "3"
+
+2
+Time: 46 ms, memory: 0 KB
+Verdict: OK
+Input
+3 3 3
+
+Participant's output
+1
+
+Jury's answer
+1
+
+Checker comment
+ok 1 number(s): "1"
+
+3
+Time: 46 ms, memory: 8 KB
+Verdict: WRONG_ANSWER
+Input
+4 3 2
+
+Participant's output
+7
+
+Jury's answer
+6
+
+Checker comment
+wrong answer 1st numbers differ - expected: '6', found: '7'
