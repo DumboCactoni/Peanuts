@@ -40,8 +40,4 @@
 
 
 ### Others
-Francois
-Mendelssohn f minor
-24 thousand magic in the 
-https://youtube.com/shorts/2GUah9xHVto?si=UEMfP5d5vLDtPHM7
-Gonna. R gonna be golden
+
