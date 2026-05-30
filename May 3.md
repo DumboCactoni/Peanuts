@@ -38,10 +38,10 @@ Albany high school
 Columbia high school
 Saratoga springs
 Pittsfield hs
-St Joseph central (both)
 Taconic 
 Dream playground
 
+Arlington high school
 
 ##### test case
 Time: 46 ms, memory: 0 KB
