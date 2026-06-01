@@ -11,8 +11,12 @@ for i in range(len(a)):
             d.append([i,j])
 e = defaultdict(int)
 f = []
-while len(f)<len(d):
-    
+while len(f)<len(d)-a[2]:
+    for i in range(1,len(f)+1):
+        for j in range(len(d)):
+            if f[-i][0]+1==d[j][0] and f[-1][1]==d[j][1] and :
+                f.append(d[j])
+                e[f[i]]    
 
 
     
