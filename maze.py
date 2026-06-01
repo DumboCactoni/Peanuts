@@ -1,4 +1,5 @@
 import sys
+from collections import defaultdict
 sys.stdin = open("main.in","r")
 a = sys.stdin.read().strip().split('\n')
 b = [int(i) for i in a[0].split()]; a=a[1:]
@@ -8,5 +9,10 @@ for i in range(len(a)):
     for j in range(len(c)):
         if c[j] == ".":
             d.append([i,j])
-for i in d:
+e = defaultdict(int)
+f = []
+while len(f)<len(d):
+    
+
+
     
