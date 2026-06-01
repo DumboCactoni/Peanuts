@@ -13,3 +13,9 @@
   - [ ] 2
 
 
+Holo meridian
+Dolmirs revenge 
+Blackthorn
+Exo
+Primordium
+Phaseguard
