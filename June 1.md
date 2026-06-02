@@ -1,6 +1,6 @@
 Sunday Carnegie mahler 
 - [ ] cf maze
-- [ ] cf
+- [ ] cf spreadsheet
 - [ ] Coriolis effect
 - [ ] usaaao 2022
 	- [ ] 1
@@ -9,7 +9,7 @@ Sunday Carnegie mahler
 	- [ ] 4
 	- [ ] 5
 - [ ] vol 2 astro
-	- [ ] q1
+	- [x] q1
 	- [ ] q2
 - [ ] math club application
 - [ ] Saint saens
