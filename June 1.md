@@ -69,13 +69,9 @@ Input
 Copy
 Output
 #XXX
-
 #X#X
-
 .#..
-
 ...#
-
 .#.#
 
 Copy
