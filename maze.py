@@ -32,6 +32,4 @@ for i in range(len(f)-b[2], len(f)):
     j = f[i]
     a[j[0]][j[1]] = "X"
 for i in a:
-    print("".join(i))
-
-    
+    print("".join(i))   
