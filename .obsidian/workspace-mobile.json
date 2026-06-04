@@ -72,7 +72,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#X",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -123,7 +123,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f600789bf06c474c",
@@ -135,7 +135,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "26 June.md",
+            "file": "June 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,10 +194,10 @@
   "active": "60510918f0fdfe20",
   "lastOpenFiles": [
     "26 June.md",
+    "June 1.md",
     "26 May-August.md",
     "26 May.md",
     "May 4.md",
-    "June 1.md",
     "plans.md",
     "May 2.md",
     "Notes.md",
