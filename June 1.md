@@ -4,14 +4,12 @@ Sunday Carnegie mahler
 - [ ] Coriolis effect
 - [ ] usaaao 2022
 	- [x] 1
-	- [ ] 2
-	- [ ] 3
+	- [x] 2
+	- [x] 3
 	- [ ] 4
 	- [ ] 5
-- [ ] vol 2 astro
-	- [x] q1
-	- [ ] q2
-- [ ] math club application
+- [x] vol 2 astro 
+- [x] math club application
 - [ ] Saint saens
 	- [ ] 1
 	- [ ] 2
