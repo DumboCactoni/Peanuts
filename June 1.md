@@ -24,6 +24,8 @@ Tuesday
 
 Hampden charter schl????
 5182219289
+ask claude to map ap course ledger
+
 
 It is possible for a country to worry itself into irrelevance. But America is in an experiment in terrifying oneself to riches. 
 
