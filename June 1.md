@@ -1,7 +1,6 @@
 Sunday Carnegie mahler 
-- [ ] cf maze
+- [x] cf maze
 - [ ] cf spreadsheet
-- [ ] Coriolis effect
 - [ ] usaaao 2022
 	- [x] 1
 	- [x] 2
@@ -11,19 +10,14 @@ Sunday Carnegie mahler
 - [x] vol 2 astro 
 - [x] math club application
 - [ ] Saint saens
-	- [ ] 1
-	- [ ] 2
+	- [x] 1
+	- [x] 2
 	- [ ] scheherezade
 
-Tuesday 
-3.30 cf maze scheherezade
-4 Saint saens 1
-5 Saint saens 2
-
-Hampden charter schl????
-5182219289
-ask claude to map ap course ledger
-
+Saturday
+4.30 Saint Seans 1
+6.30 Saint saens 2
+7.30 scheherezade 
 
 It is possible for a country to worry itself into irrelevance. But America is in an experiment in terrifying oneself to riches. 
 

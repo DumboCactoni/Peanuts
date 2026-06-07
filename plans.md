@@ -5,6 +5,7 @@
 [[27 March-June]]
 
 ### Physics
+- [ ] Coriolis effect
 ##### krotov
 - [x]  25,45
 - [ ]  45,70
