@@ -65,6 +65,7 @@
 - [ ] 14
 
 ### Astronomy
+- [ ] exoplanets
 ##### kartunnen
 - [ ] 3
 - [ ] 4

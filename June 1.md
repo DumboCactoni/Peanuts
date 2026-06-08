@@ -1,12 +1,12 @@
 Sunday Carnegie mahler 
 - [x] cf maze
-- [ ] cf spreadsheet
-- [ ] usaaao 2022
+- [x] cf spreadsheet
+- [x] usaaao 2022
 	- [x] 1
 	- [x] 2
 	- [x] 3
-	- [ ] 4
-	- [ ] 5
+	- [x] 4
+	- [x] 5
 - [x] vol 2 astro 
 - [x] math club application
 - [ ] Saint saens
@@ -14,10 +14,8 @@ Sunday Carnegie mahler
 	- [x] 2
 	- [ ] scheherezade
 
-Saturday
-4.30 Saint Seans 1
-6.30 Saint saens 2
-7.30 scheherezade 
+Sunday
+
 
 It is possible for a country to worry itself into irrelevance. But America is in an experiment in terrifying oneself to riches. 
 
