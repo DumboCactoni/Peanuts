@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "June 2.md",
+                "file": "plans.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "June 2"
+              "title": "plans"
             }
           }
         ],
@@ -193,13 +193,13 @@
   },
   "active": "60510918f0fdfe20",
   "lastOpenFiles": [
-    "26 June.md",
     "26 May-August.md",
+    "26 June.md",
+    "June 2.md",
     "26 July.md",
     "26 May.md",
     "May 3.md",
     "June 1.md",
-    "June 2.md",
     "plans.md",
     "May 4.md",
     "May 2.md",
