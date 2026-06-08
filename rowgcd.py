@@ -1,6 +1,6 @@
 import sys
 import math
-sys.stdin = open("main.in","r")
+#sys.stdin = open("main.in","r")
 a = sys.stdin.read().strip().split('\n')
 b = [int(i) for i in a[1].split()]; d = []
 c = [int(i) for i in a[2].split()]; e = []
