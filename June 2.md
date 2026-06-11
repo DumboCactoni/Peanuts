@@ -1,13 +1,12 @@
-- [ ] Saint Seans
+- [ ] violin
 	- [x] 1
 	- [x] 2
-	- [ ] 3  record
-	- [ ] 4 3
-	- [ ] 5 2
-	- [ ] 6 1
-	- [ ] 7 scheherezade
-	- [ ] 8
-	- [ ] 9
+	- [x] 3
+	- [ ] record
+	- [ ] 4
+	- [ ] 5
+	- [ ] 6
+	- [ ] 7
 - [ ] 2021 aime 1
 	- [ ] 45
 	- [ ] 67
@@ -25,19 +24,12 @@
   - [ ] 5
 
 
-Wednesday
-8 scheberezade
-9 ss 2 3
-10 aime 45
-11 aime 67
-2 ss 1
-3 nt 1
-4 scheherezade
-5 aime 89
-7 ss 1
-8 ss 23
-9 record
 
+3.30 violin
+6 aime 45
+7 violin
+8 aime 67
+9 record
 
 
 
@@ -54,6 +46,9 @@ academic_office@loomis.org
 
 
 https://link.podtrac.com/5fb66qr9?utm_source=economist&utm_medium=display&utm_content=ai&utm_campaign=marketplace_uw_fy26 
+
+
+https://get.niagaralauncher.app/FR15ZV
 
 Transparency >>>
 
