@@ -2,13 +2,13 @@
 	- [x] 1
 	- [x] 2
 	- [x] 3
-	- [ ] record
-	- [ ] 4
+	- [x] record
+	- [x] 4
 	- [ ] 5
 	- [ ] 6
 	- [ ] 7
 - [ ] 2021 aime 1
-	- [ ] 45
+	- [x] 45
 	- [ ] 67
 	- [ ] 89
 	- [ ] 1011
@@ -51,4 +51,3 @@ https://link.podtrac.com/5fb66qr9?utm_source=economist&utm_medium=display&utm_co
 https://get.niagaralauncher.app/FR15ZV
 
 Transparency >>>
-
