@@ -2,13 +2,13 @@
 	- [x] 1
 	- [x] 2
 	- [x] 3
-	- [ ] record
-	- [ ] 4
+	- [x] record
+	- [x] 4
 	- [ ] 5
 	- [ ] 6
 	- [ ] 7
 - [ ] 2021 aime 1
-	- [ ] 45
+	- [x] 45
 	- [ ] 67
 	- [ ] 89
 	- [ ] 1011
@@ -16,20 +16,20 @@
 - [x] cf row gcd
 - [ ] cf linova
 - [ ] calling, residency, vaccinations
-- [ ] number theory chap 1
+- [ ] number theory chap 4
   - [ ] 1
   - [ ] 2
   - [ ] 3
   - [ ] 4
   - [ ] 5
+- [ ] chess
+	- [x] 4
+	- [ ] 5
+	- [ ] 6
+	- [ ] 7
 
 
-
-3.30 violin
-6 aime 45
-7 violin
-8 aime 67
-9 record
+Record for whole day brah
 
 
 

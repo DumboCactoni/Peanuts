@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "June 2.md",
+                "file": "June 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "June 2"
+              "title": "June 3"
             }
           }
         ],
@@ -194,11 +194,12 @@
   "active": "60510918f0fdfe20",
   "lastOpenFiles": [
     "26 June.md",
+    "June 3.md",
+    "June 2.md",
     "26 May-August.md",
     "plans.md",
     "rowgcd.py",
     "linova.py",
-    "June 2.md",
     "26 July.md",
     "26 May.md",
     "May 3.md",
