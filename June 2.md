@@ -9,19 +9,24 @@
 	- [ ] 7
 - [ ] 2021 aime 1
 	- [x] 45
-	- [ ] 67
+	- [x] 67
 	- [ ] 89
 	- [ ] 1011
 	- [ ] 1213
 - [x] cf row gcd
 - [ ] cf linova
 - [ ] calling, residency, vaccinations
-- [ ] number theory chap 1
+- [ ] nt intro 12
   - [ ] 1
   - [ ] 2
   - [ ] 3
   - [ ] 4
   - [ ] 5
+- [ ] chess
+  - [x] 4
+  - [ ] 5
+  - [ ] 6
+  - [ ] 7
 
 
 

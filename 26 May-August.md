@@ -2,6 +2,7 @@
 
 2 subject papers a week, 5 cf
 [[26 June]] astro, math, phys, astro
+- [ ] nt intro
 - [ ] krotov
 - [ ] salvati
 

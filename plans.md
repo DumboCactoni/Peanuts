@@ -37,6 +37,7 @@
 
 ### Math
 ##### number theory
+- [ ] 1 2 intro
 - [ ] 1
 - [ ] 2
 - [ ] 3

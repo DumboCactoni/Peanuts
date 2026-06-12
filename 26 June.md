@@ -1,9 +1,10 @@
 [[June 1]]
 [[June 2]]
+[[June 3]]
 
 astro, math, phys, astro
 june 2 and onward
-- [ ] number theory 1
+- [ ] nt intro 1 2
 - [ ] krotov
   - [ ]  45,70
   - [ ]  70,95
