@@ -9,24 +9,24 @@
 	- [ ] 7
 - [ ] 2021 aime 1
 	- [x] 45
-	- [ ] 67
+	- [x] 67
 	- [ ] 89
 	- [ ] 1011
 	- [ ] 1213
 - [x] cf row gcd
 - [ ] cf linova
 - [ ] calling, residency, vaccinations
-- [ ] number theory chap 4
+- [ ] nt intro 123
   - [ ] 1
   - [ ] 2
   - [ ] 3
   - [ ] 4
   - [ ] 5
 - [ ] chess
-	- [x] 4
-	- [ ] 5
-	- [ ] 6
-	- [ ] 7
+  - [x] 4
+  - [ ] 5
+  - [ ] 6
+  - [ ] 7
 
 
 Record for whole day brah
@@ -51,4 +51,9 @@ https://link.podtrac.com/5fb66qr9?utm_source=economist&utm_medium=display&utm_co
 https://get.niagaralauncher.app/FR15ZV
 
 Transparency >>>
+
+
+5188708036 clark hicks
+Julian Shipley 5188388108
+
 
