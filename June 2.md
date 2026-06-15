@@ -1,4 +1,4 @@
-- [ ] violin
+- [x] violin
 	- [x] 1
 	- [x] 2
 	- [x] 3
@@ -6,7 +6,7 @@
 	- [x] 4
 	- [x] 5
 	- [ ] 6
-	- [ ] 7
+	- [x] 7
 - [ ] 2021 aime 1
 	- [x] 45
 	- [x] 67
@@ -16,11 +16,11 @@
 - [x] cf row gcd
 - [ ] cf linova
 - [ ] calling, residency, vaccinations
-- [ ] chess
+- [x] chess
   - [x] 4
   - [x] 5
   - [ ] 6
-  - [ ] 7
+  - [x] 7
 - [x] number theory chap 1 1 
 
 
