@@ -5,7 +5,6 @@
 
 astro, math, phys, astro
 june 2 and onward
-- [ ] nt intro 1 2
 - [ ] krotov
   - [ ]  45,70
   - [ ]  70,95
@@ -26,7 +25,7 @@ june 2 and onward
   - [ ] 12
   - [ ] 13
 - [ ] cf 
-  - [ ] 1 row gcd
+  - [x] 1 row gcd
   - [ ] 2 linova
   - [ ] 1
   - [ ] 2
@@ -38,6 +37,6 @@ june 2 and onward
   - [ ] 3
   - [ ] 4
   - [ ] 5
-- [ ] usaaao 2023, 2024
-- [ ] f=ma 2022, 2023
+- [ ] usaaao 2023 2024
+- [ ] f=ma 2022 2023
 - [ ] 2021 aime 1

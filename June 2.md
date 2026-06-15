@@ -4,34 +4,35 @@
 	- [x] 3
 	- [x] record
 	- [x] 4
-	- [ ] 5
+	- [x] 5
 	- [ ] 6
 	- [ ] 7
 - [ ] 2021 aime 1
 	- [x] 45
 	- [x] 67
-	- [ ] 89
-	- [ ] 1011
+	- [x] 89
+	- [x] 1011
 	- [ ] 1213
 - [x] cf row gcd
 - [ ] cf linova
 - [ ] calling, residency, vaccinations
-- [ ] nt intro 123
-  - [ ] 1
-  - [ ] 2
-  - [ ] 3
-  - [ ] 4
-  - [ ] 5
 - [ ] chess
   - [x] 4
-  - [ ] 5
+  - [x] 5
   - [ ] 6
   - [ ] 7
+- [x] number theory chap 1 1 
 
 
-Record for whole day brah
 
 
+7 math 10 11
+8 cf linova 
+9 math 12 13
+
+
+
+==l==
 
 Hi! I'm Jiashen, not a student from this school, but I was wondering if you would offer the option of hosting an AP exam, next year. My school doesn't offer it, and I can pay any relevant fees. The exam is the AP Physics C: Electricity and Magnetism exam, though it shouldn't matter whether you offer the course specifically, as I can be placed in an exam only section. From the AP website:
 

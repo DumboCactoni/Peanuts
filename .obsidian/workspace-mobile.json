@@ -36,7 +36,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
@@ -195,15 +195,15 @@
   "lastOpenFiles": [
     "26 June.md",
     "June 3.md",
-    "June 2.md",
     "26 May-August.md",
+    "June 2.md",
+    "June 1.md",
     "plans.md",
     "rowgcd.py",
     "linova.py",
     "26 July.md",
     "26 May.md",
     "May 3.md",
-    "June 1.md",
     "May 4.md",
     "May 2.md",
     "Notes.md",
