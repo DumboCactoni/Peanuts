@@ -27,7 +27,7 @@ june 2 and onward
 - [ ] cf 
   - [x] 1 row gcd
   - [ ] 2 linova
-  - [ ] 1
+  - [ ] 1 linova
   - [ ] 2
   - [ ] 3
   - [ ] 4
