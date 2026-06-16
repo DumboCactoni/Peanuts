@@ -9,8 +9,8 @@ history A15 6/17
 - [ ] cf
 - [ ] krotov
   - [ ]  45,70
-	  - [ ] 1 
-	  - [ ] 2
+	  - [x] 1 
+	  - [x] 2
 	  - [ ] 3
 	  - [ ] 4
 	  - [ ] 5
@@ -57,3 +57,7 @@ history A15 6/17
 4
 7
 8
+
+volunteen
+your driver's license, utility bill, last year w2, car registration, tax bill, purchase of house, passport
+my birth cert, state id, passport
