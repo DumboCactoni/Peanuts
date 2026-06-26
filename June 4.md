@@ -1,0 +1,46 @@
+Measles 10 sep 2011 3 dec 2011
+Menin 5 Aug 2012
+Mumps 3 dec 2011
+Rubella 3 dec 2011
+
+Center, Suite 231.
+
+Current Non-degree/Non-matriculated Students
+If you are looking to register for a course (or more) in a future semester and are currently attending, but still do not want to receive financial aid or enroll in a degree or certificate program, you will be sent an AVN (advisement verification number) to your Hudson Valley email account at the beginning of the enrollment cycle. To register via Hudson Valley WIReD, you will need to use the AVN.
+
+Following your acceptance, you will be able to call the Office of Student Outreach, Advisement and Retention at (518) 629-7219 to meet with an advisor and discuss how to register for classes. Walk-in advisement is available on a first-come, first-served basis in the Office of Student Outreach, Advisement and Retention, located in Guenther Enrollment Services Center, Suite 231.
+
+Once you schedule your courses, you will need 
+
+wed
+- [x] 1
+- [ ] chess
+- [ ] Violin
+thu
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] chess
+- [ ] violin
+
+ Salvati 7
+- [x] 1
+Cf
+- [ ] cf
+- [ ] cf
+- [ ] cf
+Usaaao 2023
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+Usaaao 2024
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+
+8 salvati 7 1
+9 salvati 7 2

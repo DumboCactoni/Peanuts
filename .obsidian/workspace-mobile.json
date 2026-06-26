@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "June 3.md",
+                "file": "June 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "June 3"
+              "title": "June 4"
             }
           }
         ],
@@ -194,11 +194,13 @@
   "active": "60510918f0fdfe20",
   "lastOpenFiles": [
     "26 June.md",
+    "June 1.md",
+    "26 May-August.md",
+    "plans.md",
+    "June 4.md",
+    "27 March-June.md",
     "June 3.md",
     "June 2.md",
-    "26 May-August.md",
-    "June 1.md",
-    "plans.md",
     "rowgcd.py",
     "linova.py",
     "26 July.md",
@@ -214,7 +216,6 @@
     "Books",
     "ktree.py",
     "26 September-February.md",
-    "27 March-June.md",
     "The nature of foreign.md",
     "Testing.md",
     "Library.md"
