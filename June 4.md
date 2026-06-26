@@ -1,3 +1,4 @@
+### hvcc info
 Measles 10 sep 2011 3 dec 2011
 Menin 5 Aug 2012
 Mumps 3 dec 2011
@@ -12,6 +13,7 @@ Following your acceptance, you will be able to call the Office of Student Outrea
 
 Once you schedule your courses, you will need 
 
+### habits
 wed
 - [x] 1
 - [ ] chess
@@ -24,20 +26,21 @@ thu
 - [x] violin
 friday
 - [ ] 1
-- [ ] 2
+- [x] 2
 - [ ] 3
 - [ ] chess
 - [ ] violin
  Salvati 7
 - [x] 1
 
+### tasks
 Cf
 - [ ] cf special permutation 
 - [ ] cf Fox and names
 - [ ] cf orac lcm
 Usaaao 2023
-- [ ] 1
-- [ ] 2
+- [x] 1
+- [x] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
@@ -52,10 +55,14 @@ IOAA 8
 - [ ] 2
 - [ ] 3
 
-2 2023 12
+
+### current
+~~2 2023 12~~
 3  cf 1
 4 2023 34
 7 2023 5 cf 2
 8 2024 12
 9 cf 2
+
+7 cf 1
 
