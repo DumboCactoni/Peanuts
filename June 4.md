@@ -32,9 +32,9 @@ friday
 - [x] 1
 
 Cf
-- [ ] cf
-- [ ] cf
-- [ ] cf
+- [ ] cf special permutation 
+- [ ] cf Fox and names
+- [ ] cf orac lcm
 Usaaao 2023
 - [ ] 1
 - [ ] 2
@@ -52,5 +52,10 @@ IOAA 8
 - [ ] 2
 - [ ] 3
 
-
+2 2023 12
+3  cf 1
+4 2023 34
+7 2023 5 cf 2
+8 2024 12
+9 cf 2
 
