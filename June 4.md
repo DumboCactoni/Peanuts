@@ -13,6 +13,8 @@ Following your acceptance, you will be able to call the Office of Student Outrea
 
 Once you schedule your courses, you will need 
 
+N pi r squared / 4 pi d squared =f
+
 ### habits
 wed
 - [x] 1
@@ -87,11 +89,15 @@ IOAA 8
 ~~11 2023 45~~
 
 ~~3 ioaa 1~~
-4 2023 45
+~~4 2023 45~~
+
+~~7 cf 2~~
+~~8 ioaa 2~~
+~~9 2024 12~~
 
 7 cf 2
-8 ioaa 2
-9 2024 12
+8 2023 45
+9 ioaa 2
 
 
 

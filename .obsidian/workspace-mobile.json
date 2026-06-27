@@ -72,7 +72,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#X",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -188,16 +188,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "60510918f0fdfe20",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-27 18.07.14.excalidraw.md",
+    "June 4.md",
+    "Excalidraw",
+    "specialperm.py",
     "26 June.md",
     "June 1.md",
     "26 May-August.md",
     "plans.md",
-    "June 4.md",
     "27 March-June.md",
     "June 3.md",
     "June 2.md",
