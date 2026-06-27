@@ -27,6 +27,12 @@ thu
 friday
 - [ ] 1
 - [x] 2
+- [x] 3
+- [x] chess
+- [x] violin
+saturday
+- [ ] 1
+- [ ] 2
 - [ ] 3
 - [ ] chess
 - [ ] violin
@@ -35,21 +41,26 @@ friday
 
 ### tasks
 Cf
-- [ ] cf special permutation 
+- [x] cf special permutation 
+  - [x] 1/2
 - [ ] cf Fox and names
+  - [ ] 1/2
 - [ ] cf orac lcm
+  - [ ] 1/2
 Usaaao 2023
 - [x] 1
 - [x] 2
-- [ ] 3
+- [x] 3
 - [ ] 4
 - [ ] 5
+- [ ] 6
 Usaaao 2024
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
+- [ ] 6
 IOAA 8
 - [ ] 1
 - [ ] 2
@@ -58,11 +69,20 @@ IOAA 8
 
 ### current
 ~~2 2023 12~~
-3  cf 1
-4 2023 34
-7 2023 5 cf 2
-8 2024 12
-9 cf 2
+~~3  cf 1~~
+~~4 2023 34~~
+~~7 2023 5 cf 2~~
+~~8 2024 12~~
+~~9 cf 2~~
 
-7 cf 1
+~~8 cf 1~~
+~~9 2023 34~~
+
+7 cf2
+9 2023 45
+10 ioaa 1
+11 cf2
+
+
+
 
