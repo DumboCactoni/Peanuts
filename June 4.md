@@ -31,8 +31,8 @@ friday
 - [x] chess
 - [x] violin
 saturday
-- [ ] 1
-- [ ] 2
+- [x] 1
+- [x] 2
 - [ ] 3
 - [ ] chess
 - [ ] violin
@@ -44,7 +44,7 @@ Cf
 - [x] cf special permutation 
   - [x] 1/2
 - [ ] cf Fox and names
-  - [ ] 1/2
+  - [x] 1/2
 - [ ] cf orac lcm
   - [ ] 1/2
 Usaaao 2023
@@ -78,10 +78,21 @@ IOAA 8
 ~~8 cf 1~~
 ~~9 2023 34~~
 
-7 cf2
-9 2023 45
-10 ioaa 1
-11 cf2
+~~7 cf2~~
+~~9 2023 45~~
+~~10 ioaa 1~~
+~~11 cf2~~
+
+~~10 ioaa1~~
+~~11 2023 45~~
+
+~~3 ioaa 1~~
+4 2023 45
+
+7 cf 2
+8 ioaa 2
+9 2024 12
+
 
 
 
