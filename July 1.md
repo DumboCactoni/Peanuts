@@ -3,8 +3,8 @@ Monday
 - [ ] 1
 - [ ] 2
 - [ ] 3
-- [ ] chess
-- [ ] violin
+- [x] chess
+- [x] violin
 Tuesday
 
 - [ ] 1
