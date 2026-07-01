@@ -1,4 +1,4 @@
-### habitsb
+### habits
 Monday
 - [ ] 1
 - [ ] 2
@@ -9,8 +9,8 @@ Tuesday
 
 - [x] 1
 - [x] 2
-- [ ] 3
-- [ ] chess
+- [x] 3
+- [x] chess
 - [x] violin
 Wednesday
 
@@ -68,6 +68,7 @@ Nt 5
 ### notes
 [[scioly leadership]]
 5 hour exam instead of seat time, easy cc enrollment, small districts, but how to make sure everyone can succeed
+I can't move on baby doll 
 
 nt 1.4
 - [x] 1

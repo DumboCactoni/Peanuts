@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "July 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -194,6 +194,7 @@
   },
   "active": "60510918f0fdfe20",
   "lastOpenFiles": [
+    "scioly leadership.md",
     "26 July.md",
     "26 May-August.md",
     "26 June.md",
