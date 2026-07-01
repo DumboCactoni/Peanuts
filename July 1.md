@@ -38,7 +38,7 @@ Nt 1
 - [x] 1
 - [x] 2
 - [x] 3
-- [ ] 4
+- [x] 4
 - [ ] 5
 Nt 2
 - [ ] 1
@@ -70,11 +70,4 @@ Nt 5
 5 hour exam instead of seat time, easy cc enrollment, small districts, but how to make sure everyone can succeed
 I can't move on baby doll 
 
-nt 1.4
-- [x] 1
-- [x] 2
-- [x] 3
-- [x] 4
-- [x] 5
-- [ ] 6
-- [ ] 7
+
