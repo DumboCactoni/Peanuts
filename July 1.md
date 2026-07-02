@@ -17,10 +17,29 @@ Wednesday
 - [x] 1
 - [x] 2
 - [x] 3
-- [ ] chess
-- [ ] violin
+- [x] chess
+- [x] violin
 Thursday
 
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] chess
+- [ ] violin
+Friday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] chess
+- [ ] violin
+Saturday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] chess
+- [ ] violin
+
+Sunday
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -44,26 +63,23 @@ Nt 2
 - [x] 1
 - [x] 2
 - [ ] 3
-- [ ] 4
+- [x] 4
 - [ ] 5
 Nt 3
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
+- [x] 1
+- [x] 2
+- [ ] 3 includes 3.4
 Nt 4
 - [ ] 1
 - [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
+- [ ] 3 find more
+- [ ] 4 find more
+- [ ] 5 find more
 Nt 5
 - [ ] 1
 - [ ] 2
 - [ ] 3
-- [ ] 4
-- [ ] 5
+- [ ] 4 vietas 
 
 ### notes
 [[scioly leadership]]

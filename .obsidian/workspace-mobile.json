@@ -188,20 +188,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "60510918f0fdfe20",
   "lastOpenFiles": [
+    "plans.md",
+    "July 1.md",
     "scioly leadership.md",
     "26 July.md",
     "26 May-August.md",
     "26 June.md",
     "June 4.md",
-    "July 1.md",
     "June 3.md",
     "June 2.md",
-    "plans.md",
     "Excalidraw/Drawing 2026-06-27 18.07.14.excalidraw.md",
     "Excalidraw",
     "specialperm.py",
