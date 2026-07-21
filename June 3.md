@@ -1,0 +1,57 @@
+math 6/22 D10
+history A15 6/17
+
+- [ ] calling residency vaccinations
+- [ ] cf linova
+- [ ] cf
+- [ ] cf
+- [ ] krotov
+  - [ ]  45,70
+	  - [x] 1 
+	  - [x] 2
+	  - [ ] 3
+	  - [ ] 4
+	  - [ ] 5
+  - [ ]  70,95
+	  - [ ] 1
+	  - [ ] 2
+	  - [ ] 3
+	  - [ ] 4
+	  - [ ] 5
+- [ ] f=ma 2022
+  - [ ] 1
+  - [ ] 2
+  - [ ] 3
+  - [ ] 4
+  - [ ] 5
+- [ ] chess
+	- [x] 1
+	- [x] 2
+	- [x] 4
+	- [ ] 4
+	- [ ] 5
+	- [ ] 6
+	- [ ] 7
+- [ ] violin
+	- [ ] 5
+	- [ ] 6
+	- [ ] 7
+- [ ] .
+
+3 
+4
+7
+8
+
+volunteen
+your driver's license, utility bill, last year w2, car registration, tax bill, purchase of house, passport
+my birth cert, state id, passport
+
+Driver's license 
+State id
+Car registration
+Purchase
+Passports
+Birth cert
+
+The guy next to us said the trigger word ai
