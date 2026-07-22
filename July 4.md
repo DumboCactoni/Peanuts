@@ -42,29 +42,33 @@ Sunday
 - [ ] violin
 - [ ] chess
 # tasks
-- [ ] call hvcc
+- [x] call hvcc
 - [ ] ns registration
-- [ ] License registration 
+- [x] License registration 
+- [ ] License test
 - [ ] cf
-  - [ ] 1
-  - [ ] 2
+- [ ] 1
+- [ ] 2
+
 - [ ] cf
-  - [ ] 1
-  - [ ] 2
+- [ ] 1
+- [ ] 2
+
 - [ ] cf
-  - [ ] 1
-  - [ ] 2
+- [ ] 1
+- [ ] 2
+
 - [ ] aime
-  - [ ] 4
-  - [ ] 5
-  - [ ] 6
-  - [ ] 7
-  - [ ] 8
-  - [ ] 9
-  - [ ] 10
-  - [ ] 11
-  - [ ] 12
-  - [ ] 13
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
 # tasks counting
 ## 3
 - [ ] 8
