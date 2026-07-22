@@ -6,10 +6,10 @@ Following your acceptance, you will be able to call the Office of Student Outrea
 
 Once you schedule your courses, you will need 
 
-Calc3
+Calc3 10724
 Differential equations
-Physics 2
-Physics 3
+Physics 2 10366,11404
+Physics 3 
 
 Modern physics
 Methods of theoretical physics

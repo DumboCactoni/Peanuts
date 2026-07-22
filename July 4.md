@@ -46,6 +46,14 @@ Sunday
 - [ ] ns registration
 - [x] License registration 
 - [ ] License test
+- [ ] micro
+- [ ] 1
+- [ ] 2
+
+- [ ] macro
+- [ ] 1
+- [ ] 2
+
 - [ ] cf
 - [ ] 1
 - [ ] 2
