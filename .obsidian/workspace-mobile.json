@@ -99,7 +99,17 @@
               "state": {
                 "file": "July 4.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "July 4"
@@ -253,10 +263,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e2980151d43f04c",
+  "active": "ad9d24e39629f782",
   "lastOpenFiles": [
-    "Hvcc.md",
+    "templates.md",
     "July 4.md",
+    "Hvcc.md",
     "26 July.md",
     "July 3.md",
     "26 May-August.md",
@@ -264,7 +275,6 @@
     "Numbers.md",
     "Master.md",
     "Notes.md",
-    "templates.md",
     "pittsburgh.md",
     "calculator.py",
     "arraypartition.py",
