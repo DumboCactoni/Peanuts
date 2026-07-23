@@ -9,6 +9,7 @@ def atan(x): return m.degrees(m.atan(x))
 def sqrt(x): return m.sqrt(x)
 def frac(x,y): return(x/y)
 def fpow(x,y,z): return((x/y)**z)
+def c(x,y): return m.comb(x,y)
 pi = m.pi
 gc = 6.67e-11
 ge = 9.81
@@ -17,6 +18,6 @@ yr = 365*24*3600
 au = 1.496e11
 ea = 23.5
 
-x=1-(35/36)**21
+x= 2*5*26**3-5*5*26**2
 
 print(f"{x:e}")

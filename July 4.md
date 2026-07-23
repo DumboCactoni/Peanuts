@@ -18,7 +18,7 @@ Wednesday
 - [ ] violin
 - [ ] chess
 Thursday
-- [ ] 1
+- [x] 1
 - [ ] 2
 - [ ] 3
 - [ ] violin
@@ -45,7 +45,7 @@ Sunday
 - [x] call hvcc
 - [ ] ns registration
 - [x] License registration 
-- [ ] License test
+- [x] License test
 - [ ] micro
 - [ ] 1
 - [ ] 2
@@ -97,10 +97,10 @@ Sunday
 - [x] 19
 - [x] 20
 - [x] 21
-- [ ] 22
-- [ ] 23
-- [ ] 24
-- [ ] 25
+- [x] 22
+- [x] 23
+- [x] 24
+- [x] 25
 - [ ] 26
 - [ ] 27
 - [ ] 28
