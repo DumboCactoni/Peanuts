@@ -1,47 +1,63 @@
 # habits
+
 Monday
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
+
 Tuesday
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
+
 Wednesday
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
+
 Thursday
+
 - [x] 1
 - [ ] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
+
 Friday
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
+
 Saturday
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
+
 Sunday
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
+
 # tasks
+
 - [x] call hvcc
 - [ ] ns registration
 - [x] License registration 
@@ -49,23 +65,18 @@ Sunday
 - [ ] micro
 - [ ] 1
 - [ ] 2
-
 - [ ] macro
 - [ ] 1
 - [ ] 2
-
 - [ ] cf
 - [ ] 1
 - [ ] 2
-
 - [ ] cf
 - [ ] 1
 - [ ] 2
-
 - [ ] cf
 - [ ] 1
 - [ ] 2
-
 - [ ] aime
 - [ ] 4
 - [ ] 5
@@ -77,12 +88,16 @@ Sunday
 - [ ] 11
 - [ ] 12
 - [ ] 13
+
 # tasks counting
+
 - [ ] 3
 - [ ] 4
 - [ ] 5
 - [ ] 6
+
 ## 3
+
 - [x] 8
 - [x] 9
 - [x] 10
@@ -101,10 +116,10 @@ Sunday
 - [x] 23
 - [x] 24
 - [x] 25
-- [ ] 26
-- [ ] 27
-- [ ] 28
-- [ ] 29
+- [x] 26
+- [x] 27
+- [x] 28
+- [x] 29
 - [ ] 30
 - [ ] 31
 - [ ] 32
@@ -120,7 +135,9 @@ Sunday
 - [ ] 42
 - [ ] 43
 - [ ] 44
+
 ## 4
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -168,7 +185,9 @@ Sunday
 - [ ] 45
 - [ ] 46
 - [ ] 47
+
 ## 5
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -197,7 +216,9 @@ Sunday
 - [ ] 26
 - [ ] 27
 - [ ] 28
+
 ## 6
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -219,6 +240,12 @@ Sunday
 - [ ] 19
 - [ ] 20
 - [ ] 21
+
 # notes
+
 [[Hvcc]] avn
 [[templates]]
+
+$$
+2*10*10-
+$$
