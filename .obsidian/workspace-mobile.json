@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "July 4.md",
+                "file": "Hvcc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "July 4"
+              "title": "Hvcc"
             }
           }
         ],
@@ -265,13 +265,13 @@
   },
   "active": "ad9d24e39629f782",
   "lastOpenFiles": [
-    "Hvcc.md",
     "July 4.md",
     "26 July.md",
-    "templates.md",
-    "July 3.md",
     "26 May-August.md",
     "plans.md",
+    "Hvcc.md",
+    "templates.md",
+    "July 3.md",
     "Numbers.md",
     "Master.md",
     "Notes.md",

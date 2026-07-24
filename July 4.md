@@ -27,7 +27,7 @@ Wednesday
 Thursday
 
 - [x] 1
-- [ ] 2
+- [x] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
@@ -62,21 +62,27 @@ Sunday
 - [ ] ns registration
 - [x] License registration 
 - [x] License test
+
 - [ ] micro
 - [ ] 1
 - [ ] 2
+
 - [ ] macro
 - [ ] 1
 - [ ] 2
+
 - [ ] cf
 - [ ] 1
 - [ ] 2
+
 - [ ] cf
 - [ ] 1
 - [ ] 2
+
 - [ ] cf
 - [ ] 1
 - [ ] 2
+
 - [ ] aime
 - [ ] 4
 - [ ] 5
@@ -120,9 +126,9 @@ Sunday
 - [x] 27
 - [x] 28
 - [x] 29
-- [ ] 30
-- [ ] 31
-- [ ] 32
+- [x] 30
+- [x] 31
+- [x] 32
 - [ ] 33
 - [ ] 34
 - [ ] 35
@@ -133,8 +139,8 @@ Sunday
 - [ ] 40
 - [ ] 41
 - [ ] 42
-- [ ] 43
-- [ ] 44
+- [x] 43
+- [x] 44
 
 ## 4
 
@@ -246,6 +252,7 @@ Sunday
 [[Hvcc]] avn
 [[templates]]
 
-$$
-2*10*10-
-$$
+num_winless = 
+num_undefeated = 
+den = 2**(4*3*2*1)
+x = 1-frac(num_winless+num_undefeated,den)

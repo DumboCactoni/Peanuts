@@ -25,5 +25,10 @@ def equations(variables):
     return [eq1, eq2]
 #fsolve(equations, [1,1])
 
-x = 26**4-3*26**3+3*26**2-26
+num0 = 26**3*10**2+26**2*10**3
+num1 = -26**2*10**2 
+den = 26**3*10**3
+x = frac(num0+num1,den)
+print(7/52)
+
 print(f"{x:e}")
