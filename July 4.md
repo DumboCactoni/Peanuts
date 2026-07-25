@@ -27,15 +27,15 @@ Wednesday
 Thursday
 
 - [x] 1
-- [ ] 2
+- [x] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
 
 Friday
 
-- [ ] 1
-- [ ] 2
+- [x] 1
+- [x] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
@@ -246,6 +246,4 @@ Sunday
 [[Hvcc]] avn
 [[templates]]
 
-$$
-2*10*10-
-$$
+percent of games with winless + percent with undefeated - percent with both = percent with either   
