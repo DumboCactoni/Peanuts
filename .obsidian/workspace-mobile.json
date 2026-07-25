@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hvcc.md",
+                "file": "July 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hvcc"
+              "title": "July 4"
             }
           }
         ],
@@ -265,11 +265,14 @@
   },
   "active": "ad9d24e39629f782",
   "lastOpenFiles": [
+    "essays.md",
     "July 4.md",
+    "Society",
+    "July 2.md",
+    "Hvcc.md",
     "26 July.md",
     "26 May-August.md",
     "plans.md",
-    "Hvcc.md",
     "templates.md",
     "July 3.md",
     "Numbers.md",
@@ -279,9 +282,7 @@
     "calculator.py",
     "arraypartition.py",
     "arrayconstruct.py",
-    "essays.md",
     "encrypt.py",
-    "July 2.md",
     "Habits.md",
     "main.txt",
     "27 March-June.md",
@@ -295,11 +296,9 @@
     "July 1.md",
     "scioly leadership.md",
     "June 3.md",
-    "June 2.md",
     "Excalidraw",
     "specialperm.py",
     "rowgcd.py",
-    "linova.py",
-    "maze.py"
+    "linova.py"
   ]
 }

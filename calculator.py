@@ -11,6 +11,7 @@ def sqrt(x): return m.sqrt(x)
 def frac(x,y): return(x/y)
 def fpow(x,y,z): return((x/y)**z)
 def c(x,y): return m.comb(x,y)
+def xcl(x): return m.factorial(x)
 pi = m.pi
 gc = 6.67e-11
 ge = 9.81
@@ -25,10 +26,8 @@ def equations(variables):
     return [eq1, eq2]
 #fsolve(equations, [1,1])
 
-num0 = 26**3*10**2+26**2*10**3
-num1 = -26**2*10**2 
-den = 26**3*10**3
-x = frac(num0+num1,den)
-print(7/52)
+
+x=(10**3*c(5,3)
+-3*10**2*c(5,4)+10*6)
 
 print(f"{x:e}")
