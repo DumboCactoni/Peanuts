@@ -8,7 +8,7 @@
 - [x] creative
 - [x] number theory 
 - [ ] counting and prob 3-8
-- [ ] evan chen instead of astro
+- [x] evan chen instead of astro
 
 [[26 August]] phys astro math phys
 - [ ] 200 confusing
