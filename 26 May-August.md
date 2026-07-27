@@ -15,4 +15,9 @@
 - [ ] counting and prob 9-14
 - [ ] ioaa
 
+to check
+- [ ] ioaa?
+- [ ] math counting
+- [ ] 200 confusing
+
 

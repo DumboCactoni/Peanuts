@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "August 1.md",
+                "file": "26 May-August.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "August 1"
+              "title": "26 May-August"
             }
           }
         ],
@@ -159,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "August 1.md",
+            "file": "26 May-August.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -217,16 +217,16 @@
   },
   "active": "40939eec1a3f7793",
   "lastOpenFiles": [
-    "26 August.md",
+    "plans.md",
     "26 May-August.md",
+    "26 August.md",
+    "August 1.md",
     "26 July.md",
     "July 4.md",
     "templates.md",
-    "August 1.md",
     "Hvcc.md",
     "essays.md",
     "July 2.md",
-    "plans.md",
     "Master.md",
     "Society",
     "July 3.md",
