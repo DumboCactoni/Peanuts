@@ -7,7 +7,6 @@
 [[26 July]] math phys astro math
 - [x] creative
 - [x] number theory 
-- [ ] counting and prob 3-8
 - [x] evan chen instead of astro
 
 [[26 August]] phys astro math phys

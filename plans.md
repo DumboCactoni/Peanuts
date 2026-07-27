@@ -4,6 +4,8 @@
 [[27 March-June]]
 
 always start from the back
+- [ ] ioaa?
+- [ ] math counting
 ### Physics
 - [ ] Coriolis effect
 - [ ] review oscillations
@@ -61,8 +63,8 @@ always start from the back
 - [ ] 3 problems
 
 ##### counting and prob
-- [ ] 3
-- [ ] 4
+- [x] 3
+- [x] 4
 - [ ] 5
 - [ ] 6
 - [ ] 7

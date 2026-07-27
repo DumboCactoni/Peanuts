@@ -26,8 +26,5 @@ def equations(variables):
     return [eq1, eq2]
 #fsolve(equations, [1,1])
 
-
-x=(10**3*c(5,3)
--3*10**2*c(5,4)+10*6)
-
+x=17/7
 print(f"{x:e}")
