@@ -12,6 +12,7 @@ def frac(x,y): return(x/y)
 def fpow(x,y,z): return((x/y)**z)
 def c(x,y): return m.comb(x,y)
 def xcl(x): return m.factorial(x)
+def sum(x,y,z): return ((y-x)//z+1)*(x+y)
 pi = m.pi
 gc = 6.67e-11
 ge = 9.81
@@ -26,5 +27,11 @@ def equations(variables):
     return [eq1, eq2]
 #fsolve(equations, [1,1])
 
-x=17/7
+numgames=sum(1,4,1)
+x = 1-frac(
+    5*2**(numgames-4)*2-5*4*2**(numgames-7)
+    ,2**numgames
+)
+print(17/32)
+
 print(f"{x:e}")

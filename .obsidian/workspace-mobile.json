@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans.md",
+                "file": "July 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "plans"
+              "title": "July 4"
             }
           }
         ],
@@ -207,7 +207,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "plans.md",
+            "file": "July 4.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -265,14 +265,14 @@
   },
   "active": "ad9d24e39629f782",
   "lastOpenFiles": [
-    "26 May-August.md",
     "26 July.md",
+    "26 May-August.md",
+    "plans.md",
     "July 4.md",
     "essays.md",
     "Society",
     "July 2.md",
     "Hvcc.md",
-    "plans.md",
     "templates.md",
     "July 3.md",
     "Numbers.md",

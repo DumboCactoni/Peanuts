@@ -34,8 +34,8 @@ Thursday
 
 Friday
 
-- [ ] 1
-- [ ] 2
+- [x] 1
+- [x] 2
 - [ ] 3
 - [ ] violin
 - [ ] chess
@@ -265,8 +265,3 @@ Your school’s in a beautiful location, and part of the reason I chose it was t
 
 Cheers,
 Jiashen
-
-9 46
-9.30 45
-10 44
-10.30 43
