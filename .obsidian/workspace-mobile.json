@@ -20,84 +20,12 @@
             }
           },
           {
-            "id": "591d9c026b3518c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Numbers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Numbers"
-            }
-          },
-          {
-            "id": "22c957376a46398d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hvcc.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hvcc"
-            }
-          },
-          {
-            "id": "ed2621bbe3c89693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hvcc.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hvcc"
-            }
-          },
-          {
             "id": "ad9d24e39629f782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "July 4.md",
+                "file": "August 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,11 +40,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "July 4"
+              "title": "August 1"
+            }
+          },
+          {
+            "id": "40939eec1a3f7793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "August 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "August 1"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "July 4.md",
+            "file": "August 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -263,20 +215,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "ad9d24e39629f782",
+  "active": "40939eec1a3f7793",
   "lastOpenFiles": [
-    "26 July.md",
+    "26 August.md",
     "26 May-August.md",
-    "plans.md",
+    "26 July.md",
     "July 4.md",
-    "essays.md",
-    "Society",
-    "July 2.md",
-    "Hvcc.md",
     "templates.md",
+    "August 1.md",
+    "Hvcc.md",
+    "essays.md",
+    "July 2.md",
+    "plans.md",
+    "Master.md",
+    "Society",
     "July 3.md",
     "Numbers.md",
-    "Master.md",
     "Notes.md",
     "pittsburgh.md",
     "calculator.py",
@@ -295,7 +249,6 @@
     "May 4.md",
     "July 1.md",
     "scioly leadership.md",
-    "June 3.md",
     "Excalidraw",
     "specialperm.py",
     "rowgcd.py",
