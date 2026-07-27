@@ -27,11 +27,5 @@ def equations(variables):
     return [eq1, eq2]
 #fsolve(equations, [1,1])
 
-numgames=sum(1,4,1)
-x = 1-frac(
-    5*2**(numgames-4)*2-5*4*2**(numgames-7)
-    ,2**numgames
-)
-print(17/32)
-
+x=2000*365*4
 print(f"{x:e}")

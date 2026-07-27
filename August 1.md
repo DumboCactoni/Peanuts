@@ -1,7 +1,68 @@
 # habits
+Monday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] violin
+- [ ] chess
+Tuesday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] violin
+- [ ] chess
+Wednesday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] violin
+- [ ] chess
+Thursday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] violin
+- [ ] chess
+Friday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] violin
+- [ ] chess
+Saturday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] violin
+- [ ] chess
+Sunday
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] violin
+- [ ] chess
 # tasks
+- [ ] hvcc
 
+- [ ] micro
+- [ ] 1
+- [ ] 2
 
+- [ ] macro
+- [ ] 1
+- [ ] 2
+
+- [ ] cf almost all divisors 1165d
+- [ ] 1
+- [ ] 2
+
+- [ ] cf hard problem 706c
+- [ ] 1
+- [ ] 2
+
+- [ ] cf 1528a parsas humongous tree
+- [ ] 1
+- [ ] 2
 ##### f=ma 2023
 - [ ] 1
 - [ ] 2

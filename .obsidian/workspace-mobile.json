@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26 May-August.md",
+                "file": "Hvcc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26 May-August"
+              "title": "Hvcc"
             }
           }
         ],
@@ -159,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "26 May-August.md",
+            "file": "August 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -217,14 +217,14 @@
   },
   "active": "40939eec1a3f7793",
   "lastOpenFiles": [
-    "plans.md",
-    "26 May-August.md",
-    "26 August.md",
     "August 1.md",
+    "Hvcc.md",
+    "templates.md",
+    "26 August.md",
+    "26 May-August.md",
+    "plans.md",
     "26 July.md",
     "July 4.md",
-    "templates.md",
-    "Hvcc.md",
     "essays.md",
     "July 2.md",
     "Master.md",
