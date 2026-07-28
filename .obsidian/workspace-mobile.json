@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "ad9d24e39629f782",
+            "id": "57fb24a0e25c899f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,31 +44,17 @@
             }
           },
           {
-            "id": "40939eec1a3f7793",
+            "id": "ca0087ccbb29bc4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "August 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "August 1"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,15 +201,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "40939eec1a3f7793",
+  "active": "57fb24a0e25c899f",
   "lastOpenFiles": [
-    "Hvcc.md",
-    "August 1.md",
-    "essays.md",
-    "templates.md",
     "26 August.md",
+    "August 1.md",
     "26 May-August.md",
     "plans.md",
+    "2026-07-28.md",
+    "Hvcc.md",
+    "essays.md",
+    "templates.md",
     "26 July.md",
     "July 4.md",
     "July 2.md",
@@ -248,7 +235,6 @@
     "May 3.md",
     "May 4.md",
     "July 1.md",
-    "scioly leadership.md",
     "Excalidraw",
     "specialperm.py",
     "rowgcd.py",

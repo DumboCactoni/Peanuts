@@ -290,7 +290,7 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 
 142, 185*, 199*.
 
-# notes
+# schedule
 [[essays]]
 [[hvcc]]
 [[templates]]
@@ -324,11 +324,7 @@ Collisions rigid bodies
 8.15.1011
 8.30.1213
 
-
-
-
-
-
+# notes
 how to use a git rebase to delete commit history 
 design such that suburban urbanism?
 sc at the root of all problems: consolidated districts
@@ -338,8 +334,4 @@ How to regulate financial system
 
 calc 2 physics 1 prerequisites
 ![[hvcc#registration]]
-
-
-
-
 
