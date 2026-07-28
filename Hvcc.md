@@ -5,7 +5,11 @@ If you are looking to register for a course (or more) in a future semester and a
 Following your acceptance, you will be able to call the Office of Student Outreach, Advisement and Retention at (518) 629-7219 to meet with an advisor and discuss how to register for classes. Walk-in advisement is available on a first-come, first-served basis in the Office of Student Outreach, Advisement and Retention, located in Guenther Enrollment Services Center, Suite 231.
 
 Once you schedule your courses, you will need 
+The ID Card Office is located on the first floor of Guenther Enrollment Services Center and is open at the beginning of each semester.
 
+If you are unable to obtain your ID card when the ID card office is open, please go to the Office of Public Safety in the Siek Campus Center, Room 170.
+
+### courses
 Calc3 10724
 Differential equations
 Physics 2 10366,11404

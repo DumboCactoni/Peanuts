@@ -7,7 +7,6 @@
 [[26 July]] math phys astro math
 - [x] creative
 - [x] number theory 
-- [ ] counting and prob 3-8
 - [x] evan chen instead of astro
 
 [[26 August]] phys astro math phys
@@ -15,5 +14,11 @@
 - [ ] 200 more confusing
 - [ ] counting and prob 9-14
 - [ ] ioaa
+
+to check
+- [ ] ioaa?
+- [x] salvati 
+- [ ] math counting
+- [ ] 200 confusing
 
 

@@ -34,8 +34,5 @@ def factors(num):
             factors.append(num//indice)
     return factors
 
-x=0
-print(sum(1,9,1))
-print(factors(11111))
-
+x=2000*365*4
 print(f"{x:e}")

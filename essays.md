@@ -1,3 +1,2 @@
 physics -> economics, modeling -> real life
-
-IwoCBxAADkEPFUwDBhMOBApbVCMJA0YDCx8JRQIBGwcDAAgSTAwAUAEEDRAEAwgJCEJFNgYAExcaGhLigbgVRhgNEgRFEg8YEVcHEwUHDB0XRQ0HFAZXAAgCTBYGEw4EHFUSGBNGBxwVFhEXAAAWEQRP
+it all starts with school choice 
