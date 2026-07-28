@@ -295,34 +295,27 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 [[hvcc]]
 [[templates]]
 
-7 id
-8 breakfast
-9 golf 
-11 guenther
-12 lunch panera 
-1 bicycle
+collisions rigid bodies
+400 20  45
+415  46  47
+430  48  71
+445  72*  93
+500  94  144*
+515  194  195.
+530 39*  42**
+545  58  60*
 
-Collisions rigid bodies
-2,12
-2.15,34
-2.30,56
-2.45,78
-3,910
-3.15,12
-3.30,34
-3.45,56
-4,78
-4.15,910
-4.30,1112
-4.45,1314
+700  61 **  94
+715  95*  96
+730 97*  98
+745  99**. 0
 
-7 ropes 12
-7.15.34
-7.30.56
-7.45.67
-8.89
-8.15.1011
-8.30.1213
+830 4  67
+845  81 **  100
+900  101 *  102**
+915  103*  104*
+930  105**  106*
+945  108**. 0
 
 # notes
 how to use a git rebase to delete commit history 
@@ -331,6 +324,7 @@ sc at the root of all problems: consolidated districts
 commission to investigate regulations that need to be curbed 
 Markdown note embed in vscode
 How to regulate financial system 
+Why aren’t toll machines the same as the highway sign
 
 calc 2 physics 1 prerequisites
 ![[hvcc#registration]]
