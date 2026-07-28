@@ -97,7 +97,7 @@ Sunday
 
 # tasks counting
 
-- [ ] 3
+- [x] 3
 - [ ] 4
 - [ ] 5
 - [ ] 6
@@ -138,7 +138,7 @@ Sunday
 - [x] 39
 - [x] 40
 - [x] 41
-- [ ] 42
+- [x] 42
 - [x] 43
 - [x] 44
 
@@ -149,8 +149,8 @@ Sunday
 - [x] 3
 - [x] 4
 - [x] 5
-- [ ] 6
-- [ ] 7
+- [x] 6
+- [x] 7
 - [ ] 8
 - [ ] 9
 - [ ] 10
@@ -259,16 +259,12 @@ num_undefeated =
 den = 2**(4*3*2*1)
 x = 1-frac(num_winless+num_undefeated,den)
 
-5 42
-5.30 678
-5.45 910
-6 1112
-6.15 131415
-6.30 161718
-6.45 1920
+
 
 Peddie school
 Pierrepont school
+
+
 
 
 Hi, this is Jiashen, a 10th grader looking to enroll this fall. My family and I are looking at private schools in the region, because my dad is leaving the country for work reasons, and I, a non citizen, still needs a visa to stay to complete my studies. Just as a start, I have a PSAT score of 1470 and a SSAT score of 2382. I lived in Singapore till 9th grade. I entered a gifted education program in 3rd grade, and later studied at Hwa Chong Institution with a perfect score on the entrance exam. I now live upstate in Albany NY, and at shaker high school for 9th and 10th grade. 

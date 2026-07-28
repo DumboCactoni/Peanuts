@@ -12,7 +12,7 @@ def frac(x,y): return(x/y)
 def fpow(x,y,z): return((x/y)**z)
 def c(x,y): return m.comb(x,y)
 def xcl(x): return m.factorial(x)
-def sum(x,y,z): return ((y-x)//z+1)*(x+y)
+def sum(x,y,z): return ((y-x)//z+1)*(x+y)/2
 pi = m.pi
 gc = 6.67e-11
 ge = 9.81
@@ -26,11 +26,16 @@ def equations(variables):
     #eq2 =
     return [eq1, eq2]
 #fsolve(equations, [1,1])
+def factors(num):
+    factors = []
+    for indice in range(2,int(sqrt(num))+1):
+        if num%indice==0: 
+            factors.append(indice)
+            factors.append(num//indice)
+    return factors
 
-numgames=sum(1,4,1)
-x = 1-frac(
-    5*2**(numgames-4)*2-5*4*2**(numgames-7)
-    ,2**numgames
-)
-print(17/32)
+x=0
+print(sum(1,9,1))
+print(factors(11111))
+
 print(f"{x:e}")
