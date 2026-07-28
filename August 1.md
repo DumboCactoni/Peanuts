@@ -42,7 +42,8 @@ Sunday
 - [ ] violin
 - [ ] chess
 # tasks
-- [ ] hvcc
+- [x] hvcc
+- [ ] math placement hvcc
 
 - [ ] micro
 - [ ] 1
@@ -204,8 +205,8 @@ Sunday
 - [ ] B 51
 - [ ] B 107.
 ##### collisions rigid bodies
-- [ ] 20
-- [ ]  45
+- [x] 20
+- [x]  45
 - [ ]  46
 - [ ]  47
 - [ ]  48
@@ -290,42 +291,23 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 
 142, 185*, 199*.
 
-# schedule
+# notes
 [[essays]]
 [[hvcc]]
 [[templates]]
+calc 2 physics 1 prerequisites
+![[hvcc#registration]]
 
-collisions rigid bodies
-400 20  45
-415  46  47
-430  48  71
-445  72*  93
-500  94  144*
-515  194  195.
-530 39*  42**
-545  58  60*
-
-700  61 **  94
-715  95*  96
-730 97*  98
-745  99**. 0
-
-830 4  67
-845  81 **  100
-900  101 *  102**
-915  103*  104*
-930  105**  106*
-945  108**. 0
-
-# notes
+###### burning questions
 how to use a git rebase to delete commit history 
 design such that suburban urbanism?
+why do suburbs use stroads that still have lights?
 sc at the root of all problems: consolidated districts
 commission to investigate regulations that need to be curbed 
-Markdown note embed in vscode
 How to regulate financial system 
 Why aren’t toll machines the same as the highway sign
 
-calc 2 physics 1 prerequisites
-![[hvcc#registration]]
+
+
+
 
