@@ -44,6 +44,7 @@ Sunday
 # tasks
 - [x] hvcc
 - [ ] math placement hvcc
+- [ ] ssat registration
 
 - [ ] micro
 - [ ] 1
@@ -135,7 +136,7 @@ Sunday
 - [ ] 36
 - [ ] 37
 - [ ] 38
-- [ ] 40
+- [x] 40
 - [ ] 41
 - [ ] 64
 - [ ] 65
@@ -208,15 +209,15 @@ Sunday
 - [x] 20
 - [x]  45
 - [ ]  46
-- [ ]  47
-- [ ]  48
-- [ ]  71
-- [ ]  72*
+- [x]  47
+- [x]  48
+- [x]  71
+- [x]  72*
 - [ ]  93
-- [ ]  94
+- [x]  94
 - [ ]  144*
-- [ ]  194
-- [ ]  195.
+- [x]  194
+- [x]  195.
 - [ ] 39*
 - [ ]  42**
 - [ ]  58
@@ -300,12 +301,15 @@ calc 2 physics 1 prerequisites
 
 ###### burning questions
 how to use a git rebase to delete commit history 
-design such that suburban urbanism?
-why do suburbs use stroads that still have lights?
+design such that suburban urbanism? 
 sc at the root of all problems: consolidated districts
 commission to investigate regulations that need to be curbed 
 How to regulate financial system 
 Why aren’t toll machines the same as the highway sign
+clothes to wear for inclement weather
+why fund colleges
+how to do entrance for charters
+the things that send you ingredients
 
 
 
