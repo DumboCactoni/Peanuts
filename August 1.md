@@ -173,7 +173,7 @@ Sunday
 - [ ]  144*
 - [x]  194
 - [x]  195.
-- [ ] 39*
+- [x] 39*
 - [ ]  42**
 - [ ]  58
 - [ ]  60*
@@ -229,7 +229,7 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 [[hvcc]]
 [[templates]]
 calc 2 physics 1 prerequisites
-![[hvcc]]
+![[hvcc#courses]]
 
 ###### burning questions
 how to use a git rebase to delete commit history 
