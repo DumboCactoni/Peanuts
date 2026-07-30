@@ -1,44 +1,23 @@
 # habits
 Monday
-- [ ] 1
-- [ ] 2
-- [ ] 3
 - [x] violin
 - [x] chess
 Tuesday
-- [ ] 1
-- [ ] 2
-- [ ] 3
 - [ ] violin
 - [ ] chess
 Wednesday
-- [ ] 1
-- [ ] 2
-- [ ] 3
 - [ ] violin
 - [ ] chess
 Thursday
-- [ ] 1
-- [ ] 2
-- [ ] 3
 - [ ] violin
 - [ ] chess
 Friday
-- [ ] 1
-- [ ] 2
-- [ ] 3
 - [ ] violin
 - [ ] chess
 Saturday
-- [ ] 1
-- [ ] 2
-- [ ] 3
 - [ ] violin
 - [ ] chess
 Sunday
-- [ ] 1
-- [ ] 2
-- [ ] 3
 - [ ] violin
 - [ ] chess
 # tasks
@@ -290,34 +269,11 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 
 142, 185*, 199*.
 
-# schedule
+# notes
 [[essays]]
 [[hvcc]]
 [[templates]]
 
-collisions rigid bodies
-400 20  45
-415  46  47
-430  48  71
-445  72*  93
-500  94  144*
-515  194  195.
-530 39*  42**
-545  58  60*
-
-700  61 **  94
-715  95*  96
-730 97*  98
-745  99**. 0
-
-830 4  67
-845  81 **  100
-900  101 *  102**
-915  103*  104*
-930  105**  106*
-945  108**. 0
-
-# notes
 how to use a git rebase to delete commit history 
 design such that suburban urbanism?
 sc at the root of all problems: consolidated districts
@@ -327,5 +283,6 @@ How to regulate financial system
 Why aren’t toll machines the same as the highway sign
 
 calc 2 physics 1 prerequisites
+![[Hvcc#courses]]
 ![[hvcc#registration]]
 
