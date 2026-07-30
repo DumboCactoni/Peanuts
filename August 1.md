@@ -242,4 +242,7 @@ clothes to wear for inclement weather
 why fund colleges
 how to do entrance for charters
 the things that send you ingredients
+What stops big telecom from giving ridiculously slow WiFi speeds or bad coverage: how can you tell actual coverage quality 
+Creation of fiduciary duty more explicit 
+What’s stopping ridiculously small food portions 
 
