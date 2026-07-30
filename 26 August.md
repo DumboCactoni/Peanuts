@@ -7,8 +7,6 @@ August 3
 Wed • Aug 12: Pictures from an Exhibition with Daniele Rustioni (with violinist Bomsori Kim).
 Sat • Aug 15: Beethoven's Ninth with Yannick (the centerpiece celebrating the 1966 opening season piece).
 
-August 4
-Thu • Aug 20: Gershwin's An American in Paris (with pianist Michelle Cann).
 
 
 # [[August 1]]

@@ -259,6 +259,14 @@ num_undefeated =
 den = 2**(4*3*2*1)
 x = 1-frac(num_winless+num_undefeated,den)
 
+
+
+Peddie school
+Pierrepont school
+
+
+
+
 Hi, this is Jiashen, a 10th grader looking to enroll this fall. My family and I are looking at private schools in the region, because my dad is leaving the country for work reasons, and I, a non citizen, still needs a visa to stay to complete my studies. Just as a start, I have a PSAT score of 1470 and a SSAT score of 2382. I lived in Singapore till 9th grade. I entered a gifted education program in 3rd grade, and later studied at Hwa Chong Institution with a perfect score on the entrance exam. I now live upstate in Albany NY, and at shaker high school for 9th and 10th grade. 
 
 Your school’s in a beautiful location, and part of the reason I chose it was the semi-suburban setting, which reminds of Albany, and that I really enjoy. Anyways, I am really interested in attending, so please let me know if you’re accepting new students, and of any next steps. Thanks!

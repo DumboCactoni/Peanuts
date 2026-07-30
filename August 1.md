@@ -21,7 +21,9 @@ Sunday
 - [ ] violin
 - [ ] chess
 # tasks
-- [ ] hvcc
+- [x] hvcc
+- [ ] math placement hvcc
+- [ ] ssat registration
 
 - [ ] micro
 - [ ] 1
@@ -113,7 +115,7 @@ Sunday
 - [ ] 36
 - [ ] 37
 - [ ] 38
-- [ ] 40
+- [x] 40
 - [ ] 41
 - [ ] 64
 - [ ] 65
@@ -183,18 +185,18 @@ Sunday
 - [ ] B 51
 - [ ] B 107.
 ##### collisions rigid bodies
-- [ ] 20
-- [ ]  45
+- [x] 20
+- [x]  45
 - [ ]  46
-- [ ]  47
-- [ ]  48
-- [ ]  71
-- [ ]  72*
+- [x]  47
+- [x]  48
+- [x]  71
+- [x]  72*
 - [ ]  93
-- [ ]  94
+- [x]  94
 - [ ]  144*
-- [ ]  194
-- [ ]  195.
+- [x]  194
+- [x]  195.
 - [ ] 39*
 - [ ]  42**
 - [ ]  58
@@ -273,16 +275,18 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 [[essays]]
 [[hvcc]]
 [[templates]]
+calc 2 physics 1 prerequisites
+![[hvcc]]
 
+###### burning questions
 how to use a git rebase to delete commit history 
-design such that suburban urbanism?
+design such that suburban urbanism? 
 sc at the root of all problems: consolidated districts
 commission to investigate regulations that need to be curbed 
-Markdown note embed in vscode
 How to regulate financial system 
 Why aren’t toll machines the same as the highway sign
-
-calc 2 physics 1 prerequisites
-![[Hvcc#courses]]
-![[hvcc#registration]]
+clothes to wear for inclement weather
+why fund colleges
+how to do entrance for charters
+the things that send you ingredients
 
