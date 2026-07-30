@@ -9,7 +9,7 @@ The ID Card Office is located on the first floor of Guenther Enrollment Services
 
 If you are unable to obtain your ID card when the ID card office is open, please go to the Office of Public Safety in the Siek Campus Center, Room 170.
 
-### courses
+e### courses
 Calc3 10724
 Differential equations
 Physics 2 10366,11404
