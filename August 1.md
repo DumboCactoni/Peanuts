@@ -44,32 +44,8 @@ Sunday
 - [ ] cf 1528a parsas humongous tree
 - [ ] 1
 - [ ] 2
-##### f=ma 2023
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [ ] 14
-- [ ] 15
-- [ ] 16
-- [ ] 17
-- [ ] 18
-- [ ] 19
-- [ ] 20
-- [ ] 21
-- [ ] 22
-- [ ] 23
-- [ ] 24
-- [ ] 25
+
+- [ ] Ap calc bc past paper
 ##### f=ma 2022b
 - [ ] 1
 - [ ] 2
@@ -175,12 +151,12 @@ Sunday
 - [x]  195.
 - [x] 39*
 - [ ]  42**
-- [ ]  58
+- [x]  58
 - [ ]  60*
 - [ ]  61 **
-- [ ]  94
+- [x]  94
 - [ ]  95*
-- [ ]  96
+- [x]  96
 - [ ]  97*
 - [ ]  98
 - [ ]  99**.
@@ -228,8 +204,29 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 [[essays]]
 [[hvcc]]
 [[templates]]
+
+7 **sleep**
+8 breakfast
+9 golf
+10 golf
+11 **shower physics email**
+12 lunch
+1
+2
+3
+4 golf
+5 dinner
+6
+7
+8
+9
+10
+
+
+
 calc 2 physics 1 prerequisites
 ![[hvcc#courses]]
+
 
 ###### burning questions
 how to use a git rebase to delete commit history 
