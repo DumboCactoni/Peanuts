@@ -139,7 +139,7 @@ Sunday
 ##### collisions rigid bodies
 - [x] 20
 - [x]  45
-- [ ]  46
+- [x]  46
 - [x]  47
 - [x]  48
 - [x]  71
@@ -211,9 +211,9 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 10 golf
 11 **shower physics email**
 12 lunch
-1
-2
-3
+1 **physics**
+2 **physics**
+3 **physics**
 4 golf
 5 dinner
 6
@@ -222,6 +222,7 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 9
 10
 
+https://chatgpt.com/share/6a6cf618-055c-83ea-839c-1a239d3b232b
 
 
 calc 2 physics 1 prerequisites
