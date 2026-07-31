@@ -63,16 +63,8 @@ always start from the back
 ##### counting and prob
 - [x] 3
 - [x] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [ ] 14
+
+###### test
 
 ### Astronomy
 - [ ] exoplanets
@@ -98,6 +90,7 @@ always start from the back
 - [ ] 22
 
 ##### salvati
+only exercises
 - [ ] 1
 - [ ] 2
 - [ ] 3

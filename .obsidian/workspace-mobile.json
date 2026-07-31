@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "57fb24a0e25c899f",
+            "id": "edb687ac944633b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,16 +41,6 @@
               },
               "icon": "lucide-file",
               "title": "August 1"
-            }
-          },
-          {
-            "id": "ca0087ccbb29bc4e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ],
@@ -178,7 +168,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The nature of foreign.md",
+            "file": "August 1.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -188,7 +178,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,21 +191,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "57fb24a0e25c899f",
+  "active": "edb687ac944633b2",
   "lastOpenFiles": [
-    "templates.md",
-    "August 1.md",
-    "Hvcc.md",
-    "schedule.py",
     "26 August.md",
+    "August 1.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Hvcc.md",
+    "dailynotes/2026-07-31.md",
+    "dailynotes/2026-07-30.md",
+    "dailynotes",
+    "2026-07-30.md",
     "26 May-August.md",
     "plans.md",
+    "Master.md",
+    "templates.md",
+    "schedule.py",
     "2026-07-28.md",
     "essays.md",
     "26 July.md",
     "July 4.md",
     "July 2.md",
-    "Master.md",
     "Society",
     "July 3.md",
     "Numbers.md",
@@ -231,12 +227,6 @@
     "26 June.md",
     "June 4.md",
     "Excalidraw/Drawing 2026-06-27 18.07.14.excalidraw.md",
-    "Excalidraw/Drawing 2026-07-07 13.09.12.excalidraw.md",
-    "26 May.md",
-    "May 3.md",
-    "May 4.md",
-    "Excalidraw",
-    "specialperm.py",
-    "rowgcd.py"
+    "Excalidraw/Drawing 2026-07-07 13.09.12.excalidraw.md"
   ]
 }
