@@ -1,6 +1,6 @@
 import sys
 import math as m
-#from scipy.optimize import fsolve
+from mpmath import findroot
 def cos(x): return m.cos(m.radians(x))
 def tan(x): return m.tan(m.radians(x))
 def sin(x): return m.sin(m.radians(x))
@@ -20,12 +20,10 @@ ms = 1.989e30
 yr = 365*24*3600
 au = 1.496e11
 ea = 23.5
-def equations(variables):
-    unknown1, unknown2 = variables
-    #eq1 =
-    #eq2 =
-    return [eq1, eq2]
-#fsolve(equations, [1,1])
+def equations(x):
+	return (
+	x**3-3*x**2+7*x-13)
+# findroot(equations(x))
 def factors(num):
     factors = []
     for indice in range(2,int(sqrt(num))+1):
@@ -34,5 +32,7 @@ def factors(num):
             factors.append(num//indice)
     return factors
 
-x=2000*365*4
+
+
+x=findroot(equations, 1)
 print(f"{x:e}")
