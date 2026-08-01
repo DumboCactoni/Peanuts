@@ -2,21 +2,27 @@
 Monday
 - [x] violin
 - [x] chess
+
 Tuesday
 - [ ] violin
 - [ ] chess
+
 Wednesday
 - [ ] violin
 - [ ] chess
+
 Thursday
 - [ ] violin
 - [ ] chess
+
 Friday
 - [ ] violin
 - [ ] chess
+
 Saturday
 - [ ] violin
 - [ ] chess
+
 Sunday
 - [ ] violin
 - [ ] chess
@@ -46,6 +52,7 @@ Sunday
 - [ ] 2
 
 - [ ] Ap calc bc past paper
+- [ ] com approach problem 93
 ##### f=ma 2022b
 - [ ] 1
 - [ ] 2
@@ -144,7 +151,7 @@ Sunday
 - [x]  48
 - [x]  71
 - [x]  72*
-- [ ]  93
+- [x]  93
 - [x]  94
 - [ ]  144*
 - [x]  194
@@ -200,11 +207,9 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 
 142, 185*, 199*.
 
-# notes
-[[essays]]
-[[hvcc]]
-[[templates]]
 
+# plans
+###### friday
 7 **sleep**
 8 breakfast
 9 golf
@@ -216,14 +221,35 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 3 **physics**
 4 golf
 5 dinner
-6 **random bullshit
+6 **random bs, prisms monday**
+7 **procrastinated**
+8 **physics**
+9 **physics**
+10 **sleep**
+
+###### saturday
 7
 8
 9
 10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
 
-https://chatgpt.com/share/6a6cf618-055c-83ea-839c-1a239d3b232b
+###### others
 
+# notes
+[[essays]]
+[[hvcc]]
+[[templates]]
 
 calc 2 physics 1 prerequisites
 ![[hvcc#courses]]
@@ -243,4 +269,5 @@ the things that send you ingredients
 What stops big telecom from giving ridiculously slow WiFi speeds or bad coverage: how can you tell actual coverage quality 
 Creation of fiduciary duty more explicit 
 What’s stopping ridiculously small food portions 
-
+integration with community college as school choice
+whats stopping exactly same companies/social media

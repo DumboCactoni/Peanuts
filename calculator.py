@@ -33,6 +33,6 @@ def factors(num):
     return factors
 
 
+x=1.732**2+1
 
-x=findroot(equations, 1)
 print(f"{x:e}")
