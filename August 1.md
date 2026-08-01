@@ -228,17 +228,17 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 10 **sleep**
 
 ###### saturday
-7
-8
-9
-10
-11
-12
+7 **sleep**
+8 breakfast
+9 golf
+10 golf 
+11 **wasted**
+12 lunch
 1
 2
-3
-4
-5
+3 library bs
+4 library bs
+5 dinner
 6
 7
 8
