@@ -32,7 +32,6 @@ def factors(num):
             factors.append(num//indice)
     return factors
 
-
-x=1.732**2+1
+x=m.log(-1e-7+5e-8,10)
 
 print(f"{x:e}")

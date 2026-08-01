@@ -164,8 +164,8 @@ Sunday
 - [x]  94
 - [ ]  95*
 - [x]  96
-- [ ]  97*
-- [ ]  98
+- [x]  97*
+- [x]  98
 - [ ]  99**.
 ##### elasticity ropes
 - [ ] 4
@@ -234,8 +234,8 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 10 golf 
 11 **wasted**
 12 lunch
-1
-2
+1 **physics**
+2 **physics**
 3 library bs
 4 library bs
 5 dinner
