@@ -239,7 +239,7 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126, 
 3 library bs
 4 library bs
 5 dinner
-6
+6 **wasted**
 7
 8
 9
@@ -266,8 +266,10 @@ clothes to wear for inclement weather
 why fund colleges
 how to do entrance for charters
 the things that send you ingredients
-What stops big telecom from giving ridiculously slow WiFi speeds or bad coverage: how can you tell actual coverage quality 
 Creation of fiduciary duty more explicit 
 What’s stopping ridiculously small food portions 
 integration with community college as school choice
 whats stopping exactly same companies/social media
+Frame a law forcing acceleration: if more than 3 classes consider it, virtual schools as way of providing testing same assessments? Idk before that you could have a dedicated office of accel for physical 
+2 causes of frustration: slight differences in teaching, major differences in accel. First one is structural… how to fix?
+Is there any way to… have a voice. 
