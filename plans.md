@@ -31,11 +31,11 @@ always start from the back
 ##### 200 confusing
 - [ ] kinematics dynamics dimensional analysis
 - [ ] gravitation mech
-- [ ] collisions rigid bodies
+- [x] collisions rigid bodies
 - [ ] elasticity ropes
 - [ ] liquids surface tension
 ##### 200 more confusing
-- [x] kinematics dynamics dimensional analysis
+- [ ] kinematics dynamics dimensional analysis
 - [ ] gravitation mech
 - [ ] collisions rigid bodies
 - [ ] elasticity ropes

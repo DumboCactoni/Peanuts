@@ -20,6 +20,12 @@ ms = 1.989e30
 yr = 365*24*3600
 au = 1.496e11
 ea = 23.5
+me = 9.109e-31
+mn = 1.675e-27
+qe = 1.602e-192
+pc = 3.086e16
+cv = 3e8
+ls = 3.828e26
 def equations(x):
 	return (
 	x**3-3*x**2+7*x-13)
@@ -32,6 +38,7 @@ def factors(num):
             factors.append(num//indice)
     return factors
 
-x=m.log(-1e-7+5e-8,10)
+a = 10**(frac(-26,74,-2.5))
+x = fpow(a*5.8e9*ls)
 
 print(f"{x:e}")
