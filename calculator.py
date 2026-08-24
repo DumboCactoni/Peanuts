@@ -7,7 +7,7 @@ def sin(x): return m.sin(m.radians(x))
 def acos(x): return m.degrees(m.acos(x))
 def asin(x): return m.degrees(m.asin(x))
 def atan(x): return m.degrees(m.atan(x))
-def sqrt(x): return m.sqrt(x)
+def sqrt(x): return m.sqrt(abs(x))
 def frac(x,y): return(x/y)
 def fpow(x,y,z): return((x/y)**z)
 def c(x,y): return m.comb(x,y)
@@ -18,19 +18,21 @@ def deg(x): return x*180/m.pi
 pi = m.pi
 gc = 6.67e-11
 ms = 1.989e30
+re = 6378e3
+Me = 5.972e24
 yr = 365*24*3600
 au = 1.496e11
-ea = 23.5
+ec = 23.5
 me = 9.109e-31
 mn = 1.675e-27
-qe = 1.602e-192
+qe = 1.602e-19
 pc = 3.086e16
 ls = 3.828e26
 tb = 13.8e9*yr
-def equations(x):
-	return (
-	x**3-3*x**2+7*x-13)
-# findroot(equations(x))
+#def equations(x):
+#	return (
+#	a*x**(-3/2)+b*sqrt(x)-c)
+# x = findroot(equations, [r,r*2], solver='anderson', maxsteps=1000, verify=False)
 def factors(num):
     factors = []
     for indice in range(2,int(sqrt(num))+1):
@@ -39,8 +41,9 @@ def factors(num):
             factors.append(num//indice)
     return factors
 
-a = 9.81*sin(10)-0.4*9.81*cos(10)
-b = 0.4*9.81*cos(10)*1e-3*500**2
-x=acos(frac(a**2,b))/500
 
-print(f"{x:e}")
+
+print(f"{a:e}")
+print(f"{b:e}")
+print(f"{c:e}")
+print(f"{float(x)/r:e}")

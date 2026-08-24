@@ -4,4 +4,5 @@
 [[essays]]
 [[templates]]
 [[pittsburgh]]
+[[drafts]]
 
