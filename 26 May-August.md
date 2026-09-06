@@ -10,15 +10,15 @@
 - [x] evan chen instead of astro
 
 [[26 August]] phys astro math phys
-- [ ] 200 confusing
+- [x] 200 confusing
 - [ ] 200 more confusing
-- [ ] counting and prob 9-14
+- [ ] counting and prob
 - [ ] ioaa
 
 to check
 - [ ] ioaa?
 - [x] salvati 
 - [ ] math counting
-- [ ] 200 confusing
+- [x] 200 confusing
 
 
