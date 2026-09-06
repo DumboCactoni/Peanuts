@@ -273,3 +273,13 @@ whats stopping exactly same companies/social media
 Frame a law forcing acceleration: if more than 3 classes consider it, virtual schools as way of providing testing same assessments? Idk before that you could have a dedicated office of accel for physical 
 2 causes of frustration: slight differences in teaching, major differences in accel. First one is structural… how to fix?
 Is there any way to… have a voice. 
+Trump early access
+
+
+
+
+
+
+
+
+
