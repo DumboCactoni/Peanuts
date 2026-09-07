@@ -40,7 +40,7 @@ tb = 13.8e9*yr
 def factors(num):
     factors = []
     for indice in range(2,int(sqrt(num))+1):
-        if num%indice==0: 
+        if num%indice==0:
             factors.append(indice)
             factors.append(num//indice)
     return factors
