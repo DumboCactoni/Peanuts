@@ -1,6 +1,7 @@
 import sys
 import math as m
 from mpmath import findroot
+from fractions import Fraction as fr
 def cos(x): return m.cos(m.radians(x))
 def tan(x): return m.tan(m.radians(x))
 def sin(x): return m.sin(m.radians(x))
@@ -17,9 +18,12 @@ def rad(x): return x*m.pi/180
 def deg(x): return x*180/m.pi
 pi = m.pi
 gc = 6.67e-11
+pk = 6.626e-34
 ms = 1.989e30
+rs = 6.96e8
 re = 6378e3
 Me = 5.972e24
+sb = 5.67e-8
 yr = 365*24*3600
 au = 1.496e11
 ec = 23.5
@@ -40,10 +44,9 @@ def factors(num):
             factors.append(indice)
             factors.append(num//indice)
     return factors
+# fr(x).limit_denominator()
 
+x = frac(8+18+50, sqrt(4+9+25)*sqrt(16+36+100))
+ 
 
-
-print(f"{a:e}")
-print(f"{b:e}")
-print(f"{c:e}")
-print(f"{float(x)/r:e}")
+print(f"{x:.3e}")
