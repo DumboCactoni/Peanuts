@@ -5,4 +5,5 @@
 [[templates]]
 [[pittsburgh]]
 [[drafts]]
+[[prismsresearch]]
 

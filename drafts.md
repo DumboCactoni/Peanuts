@@ -1,3 +1,0 @@
-# drafts
-
-the campaign

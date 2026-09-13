@@ -35,11 +35,13 @@ always start from the back
 - [ ] elasticity ropes
 - [ ] liquids surface tension
 ##### 200 more confusing
-- [ ] kinematics dynamics dimensional analysis
+- [x] kinematics dynamics dimensional analysis
 - [ ] gravitation mech
 - [ ] collisions rigid bodies
 - [ ] elasticity ropes
 - [ ] liquids surface tension
+- [ ] kinematics da
+- [ ] dynamics 17 19 6 27 39 40 45
 
 ### Math
 - [ ] trig identities
