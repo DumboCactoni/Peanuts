@@ -83,4 +83,12 @@ Jiashen Li
 5.30-6.30 dinner
 7-9.30 flex
 
+1 apush
+2 apcs
+3 apchem
+4 linearalg
+5 apbio
+6 research
+7 study hall
+8 english
 ### others
