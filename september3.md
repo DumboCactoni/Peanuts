@@ -9,7 +9,9 @@
 
 ### others
 - [ ] apchem+ ws
-find combi book very urgent
+- [ ] combi book
+[[prisms#schedule]]
+apbio sylalbus test?/
 send apush email
 clubs signup athletic requirements
 policy on phones
