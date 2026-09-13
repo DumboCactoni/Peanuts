@@ -8,6 +8,7 @@
 - [ ] kuroni& and impossible calculation
 
 ### others
+[[prisms]]
 - [ ] apchem+ ws
 find combi book very urgent
 send apush email
