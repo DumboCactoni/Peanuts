@@ -23,15 +23,10 @@
             "id": "edb687ac944633b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "drafting"
+              "title": "New tab"
             }
           }
         ],
