@@ -46,7 +46,6 @@ def factors(num):
     return factors
 # fr(x).limit_denominator()
 
-x = frac(8+18+50, sqrt(4+9+25)*sqrt(16+36+100))
- 
-
+x = frac(2*3*9.81*sin(30)**2, 80)
 print(f"{x:.3e}")
+a
