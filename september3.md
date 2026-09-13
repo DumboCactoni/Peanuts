@@ -8,6 +8,7 @@
 - [ ] kuroni& and impossible calculation
 
 ### others
+[[prisms]]
 - [ ] apchem+ ws
 - [ ] combi book
 [[prisms#schedule]]

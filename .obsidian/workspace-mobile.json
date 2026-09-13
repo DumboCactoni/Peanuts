@@ -25,13 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafting.md",
+                "file": "prisms.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "drafting"
+              "title": "prisms"
             }
           }
         ],
@@ -186,6 +185,7 @@
   },
   "active": "edb687ac944633b2",
   "lastOpenFiles": [
+    "september3.md",
     "Notes.md",
     "drafting.md",
     "August 1.md",
@@ -220,7 +220,6 @@
     "27 March-June.md",
     "26 June.md",
     "June 4.md",
-    "Excalidraw/Drawing 2026-06-27 18.07.14.excalidraw.md",
-    "Excalidraw/Drawing 2026-07-07 13.09.12.excalidraw.md"
+    "Excalidraw/Drawing 2026-06-27 18.07.14.excalidraw.md"
   ]
 }
