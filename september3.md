@@ -11,7 +11,7 @@
 [[prisms]]
 - [ ] apchem+ ws
 - [ ] combi book
-[[prisms#schedule]]
+![[prisms#schedule]]
 apbio sylalbus test?/
 send apush email
 clubs signup athletic requirements
