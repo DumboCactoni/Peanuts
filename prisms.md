@@ -1,14 +1,7 @@
 ### packing
-bedding
-● 1 laundry basket or laundry bag
+
 ● Laundry detergent (also purchasable upon arrival)
 1
-Toiletries
-● Shampoo, conditioner, comb, or brush
-● Soap or body wash
-● Toothpaste, toothbrush, mouthwash
-● Deodorant
-● Bug spray and sunscreen
 
 
 ● Desk lamp (international students are advised to purchase it locally due to the
@@ -71,6 +64,7 @@ Cheers,
 Jiashen Li
 
 ### schedule
+**7-7.50 breakfast**
 **8-9.20 1**
 9.20-9.40 announcements
 **9.45-11.05 2**
@@ -83,12 +77,12 @@ Jiashen Li
 5.30-6.30 dinner
 7-9.30 flex
 
-1 apush
-2 apcs
-3 apchem
-4 linearalg
-5 apbio
-6 research
+1 apush albemarle 206
+2 apcs albemarle 202
+3 apchem cottage chem
+4 linearalg albemarle 306
+5 apbio cottage log bio lab
+6 research cottage chem??
 7 study hall
-8 english
+8 english albemarle library 105
 ### others

@@ -1,4 +1,53 @@
-### math combinatorics book part 1
+### aime 
+#### 2019a
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+
+#### 2019b
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+
+#### 2020a
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+
+#### 2020b
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+
+
 
 
 ### codeforces (hopefully 10) -> refer to sept2
@@ -10,13 +59,10 @@
 ### others
 [[prisms]]
 - [ ] apchem+ ws
-- [ ] combi book
 ![[prisms#schedule]]
-apbio sylalbus test?/
-send apush email
+
+
 clubs signup athletic requirements
-policy on phones
-look at apcsa stuff
 research room 202 in Albemarle during period 6 research. I 
 print music gpyo
 talk to counselor about physics

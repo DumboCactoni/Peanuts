@@ -27,7 +27,17 @@
               "state": {
                 "file": "september3.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "september3"
@@ -160,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "August 1.md",
+            "file": "september3.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
