@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "september3.md",
+                "file": "prisms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "september3"
+              "title": "prisms"
             }
           }
         ],
@@ -195,8 +195,9 @@
   },
   "active": "edb687ac944633b2",
   "lastOpenFiles": [
-    "prisms.md",
     "september3.md",
+    "Untitled.md",
+    "prisms.md",
     "Notes.md",
     "drafting.md",
     "August 1.md",
@@ -229,7 +230,6 @@
     "Habits.md",
     "main.txt",
     "27 March-June.md",
-    "26 June.md",
-    "June 4.md"
+    "26 June.md"
   ]
 }
