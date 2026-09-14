@@ -64,18 +64,18 @@ Cheers,
 Jiashen Li
 
 ### schedule
-**7-7.50 breakfast**
+7-7.50 breakfast
 **8-9.20 1**
-9.20-9.40 announcements
+9.20-9.40 announcements, meetings ct even
 **9.45-11.05 2**
 11.05-12.05 lunch
 12.05-12.25 office hours
 **12.25-1.45 3**
 **1.55-3.15 4**
-3.20-4 clubs
-4.15-5 flex time / athletics
+3.20-4 Flex Time Monday/clubs
+4.15-5 Flex Time Monday Friday / athletics
 5.30-6.30 dinner
-7-9.30 flex
+7-9.30 studyhall/free friday
 
 1 apush albemarle 206
 2 apcs albemarle 202
