@@ -85,4 +85,54 @@ Jiashen Li
 6 research cottage chem??
 7 study hall
 8 english albemarle library 105
+### apush
+#### chap 2
+1. Compare and contrast settlement patterns, religion, and relations with
+Native Americans of the Spanish and English in the Americas.
+2. For English settlers, land was the basis of independence and liberty.
+Explain the reasoning behind that concept and how it differed from
+Native conceptions of land.
+3. Describe the factors promoting and limiting religious freedom in the
+New England and Chesapeake colonies.
+4. Describe who chose to emigrate to North America from England in the
+seventeenth century and explain their reasons.
+5. In what ways did the economy, government, and household structure
+differ in New England and the Chesapeake colonies?
+6. The English believed that, unlike the Spanish, their motives for
+colonization were pure, and that the growth of empire and freedom
+would always go hand in hand. How did the expansion of the English
+empire affect the freedoms of Native Americans, the Irish, and even
+many English citizens?
+7. Considering politics, social tensions, and debates over the meaning of
+liberty, how do the events and aftermath of the English Civil War
+demonstrate that the English colonies in North America were part of a
+larger Atlantic community?
+8. How did the tobacco economy draw the Chesapeake colonies into the
+greater Atlantic world?
+9. How did the idea of freedom help legitimize English colonization?
+
+#### chap 1
+1. In the age of exploration, when different areas of the world were
+brought into sustained contact, how did local economies change?
+2. One of the most striking features of Native societies at the time of the
+encounter with Europeans was their diversity. Support this statement
+with several examples.
+3. Compare and contrast Western European, Native North American, and
+West African values and ways of life. Consider addressing religion,
+views about ownership of land, gender relations, and notions of
+freedom.
+4. What were the main factors fueling European exploration and
+conquest?
+5. Compare the political, economic, and religious motivations behind the
+French and Dutch empires with those of New Spain.
+6. Describe how the idea of the “Black Legend” affected subsequent
+policies and practices of Spain as well as those of the Netherlands and
+France.
+7. How would European settlers justify to Native Americans both the
+conquest of Native lands and terminating their freedom?
+8. How would Native Americans explain to Europeans their own views of
+freedom and desires for their relationships with Europeans?
+9. Why did Native Americans exercise more power in their relations with
+the Dutch and French than with the English?
+
 ### others
