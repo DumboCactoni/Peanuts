@@ -60,6 +60,10 @@
 [[prisms]]
 - [ ] apchem+ ws
 ![[prisms#schedule]]
+5 apbio cottage log bio lab
+6 research cottage chem??
+7 study hall
+8 english albemarle library 105
 
 
 clubs signup athletic requirements
