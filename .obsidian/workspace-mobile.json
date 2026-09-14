@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prisms.md",
+                "file": "september3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "prisms"
+              "title": "september3"
             }
           }
         ],
@@ -195,9 +195,9 @@
   },
   "active": "edb687ac944633b2",
   "lastOpenFiles": [
+    "prisms.md",
     "september3.md",
     "Untitled.md",
-    "prisms.md",
     "Notes.md",
     "drafting.md",
     "August 1.md",
