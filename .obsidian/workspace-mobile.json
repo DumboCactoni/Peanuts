@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "september3.md",
+                "file": "prisms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "september3"
+              "title": "prisms"
             }
           }
         ],
@@ -170,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "september3.md",
+            "file": "prisms.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -195,8 +195,8 @@
   },
   "active": "edb687ac944633b2",
   "lastOpenFiles": [
-    "prisms.md",
     "september3.md",
+    "prisms.md",
     "hardproblem.py",
     "helloworld.java",
     "main.in",
