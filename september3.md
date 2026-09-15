@@ -61,8 +61,7 @@
 [[prisms]]
 - [x] apchem+ ws
 - [x] read apush, cs
-- [ ] apush 1 questions
-- [ ] apush 2 questions
+- [x] apush questions
 ![[prisms#schedule]]
 1 apush albemarle 206
 2 apcs albemarle 202
