@@ -74,9 +74,7 @@
 8 english albemarle 210
 
 
-clubs signup athletic requirements
 research room 202 in Albemarle during period 6 research. I 
-print music gpyo
 talk to counselor about physics
 
 
