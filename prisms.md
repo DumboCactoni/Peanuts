@@ -1,13 +1,3 @@
-### packing
-
-● Laundry detergent (also purchasable upon arrival)
-1
-
-
-● Desk lamp (international students are advised to purchase it locally due to the
-voltage difference between America and some other countries)
-
-
 ### Research
 Hi, sorry for the late reply. If you're not yet aware, I had a few visa issues so I'll be coming to school next week, instead of the first day Wednesday. Frankly I would say the proposal is unpolished, that I am not  sure whether it would make for a great project, but is a draft for now regardless. I would entirely be open to any topic that is more feasible or more worthy of further study, like a biochemistry or an environment focused project for example, and am not dead set on the proposal below.
 
