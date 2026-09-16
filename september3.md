@@ -66,7 +66,7 @@
 - [x] Chem
 - [x] Apush
 - [x] Linear alg
-- [ ] Research
+- [x] Research
 
 ![[prisms#schedule]]
 1 apush albemarle 206
@@ -91,7 +91,6 @@ Independent learning efficient. Personalized support but isn’t that a choice e
 
 Sat 
 research room 202 in Albemarle during period 6 research. I 
-print music gpyo
 talk to counselor about physics
 
 
