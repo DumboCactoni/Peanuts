@@ -67,13 +67,15 @@
 - [x] Apush
 - [x] Linear alg
 - [x] Research
-- [ ] bio read and research
-- [ ] norton reader quick check
-- [ ] research 1 article
-- [ ] apchem ws, reading?
-- [ ] apush chapter 3 detailed readg
+- [ ] bio proposal moonshot solving cancer with glp 
+- [ ] norton reader quick check, bio quick cheat
+- [ ] apchem ws
+- [ ] physics email
+- [ ] apush chapter 3 detailed read 
+- [ ] Research 1 article later
 
-super soft practice mutegi
+super soft practice muteg
+
 
 ![[prisms#schedule]]
 1 apush albemarle 206
