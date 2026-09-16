@@ -67,6 +67,11 @@
 - [x] Apush
 - [x] Linear alg
 - [x] Research
+- [ ] bio read and research
+- [ ] norton reader quick check
+- [ ] research 1 article
+- [ ] apchem ws, reading?
+- [ ] apush chapter 3 detailed read
 
 ![[prisms#schedule]]
 1 apush albemarle 206
