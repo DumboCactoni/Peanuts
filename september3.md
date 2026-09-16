@@ -63,9 +63,9 @@
 - [x] apchem+ ws
 - [x] read apush, cs
 - [x] apush questions
-- [ ] Chem
-- [ ] Apush
-- [ ] Linear alg
+- [x] Chem
+- [x] Apush
+- [x] Linear alg
 - [ ] Research
 
 ![[prisms#schedule]]
