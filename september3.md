@@ -71,7 +71,9 @@
 - [ ] norton reader quick check
 - [ ] research 1 article
 - [ ] apchem ws, reading?
-- [ ] apush chapter 3 detailed read
+- [ ] apush chapter 3 detailed readg
+
+super soft practice mutegi
 
 ![[prisms#schedule]]
 1 apush albemarle 206
@@ -96,6 +98,5 @@ Independent learning efficient. Personalized support but isn’t that a choice e
 
 Sat 
 research room 202 in Albemarle during period 6 research. I 
-talk to counselor about physics
 
 
