@@ -75,6 +75,8 @@
 - [ ] Research 1 article later
 
 super soft practice mute
+dvorak audition
+
 
 
 ![[prisms#schedule]]
