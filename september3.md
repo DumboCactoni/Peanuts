@@ -63,10 +63,10 @@
 - [x] apchem+ ws
 - [x] read apush, cs
 - [x] apush questions
-- [ ] Chem
-- [ ] Apush
-- [ ] Linear alg
-- [ ] Research
+- [x] Chem
+- [x] Apush
+- [x] Linear alg
+- [x] Research
 
 ![[prisms#schedule]]
 1 apush albemarle 206
@@ -80,8 +80,6 @@
 8 english albemarle 210
 
 
-<<<<<<< HEAD
-=======
 What’s the optimum school ay 
 School districts: differing quality diseconomies of scale especially when funding is tied
 Public schools and charter schools is best model
@@ -92,7 +90,6 @@ Lowering class sizes is not the solution. Pace after school personal help shorte
 Independent learning efficient. Personalized support but isn’t that a choice educators can make?
 
 Sat 
->>>>>>> 548b9b9b7c2ce9f60c5638ab0f4df40fc7c250a3
 research room 202 in Albemarle during period 6 research. I 
 talk to counselor about physics
 
