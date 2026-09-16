@@ -33,6 +33,9 @@ qe = 1.602e-19
 pc = 3.086e16
 ls = 3.828e26
 tb = 13.8e9*yr
+am = 1.66e-27
+pl = 6.626e-34
+rd = 1.096e7
 #def equations(x):
 #	return (
 #	a*x**(-3/2)+b*sqrt(x)-c)
@@ -47,5 +50,5 @@ def factors(num):
 # fr(x).limit_denominator()
 
 
-x = 0.4*185+0.6*187
+x = fpow(4*1.096e7*660e-9, 1.096e7*660e-9-4, 1/2)
 print(f"{x:.3e}")

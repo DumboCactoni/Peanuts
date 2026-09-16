@@ -74,7 +74,9 @@
 - [ ] apush chapter 3 detailed read 
 - [ ] Research 1 article later
 
-super soft practice muteg
+super soft practice mute
+dvorak audition
+
 
 
 ![[prisms#schedule]]
