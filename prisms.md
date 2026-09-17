@@ -125,4 +125,10 @@ freedom and desires for their relationships with Europeans?
 9. Why did Native Americans exercise more power in their relations with
 the Dutch and French than with the English?
 
+### sd
+constructive making your case in points/contentions claim warrant impact
+rebuttal 
+
+
+
 ### others
