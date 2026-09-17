@@ -69,9 +69,9 @@
 - [x] Research
 - [x] norton reader quick check
 - [x] apchem ws
-- [ ] physics email
+- [x] physics email
 - [ ] apush chapter 3 detailed read 
-- [ ] bio proposal moonshot solving cancer with glp later
+- [ ] bio proposal moonshot solving cancer with glp
 - [ ] bio cheat sheet
 - [ ] Research 1 article later
 
@@ -105,5 +105,8 @@ Independent learning efficient. Personalized support but isn’t that a choice e
 
 Sat 
 research room 202 in Albemarle during period 6 research. I 
+
+
+
 
 
