@@ -49,6 +49,5 @@ def factors(num):
     return factors
 # fr(x).limit_denominator()
 
-
-x = fpow(4*1.096e7*660e-9, 1.096e7*660e-9-4, 1/2)
+x = frac(pl*3e8, 13.6*1.602e-19*(2**-2-3**-2))*1e9
 print(f"{x:.3e}")
