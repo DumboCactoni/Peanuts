@@ -3,10 +3,10 @@
 - [x] 4
 - [x] 5
 - [x] 6
-- [ ] 7
+- [x] 7
 - [x] 8
-- [ ] 9
-- [ ] 10
+- [x] 9
+- [x] 10
 - [ ] 11
 - [ ] 12
 - [ ] 13
@@ -67,13 +67,15 @@
 - [x] Apush
 - [x] Linear alg
 - [x] Research
-- [ ] bio proposal moonshot solving cancer with glp 
-- [ ] norton reader quick check, bio quick cheat
-- [ ] apchem ws
+- [x] norton reader quick check
+- [x] apchem ws
 - [ ] physics email
 - [ ] apush chapter 3 detailed read 
+- [ ] bio proposal moonshot solving cancer with glp later
+- [ ] bio cheat sheet
 - [ ] Research 1 article later
 
+how to laundry
 super soft practice mute
 dvorak audition
 
