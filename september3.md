@@ -69,13 +69,14 @@
 - [x] Research
 - [ ] bio proposal moonshot solving cancer with glp 
 - [ ] norton reader quick check, bio quick cheat
-- [ ] apchem ws
+- [x] apchem ws
 - [ ] physics email
 - [ ] apush chapter 3 detailed read 
 - [ ] Research 1 article later
 
 super soft practice mute
 dvorak audition
+How to wash clothes
 
 
 
