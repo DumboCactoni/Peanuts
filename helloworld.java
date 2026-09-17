@@ -1,7 +1,8 @@
 public class Main {
   public static void main(String[] args) {
-    String name = "John";
-    System.out.println(name);
-    System.out.println(16);
+    int a = --4;
+    int r1 = a++;
+    int r2 = ++a;
+    System.out.println(r1+""+r2);
   }
 }

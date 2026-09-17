@@ -57,7 +57,6 @@
 - [ ] kuroni& and impossible calculation
 - [ ] make them equal
 
-### physics email
 ### others
 [[prisms]]
 - [x] apchem+ ws
@@ -73,6 +72,8 @@
 - [ ] apush chapter 3 detailed read 
 - [ ] bio proposal moonshot solving cancer with glp
 - [ ] bio cheat sheet
+- [ ] chemistry hw
+- [ ] 
 - [ ] Research 1 article later
 
 how to laundry
@@ -101,10 +102,9 @@ Expanding the charter for max educational quality
 Schools are more efficient when they specialize 
 clubs signup athletic requirements
 Lowering class sizes is not the solution. Pace after school personal help shorter school day. Fewer well trained teachers not just hyper credentialed but good at teaching
-Independent learning efficient. Personalized support but isn’t that a choice educators can make?
+Independent learning efficient. Personalized support but isn’t that a choice educators can make?. Lectures needed at low level. Montessori? Underlying rigorous curriculum is needed common standards and acceleration build atop
 
-Sat 
-research room 202 in Albemarle during period 6 research. I 
+Hi 
 
 
 
