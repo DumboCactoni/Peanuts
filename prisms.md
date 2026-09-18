@@ -125,10 +125,63 @@ freedom and desires for their relationships with Europeans?
 9. Why did Native Americans exercise more power in their relations with
 the Dutch and French than with the English?
 
-### sd
-constructive making your case in points/contentions claim warrant impact
-rebuttal 
+### bio moonshot
+
+### bs
+Repurposing GLP-1 medicines as a systemic anti-tumor remedy
+Background
+GLP-1 agonists naturally produced in the intestine, pancreas and brainstem are prescribed medicines to manage type 2 diabetes, and obesity. They enhance insulin production, suppress glucagon release, reduce appetite and promote weight loss. They reduce inflammation, by inhibiting the NF-KB pathway, which usually triggers it to fight off infection. Protracted activity however promotes cancer cell survival and metastasis when apoptotic checkpoints are suppressed. GLP-1s shift macrophage polarization toward an antitumor M1 phenotype, and inhibit the PI3K/Akt/mTOR pathway that causes tumor cell proliferation. 
+
+When GLP-1 binds its receptor, it activates PKA, suppressing the ERK growth signal and lowering cyclin D1 that drives cell division. The PKA pathway activates AMPK, which shuts down the mTOR growth pathway. p38 pushes cancer cells towards apoptosis, and EGFR-STAT3 which tumors rely on. 
+
+Clinical evidence supports that GLP1s reduced cancer risk by 17%, and reduced colorectal cancer risk by 46% compared to insulin. In a mouse study, breast tumor sizes were reduced by half, due to NF-kB inhibition. Reducing inflammation also lowers the buildup of amyloid plaques in the brain and reduces neural damage from oxidative stress, presenting a 40%, or as high as 70%, reduction of dementia and Alzheimer's risk.
+
+In atherosclerosis, chronic inflammation in the arteries, liraglutide slowed down plaque buildup in mice by blocking vessel wall inflammation. In mice with NASH, a liver cancer causing disease, liraglutide reduces liver inflammation, buildup and cell damage. 
 
 
 
+Methods and budget
+We developed a long-acting GLP++ optimized for increased receptor affinity and half-life. Carcinoma cells were injected into 60 mice randomly placed in 3 groups of control, GLP++ and exendin-4, which was injected daily for 28 days. Drug development for GLP++ took 153 million dollars, and bringing this promising drug to market may take 1.3 billion, with expected profits in the hundreds of billions. 
+
+
+
+Estimated results and future work
+We see a statistically significant improvement with GLP++. At the end of 28 days, the GLP++ performed 42% better than the current exendin-4 drug, and a 60% improvement from the control. Future work should focus on expanding the approach to a longitudinal study in real persons, and coming up with different formulations of GLP most suited to specific cancers and ailments that activate or inhibit specific reaction pathways.  
+Citations
+Dai, H., Li, Y., Lee, Y. A., et al. (2025). GLP-1 receptor agonists and cancer risk in adults with obesity. JAMA Oncology, 11(10), 1186–1193.
+
+Iwaya, C., Nomiyama, T., et al. (2017). Exendin-4, a glucagon-like peptide-1 receptor agonist, attenuates breast cancer growth by inhibiting NF-κB activation. Endocrinology, 158(12), 4218–4232.
+
+Wong, C. K., & Drucker, D. J. (2025). Antiinflammatory actions of glucagon-like peptide-1–based therapies beyond metabolic benefits. The Journal of Clinical Investigation, 135(21).
+
+Lucente, D., Bellino, S., & La Salvia, A. (2025). GLP-1 Receptor Agonists in Solid Tumour Therapy: Exploring Their Anticancer Potential and Underlying Molecular Pathways. Genes, 16(11), 1352. https://doi.org/10.3390/genes16111352 
+
+Seminer, A., Mulihano, A., O’Brien, C., Krewer, F., Costello, M., Judge, C., ... & Reddin, C. (2025). Cardioprotective glucose-lowering agents and dementia risk: a systematic review and meta-analysis. JAMA Neurology, 82(5), 450-460.
+
+AbuAlrob, M. A., Itbaisha, A., Abujwaid, Y. K., Abulehia, A., Hussein, A., & Mesraoua, B. (2025). Exploring the neuroprotective role of GLP-1 agonists against Alzheimer's disease: Real-world evidence from a propensity-matched cohort. Journal of Alzheimer's Disease Reports, 9, 25424823251388650.
+
+
+### more bs
+Alka-Seltzer tablets contain citric acid and sodium bicarbonate, along with insoluble substances. The goal of the lab was to determine the unknown mass percent of sodium bicarbonate and citric acid in such a Seltzer tablet, using a graduated cylinder, 2 beakers, a spatulla, mass balance, along with 1M hydrochloric acid and 3g of sodium bicarbonate. 
+
+To determine the mass percent of sodium bicarbonate, we aim to add acid in excess such that all of sodium bicarbonate forms sodium chloride, along with water and carbon dioxide, which escapes. The mass of the escaped gas can be computed as a change in mass, and using the molar ratio of sodium bicarbonate with carbon dioxide of 1:1, along with the respective molar ratios, the mass percent of sodium bicarbonate can be computed. First, measure the initial mass of acetic acid, of around 30g, then the mass of the tablet. The tablet is to then be dissolved in the acetic acid, and the final mass be measured. Doing so, we get that the mass percent of sodium bicarbonate is
+
+$$
+\frac{dm \ m_{nabic}}{m_{co2} \ m_{tablet}}
+$$
+
+The value we obtained over 2 trials is 56.5%, with a 4.4% error from the expected value of 59.1%.
+
+To determine the mass percent of citric acid, we dissolve the tablet in a solution of deionized water and excess sodium bicarbonate. All the citric acid will react with the sodium bicarbonate, forming sodium citrate, water and carbon dioxide. The molar ratio of carbon dioxide and sodium bicarbonate is 1:1. As such, we can measure the mass of the tablet, approximately 3g of sodium bicarbonate, approximately 30g of deionized water, then keep stirring until effervescence is no longer observed. We obtain that the mass percent of citric acid is 
+$$
+\frac{dm \ m_{ace}}{m_{tablet} \ m_{co2}}
+$$
+We obtained the value of 24% for citric acid in only 1 trial, as we ran out of time, which is unfortunately a 22.3% error from the expected value of 30.9%. 
+
+We are satisfied with the error for sodium bicarbonate, but not so much for the citric acid value. This could most clearly be caused by our lack of more trials to eliminate random errors. 
+
+$$
+NaHCO_3 + HCl \:\; 3 -> NaCl + CO2 + H2O \newline
+3NaHCO_3 + H_3C_6H_5O_7 \;\; -> Na_3C_6H_5O_7 + 3H_2O + 3CO_2
+$$
 ### others

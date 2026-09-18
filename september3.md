@@ -69,17 +69,13 @@
 - [x] norton reader quick check
 - [x] apchem ws
 - [x] physics email
-- [ ] apush chapter 3 detailed read 
 - [ ] bio proposal moonshot solving cancer with glp
 - [ ] bio cheat sheet
 - [ ] chemistry hw
-- [ ] 
-- [ ] Research 1 article later
+- [ ] dvorak audition
 
-how to laundry
-super soft practice mute
-dvorak audition
-How to wash clothes
+- [ ] research 1 article
+- [ ] apush chapter 3 detailed read 
 
 
 
