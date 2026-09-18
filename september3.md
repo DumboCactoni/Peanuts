@@ -23,30 +23,6 @@
 - [ ] 12
 - [ ] 13
 
-#### 2020a
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-
-#### 2020b
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-
 
 
 
@@ -69,11 +45,9 @@
 - [x] norton reader quick check
 - [x] apchem ws
 - [x] physics email
-- [ ] apush chapter 3 detailed read 
-- [ ] bio proposal moonshot solving cancer with glp
-- [ ] bio cheat sheet
+- [x] bio proposal moonshot solving cancer with glp
+- [x] bio cheat sheet
 - [ ] chemistry hw
-- [ ] 
 - [ ] Research 1 article later
 
 how to laundry
