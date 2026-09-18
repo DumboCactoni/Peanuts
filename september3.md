@@ -47,7 +47,7 @@
 - [x] physics email
 - [x] bio proposal moonshot solving cancer with glp
 - [x] bio cheat sheet
-- [ ] chemistry hw
+- [x] chemistry hw
 - [ ] Research 1 article later
 
 
