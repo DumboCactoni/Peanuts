@@ -20,7 +20,7 @@
 - [x] 9
 - [x] 10
 - [ ] 11 #
-- [ ] 12
+- [x] 12
 - [ ] 13 #
 
 ### codeforces -> refer to sept2
@@ -70,8 +70,7 @@ Lowering class sizes is not the solution. Pace after school personal help shorte
 Independent learning efficient. Personalized support but isn’t that a choice educators can make?. Lectures needed at low level. Montessori? Underlying rigorous curriculum is needed common standards and acceleration build atop
 
 
-
-
+### email
 Hi Mr Mok , this is Jiashen.  I’m a junior and new to the school. I believe Mr Chen has forwarded you these conversations we had about physics course placement. I have partially learned the content in Physics C, and will be able to finish it myself by the end of this year; I’m not trying to waive the requirement to take a course this year. 
 
 

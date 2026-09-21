@@ -2,9 +2,9 @@ Physics
 Coriolis effect
 review oscillations
 krotov
-### 25,45; 45,70; 70,95; 95,116; 1-25; 25-46
+a ###25,45; 45,70; 70,95; 95,116; 1-25; 25-46
 creative 300
-### 2; ### 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14
+a ### 2; ### 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14
 200 confusing
 kinematics dynamics dimensional analysis
 gravitation mech
@@ -33,6 +33,7 @@ counting and prob
 problem solving combi
 1; 2; 3; 4; 5; 6; 7
 
+
 Astronomy
 exoplanets
 salvati only exercises
@@ -44,7 +45,11 @@ IOAA
 november amc; january usaco; february usaaao f=ma
 sept2 300 confusing 1
 [[september3.md]] math combinatorics 1
+<<<<<<< HEAD
 sept4 evan chen
+=======
+[[september4]] sept4 salvati 1
+>>>>>>> 122b6aa52491b566d0bc5ffc05ef700726db908a
 oct1 200 puzzling
 oct2 math combinatorics 2 
 oct3 evan chen
