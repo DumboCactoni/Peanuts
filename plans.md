@@ -55,10 +55,6 @@ trig identities
 - [x] 1
 - [x] 2
 - [x] 3
-- [ ] 4
-- [ ] 5
-- [ ] 2, 1.45-50 prob
-- [ ] 3 problems
 counting and prob
 - [x] 3
 - [x] 4
