@@ -1,4 +1,5 @@
-### 
+### Evan chen 
+
 
 ### codeforces
 sept2 first 2, sept4 last 3
@@ -6,10 +7,14 @@ sept2 first 2, sept4 last 3
 - [ ] make them equal
 - [ ] round dance
 - [ ] klcm hard
-- [ ] distinct character queries
+- [x] distinct character queries
 
 ### plans
-- [ ] 
+- [ ] test
+
+apush plan
+
+[[plans]]
 [[september3]]
 
 ![[prisms#schedule]]
