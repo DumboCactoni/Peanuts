@@ -45,11 +45,7 @@ IOAA
 november amc; january usaco; february usaaao f=ma
 sept2 300 confusing 1
 [[september3.md]] math combinatorics 1
-<<<<<<< HEAD
-sept4 evan chen
-=======
 [[september4]] sept4 salvati 1
->>>>>>> 122b6aa52491b566d0bc5ffc05ef700726db908a
 oct1 200 puzzling
 oct2 math combinatorics 2 
 oct3 evan chen

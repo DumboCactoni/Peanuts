@@ -1,4 +1,7 @@
+### 
+
 ### plans
+- [ ] 
 [[september3]]
 
 ![[prisms#schedule]]
