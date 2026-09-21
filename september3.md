@@ -7,29 +7,26 @@
 - [x] 8
 - [x] 9
 - [x] 10
-- [ ] 11
+- [ ] 11 #
 - [ ] 12
-- [ ] 13
+- [ ] 13 #
 
 #### 2019b
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
+- [x] 4
+- [x] 5
+- [x] 6
+- [x] 7
+- [x] 8
+- [x] 9
+- [x] 10
+- [ ] 11 #
 - [ ] 12
-- [ ] 13
-
-
-
+- [ ] 13 #
 
 ### codeforces -> refer to sept2
 - [x] almost all divisors
-- [ ] hard problem
-- [ ] parsas humongous tree
+- [x] hard problem
+- [x] parsas humongous tree
 - [ ] kuroni& and impossible calculation
 - [ ] make them equal
 
