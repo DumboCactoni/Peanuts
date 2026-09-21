@@ -140,12 +140,12 @@ sept2 first 2, sept4 last 3
 - [ ] distinct character queries
 
 ### plans
-- [ ] apchem reading
+- [x] apchem reading
 
 - [ ] linear alg ws due fri
 
 apush plan
-print stuff
+print stuff, prepare in research
 
 [[plans]]
 [[september3]]
