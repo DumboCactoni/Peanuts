@@ -1,59 +1,112 @@
-Physics
+## Physics
 Coriolis effect
 review oscillations
-krotov
-a ###25,45; 45,70; 70,95; 95,116; 1-25; 25-46
-creative 300
-a ### 2; ### 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14
-200 confusing
-kinematics dynamics dimensional analysis
-gravitation mech
-#### collisions rigid bodies
-elasticity ropes
-liquids surface tension
 
-200 more confusing
-### kinematics dynamics dimensional analysis
-gravitation mech
-collisions rigid bodies
-elasticity ropes
-liquids surface tension
-kinematics da
-dynamics 17 19 6 27 39 40 45
+#### krotov
+- [x] 25,45
+- [ ] 45,70
+- [ ] 70,95
+- [ ] 95,116
+- [ ] 1-25
+- [ ] 25-46
+#### creative 300
+- [x] 2
+- [x] 3
+- [x] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+- [ ] 14
+- [ ] 4.367810
+#### 200 confusing
+- [ ] kinematics dynamics dimensional analysis
+- [ ] gravitation mech
+- [x] collisions rigid bodies
+- [ ] elasticity ropes
+- [ ] liquids surface tension
+
+#### 200 more confusing
+- [x] kinematics dynamics dimensional analysis
+- [ ] gravitation mech
+- [ ] collisions rigid bodies
+- [ ] elasticity ropes
+- [ ] liquids surface tension
+- [ ] kinematics da
+- [ ] dynamics 17 19 6 27 39 40 45
 
 
-Math
+## Math
 trig identities
-number theory
-### 1; ### 2; ### 3; ### 4; ### 5; 4.2.6,7, lte, ord; chap 5
-Evan Chen
-### 1; ### 2; ### 3; 4; 5; 2, 1.45-50 prob; 3 problems
+#### number theory
+- [x] 1
+- [x] 2
+- [x] 3
+- [x] 4
+- [x] 5
+- [ ] 4.2.6,7, lte, ord
+- [ ] chap 5
+#### Evan Chen
+- [x] 1
+- [x] 2
+- [x] 3
+- [ ] 4
+- [ ] 5
+- [ ] 2, 1.45-50 prob
+- [ ] 3 problems
 counting and prob
-### 3; ### 4
-problem solving combi
-1; 2; 3; 4; 5; 6; 7
+- [x] 3
+- [x] 4
 
 
-Astronomy
-exoplanets
-salvati only exercises
-1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13
+## Astronomy
+exoplanets, population stars, do books?
+#### salvati only exercise
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
 IOAA
-1; 2; 3; ###4; ###5; ###6; ###7; ### 8; ### 9; 10; 7.12345,5.19,4.4
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [x] 4
+- [x] 5
+- [x] 6
+- [x] 7
+- [x] 8
+- [x] 9
+- [ ] 10
+- [ ] 7.12345,5.19,4.4
 
-
+## calendar
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=1600-
 november amc; january usaco; february usaaao f=ma
+must do 8 cf a week, 130 problems, 10 problems 1600, 30 1700, 30 1800, 30 1900, 30 2000, 30 2100, pray for gold. final stages cannot prioritize either must lock both
 sept2 300 confusing 1
-[[september3.md]] math combinatorics 1
-[[september4]] sept4 salvati 1
+[[september3.md]] aime intensive
+[[september4]] evan chen
 oct1 200 puzzling
-oct2 math combinatorics 2 
-oct3 evan chen
-oct4 number theory
+oct2 aime intensive
+oct3 number theory
+oct4 evan chen
 nov1 amc and aime
 nov2 astro 
-nov3 300 confusing 2
+nov3 300 confusing 1
 nov4 astro
 dec1 200 more puzzling
 dec2 math
