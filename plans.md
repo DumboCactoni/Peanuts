@@ -108,13 +108,13 @@ nov1 amc and aime
 nov2 astro 
 nov3 300 confusing 1
 nov4 astro
-dec1 200 more puzzling
+dec1 200 more puzzling 
 dec2 math
 dec3 astro
-dec4 physics
+dec4 200 puzzling
 jan1 astro
-jan2 physics
+jan2 300 confusing 2
 jan3 astro
-jan4 physics
+jan4 f=ma
 
 
