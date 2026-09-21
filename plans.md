@@ -42,6 +42,7 @@ IOAA
 1; 2; 3; ###4; ###5; ###6; ###7; ### 8; ### 9; 10; 7.12345,5.19,4.4
 
 
+https://codeforces.com/problemset?order=BY_RATING_ASC&tags=1600-
 november amc; january usaco; february usaaao f=ma
 sept2 300 confusing 1
 [[september3.md]] math combinatorics 1
