@@ -20,7 +20,7 @@
 - [x] 9
 - [x] 10
 - [ ] 11 #
-- [ ] 12
+- [x] 12
 - [ ] 13 #
 
 ### codeforces -> refer to sept2
