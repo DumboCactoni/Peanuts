@@ -1,4 +1,4 @@
-### others
+### plans
 [[september3]]
 
 ![[prisms#schedule]]
@@ -11,5 +11,7 @@
 6 research albemarle 202 with app physics
 7 study hall
 8 english albemarle 210
+
+### others
 
 
