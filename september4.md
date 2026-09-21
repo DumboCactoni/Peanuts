@@ -133,7 +133,7 @@
 
 ### codeforces
 sept2 first 2, sept4 last 3
-- [ ] kuroni impossible calculation
+- [x] kuroni impossible calculation
 - [ ] make them equal
 - [ ] round dance
 - [ ] klcm hard
@@ -159,6 +159,8 @@ print stuff, prepare in research
 6 research albemarle 202 with app physics
 7 study hall
 8 english albemarle 210
+
+Burn it all down. Rebuild.
 
 ### others
 

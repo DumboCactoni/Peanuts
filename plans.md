@@ -92,7 +92,9 @@ exoplanets, population stars, do books?
 ## calendar
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=1600-
 november amc; january usaco; february usaaao f=ma
-must do 8 cf a week, 130 problems, 10 problems 1600, 30 1700, 30 1800, 30 1900, 30 2000, 30 2100, pray for gold. final stages cannot prioritize either must lock both
+must do 8 cf a week, 130 problems
+10 problems 1600, 30 1700, 30 1800, 30 1900, 30 2000, 30 2100, pray for gold. 
+final stages cannot prioritize either must lock both
 sept2 300 confusing 1
 [[september3.md]] aime intensive
 [[september4]] evan chen
