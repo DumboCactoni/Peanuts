@@ -145,7 +145,8 @@ sept2 first 2, sept4 last 3
 - [ ] linear alg ws due fri
 
 apush plan
-print stuff, prepare in research
+bio presentation
+
 
 [[plans]]
 [[september3]]
