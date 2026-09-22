@@ -160,7 +160,7 @@ print stuff, prepare in research
 7 study hall
 8 english albemarle 210
 
-Burn it all down. Rebuild.
+Burn it all down. Rebuild. xx ev eru chuer
 
 ### others
 
