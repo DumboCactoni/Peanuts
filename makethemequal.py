@@ -7,8 +7,8 @@ for cost in range(1,1001):
             globalcosts[cost+cost//divisor] = min(
             globalcosts[cost+cost//divisor], 1+globalcosts[cost])
 for indice in range(int(input())):
-    maxop = [int(i) for i in input().split()][1]
-    maxop = min(maxop, 12*[int(i) for i in input().split()][0])
+    input0 = [int(i) for i in input().split()]; maxop=input0[1]
+    maxop = min(maxop, 12*input0[0])
     array = [int(i) for i in input().split()]
     prizes = [int(i) for i in input().split()]
     costs = [globalcosts[i] for i in array]
@@ -18,6 +18,6 @@ for indice in range(int(input())):
         while opleft >= costs[index]:
             dp[opleft] = max(dp[opleft], 
             dp[opleft-costs[index]]+prizes[index]); opleft -= 1
-    print(dp[maxop]. print(maxop))
+    print(dp[maxop])
 
 
