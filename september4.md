@@ -1,12 +1,13 @@
 ### Evan chen 
 #### 2, 1.45-50
-- [ ] 45
-- [ ] 46
-- [ ] 47
-- [ ] 48
-- [ ] 49
-- [ ] 50
-- [ ] 21
+- [x] 45
+- [x] 46
+- [x] 47
+- [x] 48
+- [x] 49
+- [x] 50
+- [ ] 51
+- [x] 21
 - [ ] 22
 - [ ] 23
 ##### 2 problems
@@ -16,9 +17,10 @@
 - [ ] 27
 - [ ] 28
 - [ ] 29
-- [ ] 30
-- [ ] 31
+- [x] 30
+- [x] 31
 - [ ] 32
+##### part 2
 - [ ] 33
 - [ ] 34
 - [ ] 35
@@ -34,6 +36,7 @@
 - [ ] 21
 - [ ] 22
 - [ ] 23
+##### part 2
 - [ ] 24
 - [ ] 25
 - [ ] 26
@@ -41,6 +44,41 @@
 - [ ] 28
 - [ ] 29
 - [ ] 30
+
+### codeforces
+sept2 first 2, sept4 last 3
+- [x] kuroni impossible calculation
+- [x] make them equal
+- [ ] round dance
+- [ ] klcm hard
+- [ ] distinct character queries
+
+### plans
+- [x] apchem reading
+
+- [ ] linear alg ws due fri
+
+apush plan
+bio presentation
+
+
+[[plans]]
+[[september3]]
+![[prisms#schedule]]
+
+1 apush albemarle 206
+2 apcs albemarle 202
+3 apchem cottage chem
+4 linearalg albemarle 306
+5 apbio cottage log bio lab
+6 research albemarle 202 with app physics
+7 study hall
+8 english albemarle 210
+
+Burn it all down. Rebuild. xx ev eru chuer
+
+### others
+sleeping hours
 #### 4
 ##### 4.1-4.6
 - [ ] 1
