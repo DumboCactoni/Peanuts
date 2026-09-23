@@ -55,6 +55,10 @@ trig identities
 - [x] 1
 - [x] 2
 - [x] 3
+- [ ] 4
+- [ ] 5
+- [ ] 2,1.45-50 prob
+- [ ] 3 prob
 counting and prob
 - [x] 3
 - [x] 4
@@ -95,13 +99,14 @@ november amc; january usaco; february usaaao f=ma
 must do 8 cf a week, 130 problems
 10 problems 1600, 30 1700, 30 1800, 30 1900, 30 2000, 30 2100, pray for gold. 
 final stages cannot prioritize either must lock both
+
 sept2 300 confusing 1
 [[september3.md]] aime intensive
-[[september4]] evan chen
+[[september4]] evan chen 1
 oct1 200 puzzling
-oct2 aime intensive
-oct3 number theory
-oct4 evan chen
+oct2 number theory
+oct3 evan chen 2
+oct4 amc and aime
 nov1 amc and aime
 nov2 astro 
 nov3 300 confusing 1
