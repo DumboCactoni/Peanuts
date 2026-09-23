@@ -134,7 +134,7 @@
 ### codeforces
 sept2 first 2, sept4 last 3
 - [x] kuroni impossible calculation
-- [ ] make them equal
+- [x] make them equal
 - [ ] round dance
 - [ ] klcm hard
 - [ ] distinct character queries
