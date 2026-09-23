@@ -10,7 +10,7 @@
 - [x] 21
 - [ ] 22
 - [ ] 23
-##### 2 problems
+#### 2 problems
 - [ ] 24
 - [ ] 25
 - [ ] 26
@@ -20,7 +20,7 @@
 - [x] 30
 - [x] 31
 - [ ] 32
-##### part 2
+#### part 2
 - [ ] 33
 - [ ] 34
 - [ ] 35
@@ -36,7 +36,7 @@
 - [ ] 21
 - [ ] 22
 - [ ] 23
-##### part 2
+#### part 2
 - [ ] 24
 - [ ] 25
 - [ ] 26
@@ -67,7 +67,7 @@ bio presentation
 ![[prisms#schedule]]
 
 1 apush albemarle 206
-2 apcs albemarle 202
+2 physics
 3 apchem cottage chem
 4 linearalg albemarle 306
 5 apbio cottage log bio lab

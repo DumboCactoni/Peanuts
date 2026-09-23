@@ -194,7 +194,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "plans.md",
+            "file": "september4.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -219,10 +219,10 @@
   },
   "active": "25b86b97b273707b",
   "lastOpenFiles": [
-    "plans.md",
-    "september4.md",
-    "september3.md",
     "prisms.md",
+    "september4.md",
+    "plans.md",
+    "september3.md",
     "prisms/Schedule.md",
     "prisms",
     "parsastree.py",

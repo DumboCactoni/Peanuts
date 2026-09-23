@@ -63,9 +63,9 @@ Jiashen Li
 **12.25-1.45 3**
 **1.55-3.15 4**
 3.20-4 Flex Time Monday/clubs
-4.15-5 Flex Time Monday Friday / athletics
+4.15-5.30 Flex Time Monday Friday / athletics end 5
 5.30-6.30 dinner
-7-9.30 studyhall/free friday
+6.30-10.45 studyhall/free friday
 
 1 apush albemarle 206
 2 apcs albemarle 202
