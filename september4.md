@@ -79,6 +79,7 @@ Burn it all down. Rebuild. xx ev eru chuer
 
 ### others
 ### templates, info
+#### bs
 1. Cell Culture and Cell Proliferation Assays
 
 Original:
@@ -234,3 +235,5 @@ We see a statistically significant improvement with GLP++. At the end of 28 days
 - [ ] 29
 - [ ] 30
 
+#### breh
+The paper provides a good foundation for the basic theory behind the mechanism. It introduces the rankine and burgers vortex, which is a solution to an ideal navier-stokes equation. It maps the height of the vortex and finds it strictly to be a function of rotational frequency squared, mostly independent of container shape and stirring bar shape. Very helpfully, it provides and derivations for vertex depth, halfwidth of the vortex, allowing for characterizing the velocity using the burgers model. What warrants further review is how especially velocity affects stirring efficiency, which they gloss over by showing a dye pattern, and time to stir. Particularly, at the center of the vortex is a chaotic downard pull. Doing so would require experimentation, probably with a somewhat insoluble solute so it can be better observed, and further modelling.
