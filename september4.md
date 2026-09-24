@@ -57,9 +57,9 @@ sept2 first 2, sept4 last 3
 - [x] apchem reading
 - [ ] linear alg ws due fri
 - [x] ap bio bs
+- [ ] physics hw
 
 apush plan
-bio presentation
 
 
 [[plans]]
@@ -80,6 +80,21 @@ Chopin ballade
 
 ### others
 ### templates, info
+#### code
+import sys;ip=sys.stdin.readline;R=lambda:list(map(int,ip().split()))
+for _ in range(int(ip())):
+    n=int(ip()); a=R(); dic=[0]*(n+1); t=0; ans,res=0,0
+    for i in range(1,n+1):
+        if not dic[i]:
+            tmp=t; j=i
+            while not dic[j]: dic[j]=t; t+=1; j=a[j-1]
+            if dic[j]<tmp: continue
+            if t-dic[j]==2: ans+=1
+            else: res+=1
+    print(res+int(ans>0), res+ans)
+
+
+#### bs
 1. Cell Culture and Cell Proliferation Assays
 
 Original:
@@ -235,3 +250,5 @@ We see a statistically significant improvement with GLP++. At the end of 28 days
 - [ ] 29
 - [ ] 30
 
+#### breh
+The paper provides a good foundation for the basic theory behind the mechanism. It introduces the rankine and burgers vortex, which is a solution to an ideal navier-stokes equation. It maps the height of the vortex and finds it strictly to be a function of rotational frequency squared, mostly independent of container shape and stirring bar shape. Very helpfully, it provides and derivations for vertex depth, halfwidth of the vortex, allowing for characterizing the velocity using the burgers model. What warrants further review is how especially velocity affects stirring efficiency, which they gloss over by showing a dye pattern, and time to stir. Particularly, at the center of the vortex is a chaotic downard pull. Doing so would require experimentation, probably with a somewhat insoluble solute so it can be better observed, and further modelling.
