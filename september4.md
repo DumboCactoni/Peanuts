@@ -11,12 +11,12 @@
 - [ ] 22
 - [ ] 23
 #### 2 problems
-- [ ] 24
-- [ ] 25
-- [ ] 26
-- [ ] 27
+- [x] 24
+- [x] 25
+- [x] 26
+- [x] 27
 - [ ] 28
-- [ ] 29
+- [x] 29
 - [x] 30
 - [x] 31
 - [ ] 32
@@ -56,6 +56,7 @@ sept2 first 2, sept4 last 3
 ### plans
 - [x] apchem reading
 - [ ] linear alg ws due fri
+- [x] ap bio bs
 
 apush plan
 bio presentation
@@ -130,6 +131,18 @@ The researchers examined whether Ex-4 changed the levels of several proteins inv
 sleeping hours
 
 
+Methods and budget
+We used MCF-7, MDA-MB-231 and KLP-1 human breast cancer cell lines, and a LNCaP prostate cancer cell line, grown in DMEM and RPMI 1640 mediums respectively. The growth medium contained 10% fetal bovine serum and 1% penicillin. The cells were treated with a control, different concentrations of GLP++ and exendin-4. Cell proliferation was analyzed after 3 days with a hemocytometer.
+
+We built a viral carrier for GLP-1R with a flag epitope tag, before inserting the gene into an expression vector that could be carried by a virus. This carrier using HEK293 cells was used to introduce the gene to MCF-7 breast cancer cells. Later, the cells were treated with puromycin (synthesis inhibitor) to select for the cells that had recieved the gene. 
+
+We used immunodeficient athymic (t cells) mice housed in pathogen-free barrier facilities. They were treated with either saline, exendin-4 or GLP++ first continuously for 6 weeks. Then we used, saline, combinations of exendin-4 and exendin(9-39), an antagonist, and GLP++, to verify the effect. At the end of 13 weeks, we collected blood samples, measured tumor volume, and euthanized the mice.We developed a long-acting GLP++ optimized for increased receptor affinity and half-life. Carcinoma cells were injected into 60 mice randomly placed in 3 groups of control, GLP++ and exendin-4, which was injected daily for 28 days.
+
+For the preclinical study, we spent 230k. We spent 50k buying 30 mice, along with associated housing costs. We purchased cancer cell lines for 50k, had equipment costs of 30k and 50k on western blot (proteins) antibody kits. Lastly, we spent 50k on viral vector construction. 
+
+
+Estimated results and future work
+We see a statistically significant improvement with GLP++. At the end of 28 days, the GLP++ performed 42% better than the current exendin-4 drug, and a 60% improvement from the control. Future work should focus on expanding the approach to a longitudinal study in real persons, and coming up with different formulations of GLP most suited to specific cancers and ailments that activate or inhibit specific reaction pathways.  
 
 #### 4
 ##### 4.1-4.6
