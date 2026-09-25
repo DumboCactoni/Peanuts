@@ -58,13 +58,14 @@ Jiashen Li
 **8-9.20 1**
 9.20-9.40 announcements, meetings ct even
 **9.45-11.05 2**
-11.05-12.05 lunch
+11.05-11.30 lunch
+11.30-12.05 lunch/work
 12.05-12.25 office hours
 **12.25-1.45 3**
 **1.55-3.15 4**
 3.20-4 Flex Time Monday/clubs
 4.15-5 Flex Time Monday Friday / athletics
-5-5.30 free time
+5-5.30 work
 5.30-6.30 dinner
 6.30-10.45 studyhall/free friday
 

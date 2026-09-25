@@ -75,7 +75,8 @@ apush plan
 7 study hall
 8 english albemarle 210
 
-Burn it all down. Rebuild. xx ev eru chuer
+Lizst consolation 
+Chopin ballade 
 
 ### others
 ### templates, info
