@@ -80,7 +80,18 @@ Chopin ballade
 
 ### others
 #### code
-
+1. #hi
+2. import sys;ip=sys.stdin.readline;R=lambda:list(map(int,ip().split()))
+3. for _ in range(int(ip())):
+4. n=int(ip()); a=R(); dic=[0]*(n+1); t=0; ans,res=0,0
+5. for i in range(1,n+1):
+6. if not dic[i]:
+7. tmp=t; j=i
+8. while not dic[j]: dic[j]=t; t+=1; j=a[j-1]
+9. if dic[j]<tmp: continue
+10. if t-dic[j]==2: ans+=1
+11. else: res+=1
+12. print(res+int(ans>0), res+ans)
 
 
 #### bs
