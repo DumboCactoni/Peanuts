@@ -50,7 +50,7 @@
 sept2 first 2, sept4 last 3
 - [x] kuroni impossible calculation
 - [x] make them equal
-- [ ] round dance
+- [x] round dance
 - [ ] klcm hard
 - [ ] distinct character queries
 
@@ -60,8 +60,7 @@ sept2 first 2, sept4 last 3
 - [x] ap bio bs
 - [x] physics hw
 
-apush plan
-
+ap lang?
 
 [[plans]]
 [[september3]]
@@ -76,23 +75,40 @@ apush plan
 7 study hall
 8 english albemarle 210
 
-Lizst consolation 
-Chopin ballade 
-
 ### others
 #### code
 1. #hi
 2. import sys;ip=sys.stdin.readline;R=lambda:list(map(int,ip().split()))
 3. for _ in range(int(ip())):
 4. n=int(ip()); a=R(); dic=[0]*(n+1); t=0; ans,res=0,0
-5. for i in range(1,n+1):
-6. if not dic[i]:
+5. for i in rangep=t(1,n+1):
+6. if not dic[i]: 
 7. tmp=t; j=i
 8. while not dic[j]: dic[j]=t; t+=1; j=a[j-1]
 9. if dic[j]<tmp: continue
 10. if t-dic[j]==2: ans+=1
 11. else: res+=1
 12. print(res+int(ans>0), res+ans)
+
+
+import sys
+R=iter(sys.stdin.read().split())
+S=lambda:next(R)
+I=lambda:int(S())
+r=range
+A=[ord(c)-97for c in S()]
+n=len(A)
+T=[[0]*(n+1)for _ in r(26)]
+def u(x,i,d):
+	while i<=n:T[x][i]+=d;i+=i&-i
+def p(x,i):
+	r=0
+	while i:r+=T[x][i];i&=i-1
+	return r
+for i in r(n):u(A[i],i+1,1)
+for _ in r(I()):
+	if I()==1:i=I();u(A[i-1],i,-1);A[i-1]=ord(S())-97;u(A[i-1],i,1)
+	else:i,j=I(),I();print(sum(p(x,i-1)!=p(x,j)for x in r(26)))
 
 
 #### bs
