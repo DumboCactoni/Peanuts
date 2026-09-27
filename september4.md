@@ -28,14 +28,14 @@
 - [x] 37
 - [ ] 38
 #### 3 
-- [ ] review ceva
-- [ ] 16
-- [ ] 17
-- [ ] 18
-- [ ] 19
+- [x] review ceva
+- [x] 16
+- [x] 17
+- [x] 18
+- [x] 19
 - [ ] 20
-- [ ] 21 ?
-- [ ] 22
+- [ ] 21
+- [x] 22
 - [x] 23
 #### part 2
 - [x] 24
@@ -53,6 +53,9 @@ sept2 first 2, sept4 last 3
 - [x] round dance
 - [ ] klcm hard
 - [ ] distinct character queries
+
+- [ ] 2019a q13
+- [ ] 2019b q13
 
 ### plans
 - [x] apchem reading
