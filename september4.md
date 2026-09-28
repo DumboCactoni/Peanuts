@@ -51,7 +51,7 @@ sept2 first 2, sept4 last 3
 - [x] kuroni impossible calculation
 - [x] make them equal
 - [x] round dance
-- [ ] klcm hard
+- [x] klcm hard
 - [ ] distinct character queries ! 
 
 - [ ] 2019a q13
