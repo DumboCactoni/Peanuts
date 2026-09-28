@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "october1.md",
+                "file": "plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "october1"
+              "title": "plans"
             }
           }
         ],
@@ -208,7 +208,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "september4.md",
+            "file": "plans.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -233,8 +233,8 @@
   },
   "active": "7f1dbf7edc292865",
   "lastOpenFiles": [
-    "plans.md",
     "october1.md",
+    "plans.md",
     "september4.md",
     "prisms.md",
     "september3.md",

@@ -104,8 +104,8 @@ sept2 300 confusing 1
 [[september3.md]] aime intensive
 [[september4]] evan chen 1
 [[october1]] 200 puzzling
-oct2 number theory
-oct3 evan chen 2
+oct2 Evan Chen 2
+oct3 number theory
 oct4 amc and aime
 nov1 amc and aime
 nov2 astro 
