@@ -103,7 +103,7 @@ final stages cannot prioritize either must lock both
 sept2 300 confusing 1
 [[september3.md]] aime intensive
 [[september4]] evan chen 1
-oct1 200 puzzling
+[[october1]] 200 puzzling
 oct2 number theory
 oct3 evan chen 2
 oct4 amc and aime
