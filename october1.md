@@ -62,6 +62,8 @@ Dimensional analysis, scaling, estimations: 15, 57, 58, 59*, 76*, 77, 126
 
 
 ### notes
+- [x] physics, chem, english
+- [ ] chem lab report
 
 [[plans]]
 [[september3]]
