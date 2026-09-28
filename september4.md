@@ -6,7 +6,7 @@
 - [x] 48
 - [x] 49
 - [x] 50
-- [ ] 51
+- [x] 51
 - [x] 21
 - [ ] 22
 - [ ] 23
@@ -40,11 +40,11 @@
 #### part 2
 - [x] 24
 - [x] 25
-- [ ] 26
-- [ ] 27
+- [x] 26
+- [x] 27
 - [x] 28
 - [ ] 29
-- [ ] 30
+- [x] 30
 
 ### codeforces
 sept2 first 2, sept4 last 3
@@ -52,7 +52,7 @@ sept2 first 2, sept4 last 3
 - [x] make them equal
 - [x] round dance
 - [ ] klcm hard
-- [ ] distinct character queries
+- [ ] distinct character queries ! 
 
 - [ ] 2019a q13
 - [ ] 2019b q13
@@ -112,7 +112,6 @@ for i in r(n):u(A[i],i+1,1)
 for _ in r(I()):
 	if I()==1:i=I();u(A[i-1],i,-1);A[i-1]=ord(S())-97;u(A[i-1],i,1)
 	else:i,j=I(),I();print(sum(p(x,i-1)!=p(x,j)for x in r(26)))
-
 
 #### bs
 1. Cell Culture and Cell Proliferation Assays
