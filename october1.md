@@ -122,15 +122,17 @@
 ### codeforces
 - [ ] distinct char queries
 - [ ] f=ma 2026
+- [ ] solve the maze
+- [ ] caesars legions
+- [ ] valid bfs
+- [ ] greg and graph
+- [ ] checkposts
+- [ ] sleeping schedule
+- [ ] george and job
+- [ ] little girl max xor
 
 - [x] 22
-- [x] 23- [ ] 28
-- [ ] 32
-- [ ] 20
-- [ ] 21
-- [ ] 29
-- [ ] 2019a 13
-- [ ] 2019b 13
+- [x] 23
 
 ### notes
 - [x] physics, chem, english
