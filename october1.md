@@ -119,11 +119,19 @@
 - [ ] 199
 
 
-
 ### codeforces
+- [ ] distinct char queries
 - [ ] f=ma 2026
 
-- [ ] 
+- [x] 22
+- [x] 23- [ ] 28
+- [ ] 32
+- [ ] 20
+- [ ] 21
+- [ ] 29
+- [ ] 2019a 13
+- [ ] 2019b 13
+
 ### notes
 - [x] physics, chem, english
 - [ ] chem lab report
@@ -140,5 +148,25 @@
 6 research albemarle 202 with app physics
 7 study hall
 8 english albemarle 210
+
+##### code
+import sys
+R=iter(sys.stdin.read().split())
+S=lambda:next(R)
+I=lambda:int(S())
+r=range
+A=[ord(c)-97for c in S()]
+n=len(A)
+T=[[0]*(n+1)for _ in r(26)]
+def u(x,i,d):
+	while i<=n:T[x][i]+=d;i+=i&-i
+def p(x,i):
+	r=0
+	while i:r+=T[x][i];i&=i-1
+	return r
+for i in r(n):u(A[i],i+1,1)
+for _ in r(I()):
+	if I()==1:i=I();u(A[i-1],i,-1);A[i-1]=ord(S())-97;u(A[i-1],i,1)
+	else:i,j=I(),I();print(sum(p(x,i-1)!=p(x,j)for x in r(26)))
 
 

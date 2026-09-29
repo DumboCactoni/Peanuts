@@ -57,8 +57,9 @@ trig identities
 - [x] 3
 - [ ] 4
 - [ ] 5
-- [ ] 2,1.45-50 prob
-- [ ] 3 prob
+- [x] 2,1.45-50 prob
+- [x] 3 prob
+- [ ] 2.2832, 3.202129, 2019ab13
 counting and prob
 - [x] 3
 - [x] 4
@@ -97,7 +98,7 @@ exoplanets, population stars, do books?
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=1600-
 november amc; january usaco; february usaaao f=ma
 must do 8 cf a week, 130 problems
-10 problems 1600, 30 1700, 30 1800, 30 1900, 30 2000, 30 2100, pray for gold. 
+10 problems 1600, 30 1700 oct, 30 1800 nov, 30 1900 dec, 30 2000 jan, 30 2100 feb, pray for gold. 
 final stages cannot prioritize either must lock both
 
 sept2 300 confusing 1
