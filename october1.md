@@ -68,7 +68,7 @@
 - [ ] 51
 - [ ] 107
 
-##### elasticity ropes
+#### elasticity ropes
 - [ ] 9
 - [ ] 10
 - [ ] 11
@@ -120,16 +120,17 @@
 
 
 ### codeforces
-- [ ] distinct char queries
-- [ ] f=ma 2026
+- [x] distinct char queries
 - [ ] solve the maze
 - [ ] caesars legions
+
 - [ ] valid bfs
 - [ ] greg and graph
 - [ ] checkposts
 - [ ] sleeping schedule
 - [ ] george and job
 - [ ] little girl max xor
+- [ ] f=ma 2026
 
 - [x] 22
 - [x] 23
@@ -137,6 +138,7 @@
 ### notes
 - [x] physics, chem, english
 - [ ] chem lab report
+- [ ] linear alg review hw
 
 [[plans]]
 [[september3]]
