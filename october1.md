@@ -138,7 +138,7 @@
 ### notes
 - [x] physics, chem, english
 - [ ] chem lab report
-- [ ] linear alg review hw
+- [x] linear alg review
 
 [[plans]]
 [[september3]]
