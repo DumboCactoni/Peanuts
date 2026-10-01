@@ -7,11 +7,12 @@
 - [ ] 18
 
 - [ ] 32
-- [ ] 81
+- [x] 81
 - [ ] 87
 - [ ] 88
+- [x] 89
+- [ ] 95
 
-- [ ] 89
 - [ ] 110
 - [ ] 111
 - [ ] 112
@@ -21,6 +22,7 @@
 - [ ] 7
 - [ ] 17
 - [ ] 18
+
 - [ ] 32
 - [ ] 51
 - [ ] 107
@@ -82,9 +84,9 @@
 - [x] caesars legions
 - [x] valid bfs
 - [ ] greg and graph
-
 - [ ] checkposts
 - [ ] sleeping schedule
+
 - [ ] george and job
 - [ ] little girl max xor
 - [ ] f=ma 2026
@@ -92,25 +94,7 @@
 - [x] 22
 - [x] 23
 
-### bs
-title, goal, chemicals/materials,  method description, brief procedures, well-organized data table, observation, calculation based on the balanced equation and stoichiometry, data analysis including error analysis
 
-Title
-Determining the mass percent of copper in brass ingots
-
-Goal
-By using a spectrophotometer, we can buid a calibration curve for copper nitrate produced by reaction with nitric acid. Copper nitrate has a blue color, while zinc nitrate is colorless.
-
-Chemicals/materials
-We use brass ingots, concentrated nitric acid, copper sulfate hydrate, a spectrophotometer, beakers, volumetric flasks, a micropipette and pipettes.
-
-Procedure and observations
-1. Measure out and dissolve 0.96g of brass ingots in concentrated nitric acid. A brown gas, nitrogen dioxide is observed, while the solution turns from colorless to green, and not yet blue, because of dissolved nitrogen dioxide.
-2. Transfer aqueous brass and dilute to 100ml in volumetric flask. Rinse the erlenmyer as it is transferred.
-3. Prepare 0.05, 0.1, 0.15 and 0.2M standard copper sulfate solutions. The solutions from least to most concentrated go from light to dark blue.
-4. Analyze the full spectrum of copper sulfate to find the peak wavelength. Produce the calibration curve using this wavelength. Determine copper nitrate molarity in the brass solution.
-
-Data and error analysis
 
 ### notes
 - [x] physics, chem, english
@@ -132,6 +116,26 @@ Data and error analysis
 7 study hall
 8 english albemarle 210
 
+
+##### bs
+title, goal, chemicals/materials,  method description, brief procedures, well-organized data table, observation, calculation based on the balanced equation and stoichiometry, data analysis including error analysis
+
+Title
+Determining the mass percent of copper in brass ingots
+
+Goal
+By using a spectrophotometer, we can buid a calibration curve for copper nitrate produced by reaction with nitric acid. Copper nitrate has a blue color, while zinc nitrate is colorless.
+
+Chemicals/materials
+We use brass ingots, concentrated nitric acid, copper sulfate hydrate, a spectrophotometer, beakers, volumetric flasks, a micropipette and pipettes.
+
+Procedure and observations
+1. Measure out and dissolve 0.96g of brass ingots in concentrated nitric acid. A brown gas, nitrogen dioxide is observed, while the solution turns from colorless to green, and not yet blue, because of dissolved nitrogen dioxide.
+2. Transfer aqueous brass and dilute to 100ml in volumetric flask. Rinse the erlenmyer as it is transferred.
+3. Prepare 0.05, 0.1, 0.15 and 0.2M standard copper sulfate solutions. The solutions from least to most concentrated go from light to dark blue.
+4. Analyze the full spectrum of copper sulfate to find the peak wavelength. Produce the calibration curve using this wavelength. Determine copper nitrate molarity in the brass solution.
+
+Data and error analysis
 ##### kinematics dynamics dimensional analysis
 - [ ] 1
 - [ ] 3
