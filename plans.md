@@ -25,9 +25,10 @@ review oscillations
 - [ ] 14
 - [ ] 4.367810
 #### 200 confusing
+review whether collisions rigid bodies were done
 - [ ] kinematics dynamics dimensional analysis
 - [ ] gravitation mech
-- [x] collisions rigid bodies
+- [x] collisions rigid bodies 
 - [ ] elasticity ropes
 - [ ] liquids surface tension
 

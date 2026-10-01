@@ -5,10 +5,12 @@
 - [ ] 16
 - [ ] 17
 - [ ] 18
+
 - [ ] 32
 - [ ] 81
 - [ ] 87
 - [ ] 88
+
 - [ ] 89
 - [ ] 110
 - [ ] 111
@@ -77,8 +79,8 @@
 ### codeforces
 - [x] distinct char queries
 - [x] solve the maze
-- [ ] caesars legions
-- [ ] valid bfs
+- [x] caesars legions
+- [x] valid bfs
 - [ ] greg and graph
 
 - [ ] checkposts
