@@ -1,7 +1,6 @@
 ### 200 puzzling
 
 ##### ***gravitation mech***
-hopefully by thursday, early friday
 - [ ] 15
 - [ ] 16
 - [ ] 17
