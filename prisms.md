@@ -127,7 +127,6 @@ freedom and desires for their relationships with Europeans?
 9. Why did Native Americans exercise more power in their relations with
 the Dutch and French than with the English?
 
-### bio moonshot
 
 ### bs
 Repurposing GLP-1 medicines as a systemic anti-tumor remedy
@@ -186,4 +185,6 @@ $$
 NaHCO_3 + HCl \:\; 3 -> NaCl + CO2 + H2O \newline
 3NaHCO_3 + H_3C_6H_5O_7 \;\; -> Na_3C_6H_5O_7 + 3H_2O + 3CO_2
 $$
+### others
+
 ### others
