@@ -34,7 +34,7 @@ review whether collisions rigid bodies were done
 
 #### 200 more confusing
 - [x] kinematics dynamics dimensional analysis
-- [ ] gravitation mech
+- [ ] gravitation mech precheckw
 - [ ] collisions rigid bodies
 - [ ] elasticity ropes
 - [ ] liquids surface tension
