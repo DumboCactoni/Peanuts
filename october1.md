@@ -11,7 +11,7 @@
 - [ ] 88
 - [x] 89
 - [ ] 95
-- [ ] 110
+- [x] 110
 - [ ] 111
 - [ ] 112
 - [ ] 116
@@ -83,10 +83,10 @@
 - [ ] greg and graph
 - [ ] checkposts
 - [ ] sleeping schedule
+- [ ] f=ma 2026
 
 - [ ] george and job
 - [ ] little girl max xor
-- [ ] f=ma 2026
 
 - [x] 22
 - [x] 23
