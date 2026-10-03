@@ -25,7 +25,7 @@
 - [x] 51
 - [ ] 107
 
-##### ***elasticity ropes***
+##### ***statics ropes***
 - [ ] 9
 - [ ] 10
 - [ ] 11
@@ -50,7 +50,7 @@
 - [x] 108
 
 
-##### liquids surface tension
+##### ***liquids surface tension***
 - [ ] 19
 - [ ] 27
 - [ ] 28
@@ -58,6 +58,7 @@
 - [ ] 50
 - [ ] 70
 - [ ] 73
+
 - [ ] 74
 - [ ] 75
 - [ ] 91
@@ -81,10 +82,10 @@
 - [x] solve the maze
 - [x] caesars legions
 - [x] valid bfs
-- [ ] greg and graph
+- [x] greg and graph
 - [ ] checkposts
 - [ ] sleeping schedule
-- [ ] f=ma 2026
+- [x] f=ma 2026
 
 - [ ] george and job
 - [ ] little girl max xor
