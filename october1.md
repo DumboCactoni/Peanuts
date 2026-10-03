@@ -113,6 +113,11 @@
 7 study hall
 8 english albemarle 210
 
+8-11 work
+11-12 lunch
+12-5.30 work
+6-11 work
+
 
 ##### bs
 title, goal, chemicals/materials,  method description, brief procedures, well-organized data table, observation, calculation based on the balanced equation and stoichiometry, data analysis including error analysis
