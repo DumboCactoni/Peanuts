@@ -77,6 +77,11 @@ Jiashen Li
 6 research cottage chem??
 7 study hall
 8 english albemarle 210
+
+8-11 work
+11-12 lunch
+12-5.30 work
+6-11 work
 ### apush
 #### chap 2
 1. Compare and contrast settlement patterns, religion, and relations with
