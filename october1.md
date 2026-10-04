@@ -103,9 +103,17 @@
 - [ ] english read
 - [ ] physics online, hw
 
+carbon fiber tube/wooden dowels
+25 ohm resistor 5w (currently 100ohms)
+limit switch
+disc magnets
+pulley and flywheel
+miscellaneous nuts and screws
+satin fabric
+
 [[plans]]
 [[september3]]
-![[prisms#schedule]]
+[[prisms]]
 
 1 apush albemarle 206
 2 physics
