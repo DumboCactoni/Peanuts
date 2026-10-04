@@ -49,7 +49,7 @@
 - [x] 108
 
 
-##### liquids surface tension
+##### ***liquids surface tension***
 - [ ] 19
 - [ ] 27
 - [ ] 28
@@ -57,6 +57,7 @@
 - [ ] 50
 - [ ] 70
 - [ ] 73
+
 - [ ] 74
 - [ ] 75
 - [ ] 91
@@ -80,10 +81,10 @@
 - [x] solve the maze
 - [x] caesars legions
 - [x] valid bfs
-- [ ] greg and graph
+- [x] greg and graph
 - [ ] checkposts
 - [ ] sleeping schedule
-- [ ] f=ma 2026
+- [x] f=ma 2026
 
 - [ ] george and job
 - [ ] little girl max xor
@@ -113,9 +114,9 @@
 7 study hall
 8 english albemarle 210
 
-8-11 work
-11-12 lunch
-12-5.30 work
+8-10.30 golf/violin
+10.30-11.30 lunch
+11.30-5.30 work
 6-11 work
 
 
