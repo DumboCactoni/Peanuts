@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans.md",
+                "file": "october2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "plans"
+              "title": "october2"
             }
           }
         ],
@@ -243,16 +243,17 @@
   },
   "active": "7f1dbf7edc292865",
   "lastOpenFiles": [
+    "prisms/schedule.md",
     "october2.md",
-    "october1.md",
-    "plans.md",
-    "september4.md",
+    "prisms",
     "prisms.md",
+    "plans.md",
+    "october1.md",
+    "september4.md",
     "checkposts.py",
     "greggraph.py",
     "september3.md",
     "prisms/Schedule.md",
-    "prisms",
     "parsastree.py",
     "old/Master.md",
     "hardproblem.py",
@@ -277,7 +278,6 @@
     "26 July.md",
     "July 4.md",
     "July 2.md",
-    "July 3.md",
-    "Numbers.md"
+    "July 3.md"
   ]
 }
