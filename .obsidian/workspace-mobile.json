@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "october1.md",
+                "file": "october2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "october1"
+              "title": "october2"
             }
           }
         ],
@@ -218,7 +218,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "october1.md",
+            "file": "october2.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -243,12 +243,13 @@
   },
   "active": "7f1dbf7edc292865",
   "lastOpenFiles": [
-    "checkposts.py",
-    "greggraph.py",
-    "prisms.md",
     "october1.md",
+    "october2.md",
     "plans.md",
     "september4.md",
+    "prisms.md",
+    "checkposts.py",
+    "greggraph.py",
     "september3.md",
     "prisms/Schedule.md",
     "prisms",
@@ -267,7 +268,6 @@
     "Hvcc.md",
     "dailynotes/2026-07-31.md",
     "dailynotes/2026-07-30.md",
-    "dailynotes",
     "2026-07-30.md",
     "26 May-August.md",
     "Master.md",
