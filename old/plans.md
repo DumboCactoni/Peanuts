@@ -53,6 +53,7 @@ always start from the back
 - [x] 5
 - [ ] 4.2.6,7, lte, ord
 - [ ] chap 5
+- [ ] 1,2,3 review
 #####  Evan Chen
 - [x] 1
 - [x] 2
