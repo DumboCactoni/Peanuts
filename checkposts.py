@@ -31,12 +31,13 @@ for origin in reversestack[::-1]:
         finaldfs.append(path)
 totalcost = 0; totalways = 1
 for stronglist in finaldfs:
-    strongcost = []; mincost=float('inf'); tempways=1
+    strongcost = []; mincost=float('inf'); tempways=0
     for val in stronglist: 
         strongcost.append(costs[val])
-        if costs[val]==mincost: tempways+=1
         mincost = min(costs[val], mincost)
-    totalcost += mincost; totalways*=tempways
+    for val in strongcost: 
+        if val==mincost: tempways+=1
+    totalcost += mincost; totalways = totalways*tempways%(10**9+7)
 print(totalcost, totalways)
 
 
