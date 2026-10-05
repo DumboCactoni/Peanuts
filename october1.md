@@ -56,24 +56,24 @@
 - [x] 27
 - [x] 28
 - [x] 49
-- [ ] 50
+- [x] 50
 - [x] 70
 - [x] 73
 
-- [ ] 74
-- [ ] 75
+- [x] 74
+- [x] 75
 - [x] 91
-- [ ] 115
-- [ ] 143
+- [x] 115
+- [x] 143
 - [x] 200
 
 - [ ] 29
 - [ ] 62
 - [ ] 63
 - [x] 129
-- [ ] 130
+- [x] 130
 - [x] 131
-- [ ] 132
+- [x] 132
 - [ ] 143
 - [ ] 199
 
@@ -84,7 +84,7 @@
 - [x] caesars legions
 - [x] valid bfs
 - [x] greg and graph
-- [ ] checkposts
+- [x] checkposts
 - [ ] sleeping schedule
 - [x] f=ma 2026
 
@@ -104,10 +104,17 @@
 - [ ] physics online, hw
 
 Via benefits
+carbon fiber tube/wooden dowels
+25 ohm resistor 5w (currently 100ohms)
+limit switch
+disc magnets
+pulley and flywheel
+miscellaneous nuts and screws
+satin fabric
 
 [[plans]]
 [[september3]]
-![[prisms#schedule]]
+[[prisms]]
 
 1 apush albemarle 206
 2 physics
