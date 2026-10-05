@@ -243,6 +243,8 @@
   },
   "active": "7f1dbf7edc292865",
   "lastOpenFiles": [
+    "checkposts.py",
+    "greggraph.py",
     "prisms.md",
     "october1.md",
     "plans.md",
@@ -270,14 +272,12 @@
     "26 May-August.md",
     "Master.md",
     "templates.md",
-    "schedule.py",
     "2026-07-28.md",
     "essays.md",
     "26 July.md",
     "July 4.md",
     "July 2.md",
     "July 3.md",
-    "Numbers.md",
-    "pittsburgh.md"
+    "Numbers.md"
   ]
 }

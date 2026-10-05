@@ -103,6 +103,8 @@
 - [ ] english read
 - [ ] physics online, hw
 
+Via benefits
+
 [[plans]]
 [[september3]]
 ![[prisms#schedule]]
