@@ -4,17 +4,6 @@
 - [ ] 2
 - [ ] 3
 - [ ] 4
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
 - [ ] 5
 - [ ] 6
 - [ ] 7
@@ -120,6 +109,7 @@
 
 - [ ] sleeping schedule
 - [ ] george and job
+
 - [ ] little girl max xor
 - [ ] running miles
 - [ ] another division problem
@@ -129,7 +119,6 @@
 
 - [ ] 2019 amc12a
 - [ ] 2019 amc12b
-
 ### 2020 aime1
 - [ ] 4
 - [ ] 5
