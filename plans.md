@@ -51,8 +51,7 @@ trig identities
 - [x] 3
 - [x] 4
 - [x] 5
-- [ ] 4.2.6,7, lte, ord, 3,4 review
-- [ ] chap 5
+- [ ] 4.2.6,7, 3.3, chap 5
 - [ ] 1,2 review
 #### Evan Chen
 - [x] 1

@@ -1,6 +1,5 @@
-# mont
+# mont 1,2 review
 
-### 1,2 review
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -70,36 +69,24 @@
 - [ ] 12
 - [ ] 13
 
-### chap 5
-- [ ] 1
-- [ ] 2
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 1
-- [ ] 2
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
+
 
 # codeforces
 
 - [ ] sleeping schedule
 - [ ] george and job
-
 - [ ] little girl max xor
 - [ ] running miles
 - [ ] another division problem
 - [ ] mixing water
+  
 - [ ] color the fence
 - [ ] graph without long paths
 
 - [ ] 2019 amc12a
+- [x] -- 
 - [ ] 2019 amc12b
+- [ ] --
 ### 2020 aime1
 - [ ] 4
 - [ ] 5
@@ -142,23 +129,19 @@ Careful casework
 [[september3]]
 ![[prisms#schedule]]
 
-### 3,4 review
-- [x] 1
-- [x] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-
+### chap 5
 - [ ] 1
+- [ ] 2
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
 - [ ] 6
-- [ ] 7
-- [ ] 8
 - [ ] 1
+- [ ] 2
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+
