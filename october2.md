@@ -83,10 +83,18 @@
 - [ ] color the fence
 - [ ] graph without long paths
 
-- [ ] 2019 amc12a
-- [x] -- 
-- [ ] 2019 amc12b
-- [ ] --
+2019 amc12a
+- [x] 1
+- [x] 2
+- [x] 3
+- [x] 4
+- [ ] 5
+2019 amc12b
+- [x] 1
+- [x] 2
+- [x] 3
+- [ ] 4
+- [ ] 5
 ### 2020 aime1
 - [ ] 4
 - [ ] 5
