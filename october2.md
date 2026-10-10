@@ -76,14 +76,14 @@
 - [x] sleeping schedule
 - [x] george and job
 - [x] little girl max xor
-- [ ] running miles
-- [ ] another division problem
-- [ ] mixing water
+- [x] running miles
+- [x] another division problem
+- [x] mixing water
   
 - [ ] color the fence
 - [ ] graph without long paths
 
-2019 amc12a
+### 2019 amc12a
 - [x] 1
 - [x] 2
 - [x] 3
@@ -94,7 +94,7 @@
 - [ ] 4
 - [ ] 5
 
-2019 amc12b
+### 2019 amc12b
 - [x] 1
 - [x] 2
 - [x] 3
