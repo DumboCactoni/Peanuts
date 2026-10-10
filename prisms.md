@@ -78,9 +78,10 @@ Jiashen Li
 7 study hall
 8 english albemarle 210
 
-8-11 work
-11-12 lunch
-12-5.30 work
+8-10.30 play
+10.30-11.30 lunch
+11.30-5.30 work
+5.30-6 dinner
 6-11 work
 ### apush
 #### chap 2
