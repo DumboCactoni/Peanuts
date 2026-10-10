@@ -73,7 +73,7 @@
 
 # codeforces
 
-- [ ] sleeping schedule
+- [x] sleeping schedule
 - [ ] george and job
 - [ ] little girl max xor
 - [ ] running miles
