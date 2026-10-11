@@ -78,8 +78,8 @@ Jiashen Li
 7 study hall
 8 english albemarle 210
 
-8-10.30 work
-11.30-11.30 lunch
+8-10.30 play
+10.30-11.30 lunch
 11.30-5.30 work
 5.30-6 dinner
 6-11 work
