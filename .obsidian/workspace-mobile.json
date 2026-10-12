@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "october2.md",
+                "file": "october3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "october2"
+              "title": "october3"
             }
           }
         ],
@@ -243,9 +243,9 @@
   },
   "active": "7f1dbf7edc292865",
   "lastOpenFiles": [
+    "october2.md",
     "september4.md",
     "prisms.md",
-    "october2.md",
     "october1.md",
     "september3.md",
     "prisms/schedule.md",
