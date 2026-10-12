@@ -52,7 +52,7 @@ trig identities
 - [x] 4
 - [x] 5
 - [ ] 4.2.6,7, 3.3, chap 5
-- [ ] 1,2 review
+- [x] 1,2 review
 #### Evan Chen
 - [x] 1
 - [x] 2
