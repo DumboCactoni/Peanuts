@@ -93,7 +93,7 @@
 - [ ] 29
 - [ ] 30
 # codeforces, papers
-- [ ] color the fence
+- [x] color the fence
 - [ ] graph without long paths
 - [ ] zero path
 - [ ] baby ehab partitions
@@ -104,15 +104,15 @@
 
 do till 22
 ### 2020amc12a
-- [ ] 1
-- [ ] 2
-- [ ] 3
+- [x] 1
+- [x] 2
+- [x] 3
 - [ ] 4
 - [ ] 5
 ### 2020amc12b
-- [ ] 1
-- [ ] 2
-- [ ] 3
+- [x] 1
+- [x] 2
+- [x] 3
 - [ ] 4
 - [ ] 5
 ### 2021amc12a
@@ -154,23 +154,25 @@ do till 22
 [[/plans]]
 [[september3]]
 ![[prisms#schedule]]
-[[biology]]
+[prisms]
 
-I’m a student in [town], and I’m writing to respectfully urge Governor Sherrill to opt New Jersey into the new federal scholarship tax credit before the December 31 deadline.
+I’m a student in Princeton, and I’m writing to respectfully urge Governor Sherrill to opt New Jersey into the new federal scholarship tax credit before the December 31 deadline. 
 
-[One or two sentences about your own school experience: what options you had, or didn’t, and why it mattered.]
+Starting in 2027, those who donate to approved scholarship organizations get a matching federal tax credit up to $1,700. The scholarships can pay for tutoring, special-needs services, books, and other school costs for students in public, private, and religious schools. Families earning up to three times the area median income qualify.
 
-Starting in 2027, taxpayers who donate to an approved scholarship organization get a dollar-for-dollar federal tax credit of up to $1,700. The scholarships can pay for tutoring, special-needs services, books, and other school costs for students in public, private, and religious schools. Families earning up to three times the area median income qualify, which covers the typical Princeton household. No state tax dollars are involved, and public school budgets aren’t touched.
+I will be frank that at least part of the reason this caught my attention was my own experience with public and private schools, such that I am generally inclined to side with school choice, as this smells of. However, you do not have to like school choice, or like Trump, the way this is rather partisan coded, as many things are. You just have to consider what is best for New Jersey.
 
-Here is the catch: the credit only helps New Jersey students if the governor opts in. If she doesn’t, residents can still claim it, but only by giving to scholarship groups in other states, such as New York, whose governor has said she plans to join.
+Not opting in only funnels money from New Jersey out of state, especially New York, where governor Hochul, I should note a Democratic governor, has already decided to opt in. Anyone can still claim the tax credit even if Sherrill does not opt in, with the only difference being that the money no longer helps New Jersey students.
 
-Princeton shows what’s at stake. With a median household income around $184,000, many residents owe more than enough federal tax to use the full credit. If just 15 percent of Princeton’s roughly 9,000 households gave $1,700, that would be about $2.3 million a year. Without New Jersey opting in, all of it would fund students across state lines.
+Princeton without doubt is an affluent town. With a high median household income of $184000, this tax credit is particularly relevant, as many families have sufficiently high tax burdens to make full use of it. If just 15 percent of Princeton’s roughly 9,000 households gave $1,700, that would be about $2.3 million a year. Without New Jersey opting in, all of it would fund students in other states.
 
-Meanwhile, the need is right here. Princeton Public Schools has acknowledged persistent gaps for lower-income students, English learners, and students in special education, and it runs extra math and English labs to help. Scholarships could pay for tutoring for those same students, at no cost to the district.
+Meanwhile, the need is right here. Princeton Public Schools has acknowledged gaps for lower-income students, English learners, and students in special education, which afflicts all districts. Scholarships could pay for tutoring for those same students, at no cost to the district.
 
 The governor’s office has said it is weighing how the program could benefit public school students. In Princeton, the answer is concrete: math tutoring for a student whose family can’t afford it, or special-needs services for a child who needs them.
 
-Skeptics are right to ask about accountability. Federal law requires scholarship groups to verify family income, spend at least 90 percent of their money on scholarships, and never award scholarships to their own insiders.
+Skeptics associate opting in with Trump and school choice. They doubt that government money in education can be entrusted to private organiations. Supporting opting in is supporting neither. It is simply the obvious choice, given New Jersey taxpayers would regardless use the tax credit. The only difference is whether this helps New Jersey. Furthermore, federal law requires scholarship groups to verify family income, spend at least 90 percent of their money on scholarships, and never award scholarships to their own insiders, for example.
 
-Governor Sherrill’s official residence is here in Princeton. As her Princeton-area neighbors, we ask her to say yes and keep our generosity working for New Jersey kids.
+Lastly, I note that Governor Sherrill’s official residence is here in Princeton. As a Princeton-area neighbors, I ask her to say yes and keep our generosity working for New Jersey kids.
 
+Steffan Pauwel
+Lambert Dr, Princeton 08540
