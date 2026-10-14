@@ -154,3 +154,10 @@ do till 22
 [[/plans]]
 [[september3]]
 ![[prisms#schedule]]
+
+001011
+111011
+100011
+
+Do you support school choice and Donald Trump? Many voters fear that’s what they are affirming 
+
