@@ -94,7 +94,7 @@
 - [ ] 30
 # codeforces, papers
 - [x] color the fence
-- [ ] graph without long paths
+- [x] graph without long paths
 - [ ] zero path
 - [ ] baby ehab partitions
 - [ ] preflix flip hard
