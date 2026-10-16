@@ -1,5 +1,5 @@
 # evan chen
-### 4
+
 ##### 4.1-4.6
 - [ ] 1
 - [ ] 2
@@ -59,8 +59,8 @@
 - [ ] 51
 - [ ] 52
 - [ ] 53
-### 5
-##### reading
+
+##### 5 reading
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -76,7 +76,7 @@
 - [ ] 13
 - [ ] 14
 - [ ] 15
-##### problems
+#####  5problems
 - [ ] 16
 - [ ] 17
 - [ ] 18
@@ -95,8 +95,8 @@
 # codeforces, papers
 - [x] color the fence
 - [x] graph without long paths
-- [ ] zero path
-- [ ] baby ehab partitions
+- [x] zero path
+- [x] baby ehab partitions
 - [ ] preflix flip hard
 - [ ] array destruction
 - [ ] and or and square sum
@@ -116,9 +116,9 @@ do till 22
 - [ ] 4
 - [ ] 5
 ### 2021amc12a
-- [ ] 1
-- [ ] 2
-- [ ] 3
+- [x] 1
+- [x] 2
+- [x] 3
 - [ ] 4
 - [ ] 5
 ### 2021amc12b
@@ -156,6 +156,78 @@ do till 22
 ![[prisms#schedule]]
 [prisms]
 
+###
+# Photosynthetic vs. photovoltaic efficiency (Blankenship et al., *Science*, 2011)
+
+Comparing photosynthesis with solar panels is tricky because plants store energy in chemical bonds, while a PV cell produces electricity that isn't stored. The authors therefore compare photosynthesis with **PV-driven water electrolysis**, which also stores energy chemically. Splitting water takes almost exactly the same free energy (1.23 eV) as making carbohydrate (1.24 eV), so the two are a fair match.
+
+## Current efficiency
+
+Efficiency here means the energy content of harvestable biomass divided by the total solar energy hitting the same area. It is measured over the whole solar spectrum.
+
+| System | Efficiency |
+|---|---|
+| Crop plants, annual (temperate and tropical) | ≤1% |
+| Microalgae in bioreactors, annual | ~3% |
+| C3 plants, short-term peak growth | 3.5% |
+| C4 plants, short-term peak growth | 4.3% |
+| Microalgae, short-term (bubbled bioreactors) | ~5–7% |
+| **PV + electrolysis benchmark, annual** | **~10–11%** |
+
+The PV benchmark is built up as follows:
+- Silicon modules convert about 18% at peak sun, and about 95% of that on an annual average.
+- The electrolyzer is about 80% efficient, which gives roughly 14% overall.
+- Voltage-mismatch losses then reduce this to about 10–11%.
+
+Quantum efficiency is a separate measure: it is the fraction of absorbed photons that produce a stable product. For photosynthesis it is close to 100% under optimal conditions. The losses happen elsewhere.
+
+## Theoretical maximum
+
+- **~12%** is the hard ceiling for making glucose from CO₂ and water. It is set by where chlorophyll's absorption ends and by the two-photosystem design.
+- **4.6% (C3) and 6.0% (C4)** are the realistic maxima once unavoidable losses are included: light harvesting, overpotentials, and respiration.
+- Short-term field efficiencies already reach **70–75%** of these realistic limits. Annual numbers fall much further below them, mostly because plants only grow for part of the year.
+
+For comparison:
+- A single-junction PV cell has a ceiling of about 32% (the Shockley–Queisser limit).
+- About 24% is realistic for a photoelectrolysis cell.
+- Tandem cells could approach 40%.
+- Exotic designs such as hot-carrier and multi-carrier cells have a thermodynamic limit of 66%.
+
+## What limits photosynthesis
+
+**Physics of light capture**
+- **Narrow absorption window.** Pigments use only 400–700 nm, which is about half of incoming solar energy. Silicon absorbs out to about 1200 nm.
+- **Heat loss from high-energy photons.** Blue light gets absorbed, but its extra energy is shed as heat down to the red absorption level. This is the same bandgap loss that PV cells have.
+- **Two photosystems competing for the same light.** PSI and PSII work in series but absorb nearly the same wavelengths. Compared with an optimized tandem design, this cuts the energy efficiency nearly in half.
+
+**Biochemistry**
+- **Photorespiration.** RuBisCO sometimes grabs O₂ instead of CO₂, and the recovery process can consume up to 25% of stored energy. C4 plants and algae have CO₂-concentrating systems that largely avoid this, but those systems have their own energy cost.
+- **Slow RuBisCO.** Because the enzyme is slow, plants must make huge amounts of it. That cost is part of a growth-and-maintenance overhead of at least 30% of stored energy.
+- **"Legacy biochemistry."** Photosynthesis inherited redox chemistry from earlier non-photosynthetic organisms, and that chemistry isn't ideally matched to the job.
+
+**Light management**
+- **Oversized antennas.** In full sun, up to 80% of the energy absorbed by a leaf must be thrown away to avoid damage. Meanwhile, leaves lower in the canopy are starved for light.
+
+**Environment and evolution**
+- **CO₂ supply.** Dense crops can pull CO₂ inside the canopy 50 ppm or more below the surrounding air.
+- **Mismatched regulation.** Plants evolved under pre-industrial CO₂ levels and don't fully take advantage of today's higher levels.
+- **Wrong selection target.** Evolution selected plants for reproductive success, not biomass yield. Breeders selected for the harvested product, not overall efficiency.
+
+## Proposed fixes
+
+**Near-term approaches:**
+- Extend absorption into the near-infrared using chlorophyll variants that absorb at 740–750 nm.
+- Shrink the light-harvesting antennas.
+- Engineer C4 traits into C3 crops.
+- Add a photorespiration bypass; one has been demonstrated in *Arabidopsis*.
+- Feed algae flue gas, which is about 10% CO₂ and nearly eliminates photorespiration.
+
+**The most ambitious idea:** re-engineer one photosystem to use bacteriochlorophyll that absorbs out to about 1100 nm. The two photosystems would then work as a true tandem cell, roughly doubling the number of photons captured. Other ideas include swapping in an alternative carbon-fixation cycle, or producing H₂ or formate directly instead of sugar.
+
+## Bottom line
+
+On an annual basis, PV wins clearly: about 10–11% versus 1% or less for crops. Under ideal short-term conditions, however, photosynthesis comes within a factor of 2–3 of PV, and many of its losses could in principle be engineered out. Keep in mind this is a 2011 paper, so the PV and electrolyzer figures have improved since then. The photosynthesis limits and loss mechanisms are still the standard framework.
+### sadge
 I’m a student in Princeton, and I’m writing to respectfully urge Governor Sherrill to opt New Jersey into the new federal scholarship tax credit before the December 31 deadline. 
 
 Starting in 2027, those who donate to approved scholarship organizations get a matching federal tax credit up to $1,700. The scholarships can pay for tutoring, special-needs services, books, and other school costs for students in public, private, and religious schools. Families earning up to three times the area median income qualify.
