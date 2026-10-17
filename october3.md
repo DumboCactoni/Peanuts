@@ -1,64 +1,16 @@
 # evan chen
 
-##### 4.1-4.6
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [ ] 14
-- [ ] 15
-
-##### subdivide
-- [ ] 16
-- [ ] 17
-- [ ] 18
-- [ ] 19
-- [ ] 20
-- [ ] 21
-- [ ] 22
-- [ ] 23
-- [ ] 24
-- [ ] 25
-- [ ] 26
-- [ ] 27
-- [ ] 28
-- [ ] 29
-- [ ] 30
-##### 4.7-4.9
-- [ ] 31
-- [ ] 32
-- [ ] 33
-- [ ] 34
-- [ ] 35
-- [ ] 36
-- [ ] 37
-- [ ] 38
-- [ ] 39
-- [ ] 40
+##### 4
+- [x] 1
+- [x] 2
+- [x] 3
+- [x] 4
 - [ ] 41
-- [ ] 42
-
-##### subdivide
-- [ ] 43
-- [ ] 44
 - [ ] 45
 - [ ] 46
-- [ ] 47
 - [ ] 48
-- [ ] 49
-- [ ] 50
 - [ ] 51
 - [ ] 52
-- [ ] 53
 
 ##### 5 reading
 - [ ] 1
@@ -97,8 +49,8 @@
 - [x] graph without long paths
 - [x] zero path
 - [x] baby ehab partitions
-- [ ] preflix flip hard
-- [ ] array destruction
+- [x] preflix flip hard
+- [x] array destruction
 - [ ] and or and square sum
 - [ ] cover it
 
@@ -122,8 +74,8 @@ do till 22
 - [ ] 4
 - [ ] 5
 ### 2021amc12b
-- [ ] 1
-- [ ] 2
+- [x] 1
+- [x] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
@@ -154,10 +106,9 @@ do till 22
 [[/plans]]
 [[september3]]
 ![[prisms#schedule]]
-[prisms]
+[[prisms]]
 
-###
-# Photosynthetic vs. photovoltaic efficiency (Blankenship et al., *Science*, 2011)
+##### Photosynthetic vs. photovoltaic efficiency (Blankenship et al., *Science*, 2011)
 
 Comparing photosynthesis with solar panels is tricky because plants store energy in chemical bonds, while a PV cell produces electricity that isn't stored. The authors therefore compare photosynthesis with **PV-driven water electrolysis**, which also stores energy chemically. Splitting water takes almost exactly the same free energy (1.23 eV) as making carbohydrate (1.24 eV), so the two are a fair match.
 
