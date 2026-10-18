@@ -76,8 +76,8 @@ do till 22
 ### 2021amc12b
 - [x] 1
 - [x] 2
-- [ ] 3
-- [ ] 4
+- [x] 3
+- [x] 4
 - [ ] 5
 ### 2021 aime1
 - [ ] 4
@@ -112,7 +112,7 @@ do till 22
 
 Comparing photosynthesis with solar panels is tricky because plants store energy in chemical bonds, while a PV cell produces electricity that isn't stored. The authors therefore compare photosynthesis with **PV-driven water electrolysis**, which also stores energy chemically. Splitting water takes almost exactly the same free energy (1.23 eV) as making carbohydrate (1.24 eV), so the two are a fair match.
 
-## Current efficiency
+###### Current efficiency
 
 Efficiency here means the energy content of harvestable biomass divided by the total solar energy hitting the same area. It is measured over the whole solar spectrum.
 
@@ -132,7 +132,7 @@ The PV benchmark is built up as follows:
 
 Quantum efficiency is a separate measure: it is the fraction of absorbed photons that produce a stable product. For photosynthesis it is close to 100% under optimal conditions. The losses happen elsewhere.
 
-## Theoretical maximum
+###### Theoretical maximum
 
 - **~12%** is the hard ceiling for making glucose from CO₂ and water. It is set by where chlorophyll's absorption ends and by the two-photosystem design.
 - **4.6% (C3) and 6.0% (C4)** are the realistic maxima once unavoidable losses are included: light harvesting, overpotentials, and respiration.
@@ -144,7 +144,7 @@ For comparison:
 - Tandem cells could approach 40%.
 - Exotic designs such as hot-carrier and multi-carrier cells have a thermodynamic limit of 66%.
 
-## What limits photosynthesis
+###### What limits photosynthesis
 
 **Physics of light capture**
 - **Narrow absorption window.** Pigments use only 400–700 nm, which is about half of incoming solar energy. Silicon absorbs out to about 1200 nm.
@@ -164,7 +164,7 @@ For comparison:
 - **Mismatched regulation.** Plants evolved under pre-industrial CO₂ levels and don't fully take advantage of today's higher levels.
 - **Wrong selection target.** Evolution selected plants for reproductive success, not biomass yield. Breeders selected for the harvested product, not overall efficiency.
 
-## Proposed fixes
+###### Proposed fixes
 
 **Near-term approaches:**
 - Extend absorption into the near-infrared using chlorophyll variants that absorb at 740–750 nm.
@@ -175,7 +175,7 @@ For comparison:
 
 **The most ambitious idea:** re-engineer one photosystem to use bacteriochlorophyll that absorbs out to about 1100 nm. The two photosystems would then work as a true tandem cell, roughly doubling the number of photons captured. Other ideas include swapping in an alternative carbon-fixation cycle, or producing H₂ or formate directly instead of sugar.
 
-## Bottom line
+###### Bottom line
 
 On an annual basis, PV wins clearly: about 10–11% versus 1% or less for crops. Under ideal short-term conditions, however, photosynthesis comes within a factor of 2–3 of PV, and many of its losses could in principle be engineered out. Keep in mind this is a 2011 paper, so the PV and electrolyzer figures have improved since then. The photosynthesis limits and loss mechanisms are still the standard framework.
 ### sadge
