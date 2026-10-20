@@ -51,8 +51,8 @@
 - [x] baby ehab partitions
 - [x] preflix flip hard
 - [x] array destruction
-- [ ] and or and square sum
-- [ ] cover it
+- [x] and or and square sum
+- [x] cover it
 
 do till 22
 ### 2020amc12a
@@ -62,19 +62,19 @@ do till 22
 - [x] 4
 - [x] 5
 - [ ] almost
-### 2020amc12b
+### 2020amc12b >20
 - [x] 1
 - [x] 2
 - [x] 3
 - [ ] 4
 - [ ] 5
-### 2021amc12a
+### 2021amc12a >10
 - [x] 1
 - [x] 2
 - [x] 3
 - [ ] 4
 - [ ] 5
-### 2021amc12b
+### 2021amc12b >12
 - [x] 1
 - [x] 2
 - [x] 3
