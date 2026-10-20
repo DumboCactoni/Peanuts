@@ -156,8 +156,7 @@ do till 22
 ![[prisms#schedule]]
 [prisms]
 
-###
-# Photosynthetic vs. photovoltaic efficiency (Blankenship et al., *Science*, 2011)
+##### Photosynthetic vs. photovoltaic efficiency (Blankenship et al., *Science*, 2011)
 
 Comparing photosynthesis with solar panels is tricky because plants store energy in chemical bonds, while a PV cell produces electricity that isn't stored. The authors therefore compare photosynthesis with **PV-driven water electrolysis**, which also stores energy chemically. Splitting water takes almost exactly the same free energy (1.23 eV) as making carbohydrate (1.24 eV), so the two are a fair match.
 
