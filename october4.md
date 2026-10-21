@@ -1,5 +1,5 @@
 # past
-###  5problems
+###  5problems >50
 - [ ] 13
 - [ ] 14
 - [ ] 15
@@ -9,6 +9,8 @@
 - [ ] 19
 - [ ] 20
 - [ ] 21
+
+### part >70
 - [ ] 22
 - [ ] 23
 - [ ] 24
@@ -19,7 +21,7 @@
 - [ ] 29
 - [ ] 30
 
-### 4
+### 4 >40
 - [ ] 41
 - [ ] 45
 - [ ] 46
@@ -28,22 +30,26 @@
 - [ ] 52
 
 ### leftovers
-- [ ] 20a
-- [ ] 20b >20uhb
-- [ ] 21a >20hpv
-- [ ] 21b
+- [ ] 20a >30iyj
+- [ ] 20b >30uhb
+- [ ] 21a >30hpv
+- [ ] 21b >40
 
 ### aime
+#### p1 >40
 - [ ] 10
 - [ ] 11
 - [ ] 12
 - [ ] 13
 
+#### p2 >50
 - [ ] 4
 - [ ] 5
 - [ ] 6
 - [ ] 7
 - [ ] 8
+
+####  >70
 - [ ] 9
 - [ ] 10
 - [ ] 11
@@ -57,25 +63,25 @@
 - [ ] 3
 - [ ] 4
 - [ ] 5
-### 2022 amc 12b >30
+### 2022 amc 12b >30obd
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
-### 2023 amc 12a >30
+### 2023 amc 12a >30hcv
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
-### 2023 amc 12b
+### 2023 amc 12b >40
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
-### 2022 aime 1
+### 2022 aime 1 >50
 - [ ] 4
 - [ ] 5
 - [ ] 6
@@ -86,7 +92,7 @@
 - [ ] 11
 - [ ] 12
 - [ ] 13
-### 2022 aime 2
+### 2022 aime 2 >60
 - [ ] 4
 - [ ] 5
 - [ ] 6
@@ -101,11 +107,39 @@
 
 - [ ] soldier and number game >30zdn
 - [ ] ehab the xorcist >30bzv
-- [ ] igor in the museum
-- [ ] road optimization
-- [ ] cobb
-- [ ] deleting divisors
-- [ ] bits
-- [ ] spy stirring
+- [ ] igor in the museum >30dpu
+- [ ] road optimization >30ckq
+- [ ] cobb >40
+- [ ] deleting divisors >40
+- [ ] bits >50
+- [ ] spy stirring >50 
 # dynamic
+- [ ] 20a >30iyj
+- [ ] 20b >30uhb
+- [ ] 21a >30hpv
+
+### 2022 amc 12a >30edu
+- [x] 1
+- [x] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+### 2022 amc 12b >30obd
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+### 2023 amc 12a >30hcv
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+
+- [ ] soldier and number game >30zdn
+- [ ] ehab the xorcist >30bzv
+- [ ] igor in the museum >30dpu
+- [ ] road optimization >30ckq
 # notes
+
