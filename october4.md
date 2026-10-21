@@ -51,19 +51,19 @@
 - [ ] 13
 
 # curr papers
-### 2022 amc 12a >20edu
+### 2022 amc 12a >30edu
+- [x] 1
+- [x] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+### 2022 amc 12b >30
 - [ ] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
-### 2022 amc 12b
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-### 2023 amc 12a
+### 2023 amc 12a >30
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -99,8 +99,8 @@
 - [ ] 13
 ### cf
 
-- [ ] soldier and number game >20zdn
-- [ ] ehab the xorcist >20bzv
+- [ ] soldier and number game >30zdn
+- [ ] ehab the xorcist >30bzv
 - [ ] igor in the museum
 - [ ] road optimization
 - [ ] cobb
@@ -108,16 +108,4 @@
 - [ ] bits
 - [ ] spy stirring
 # dynamic
-- [ ] 20b >20uhb
-- [ ] 21a >20hpv
-
-### 2022 amc 12a >20edu
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-
-- [ ] soldier and number game >20zdn
-- [ ] ehab the xorcist >20bzv
 # notes
