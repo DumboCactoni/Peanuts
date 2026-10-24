@@ -17,21 +17,16 @@
 - [ ] 21a 
 - [ ] 21b 
 
-### aime
-#### 2020 aime1 
+### past aime
 - [ ] 10
 - [ ] 11
 - [ ] 12
 - [ ] 13
-
-#### aime2 p1 
 - [ ] 4
 - [ ] 5
 - [ ] 6
 - [ ] 7
 - [ ] 8
-
-#### aime2p2 
 - [ ] 9
 - [ ] 10
 - [ ] 11
@@ -43,7 +38,7 @@
 - [x] 1
 - [x] 2
 - [x] 3
-- [ ] 4
+- [x] 4
 - [ ] 5
 ### 2022 amc 12b 
 - [x] 1
@@ -58,43 +53,21 @@
 - [ ] 4
 - [ ] 5
 ### 2023 amc 12b 
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
+- [x] 1
+- [x] 2
+- [x] 3
+- [x] 4
 - [ ] 5
-### 2022 aime 1 
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-### 2022 aime 2 
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
 ### cf
 
-- [ ] soldier and number game 
-- [ ] ehab the xorcist 
+- [x] soldier and number game 
 - [ ] igor in the museum
 - [ ] road optimization 
-- [ ] cobb
 - [ ] deleting divisors
-- [ ] bits 
-- [ ] spy stirring 
+- [ ] spy string
+- [ ] eugene and an array
+- [ ] constant palindrome sum
+- [ ] choosing capital for treeland
 
 # notes
 ### 
