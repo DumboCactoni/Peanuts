@@ -70,4 +70,6 @@
 - [ ] choosing capital for treeland
 
 # notes
+Deshaw and co
+Jane street amp
 ### 
