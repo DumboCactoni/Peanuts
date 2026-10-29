@@ -37,9 +37,8 @@
 - [x] road optimization 
 - [x] deleting divisors
 - [x] spy string
-- [ ] eugene and an array
-- [ ] constant palindrome sum
-- [ ] choosing capital for treeland
+- [x] eugene and an array
+- [x] constant palindrome sum
 
 # notes
 Deshaw and co

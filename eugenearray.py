@@ -1,11 +1,11 @@
 import sys
-sys.stdin = open("main.in","r")
+#sys.stdin = open("main.in","r")
 input(); array=[int(i) for i in input().split()]; 
-prefix = [0]; pty=0; count=0
+prefix = [0]; pty=0; count=0; ptx=0; visited=set()
 for i in range(len(array)): prefix.append(prefix[i]+array[i])
-for ptx in range(len(array)):
-    visited = set(); temp=0
+while pty<len(prefix):
     while pty<len(prefix) and prefix[pty] not in visited:
-        visited.add(prefix[pty]); temp+=1; pty+=1
-    count+=temp
+        visited.add(prefix[pty]); count+=pty-ptx; pty+=1
+    while pty<len(prefix) and prefix[pty] in visited:
+        visited.remove(prefix[ptx]); ptx+=1
 print(count)
