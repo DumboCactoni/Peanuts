@@ -46,18 +46,19 @@
 - [ ] 12
 - [ ] 13
 ### cf
-- [x] scioly
 - [ ] choosing capital for treeland
-- [ ] searching local min
 - [ ] quiz master
 - [ ] substring
 - [ ] string game
 - [ ] tandem repeats
 - [ ] chat screenshots
+- [ ] peculiar movie preferences
+- [ ] mysterious present
 
 # notes
 - [ ] passport application
 - [ ] journalling
-- [ ] mr mok email, lit
 - [ ] scioly builds
-- [ ] hybridization
+- [ ] math corrections
+- [ ] physics hw
+- [ ] what is molecular orbital theory order of orbitals
