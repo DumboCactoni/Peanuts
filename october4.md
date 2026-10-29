@@ -2,8 +2,8 @@
 ### leftovers
 - [x] 20a 
 - [x] 20b (1 each)
-- [ ] 21a (close)
-- [ ] 21b (close)
+- [x] 21a (close)
+- [x] 21b (close)
 
 
 # curr papers
