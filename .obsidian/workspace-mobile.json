@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "october3.md",
+                "file": "october5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "october3"
+              "title": "october5"
             }
           }
         ],
@@ -257,8 +257,8 @@
   },
   "active": "eb45f62351784593",
   "lastOpenFiles": [
-    "october2.md",
     "october3.md",
+    "october2.md",
     "october4.md",
     "september4.md",
     "prisms.md",
