@@ -194,6 +194,7 @@ NaHCO_3 + HCl \:\; 3 -> NaCl + CO2 + H2O \newline
 $$
 
 # bohemian surmise
+## proposal
 Jiashen Li's Research Proposal – 2026
 
 #### Brief description/abstract
@@ -267,5 +268,105 @@ he paper, numerical and analytical analyses of a tornado model is helpful for de
 The article is titled shape optimization (or optimisation for Lord Maximilian because yes he's British) of stirring rods for mixing binary fluids. Yet again the math is mind boggling, but it uses the same flow equations in a different form, and a penalization model, using an adjoint system. Most of the math addresses characterizing the stirrer so that the change in efficiency can be determined from a small change in variable. This gets very complex as you have to manipulate coordinate systems, and is a large chunk of the paper. It also tries to determine the relative shares of diffusive and convective mixing. I was very confused over a mask function, but this quite literally tells you whether you're looking at the fluid... or the mixer (literally can be 0 or 1). The stirrer also has to be untwisted, as optimization leans towards creating a fake stirrer, that pushes stirrer thickness to zero. The latter half of the paper considers using 2 stirrers, or even 5 stirrers, which is not relevant to my project. Fortunately, and hopefully, I can directly use the derived results seen so far, and use a mix of vibe-coding and my own limited Python skills to numerically solve any math that is necessary. I have also attached something I already partly vibe-coded using scipy for a time to stir model based on the equations presented in the first and third article. 
 
 
+## summary
+
+
+1. Project Abstract [5 points]
+
+(150–200 words max)
+
+Provide a summary of your research proposal. State the scientific, mathematical, or engineering context, the core knowledge gap or technical challenge, your general methodology, and the anticipated significance or quantitative impact of your expected results.
+
+
+
+
+
+2. Literature Review & Research Gap [12 points]
+
+Previous Related Work: Summarize 2–3 foundational concepts, existing algorithms, or experimental precedents using inline citations [e.g., Author et al., 2025].
+The Research Gap: Identify what remains unknown, unproven, computationally inefficient, or technically constrained in current literature.
+Significance & Impact: Explain why solving this problem matters to the scientific community, industry, or broader society.
+
+
+3. Research Objective & Hypothesis [8 points]
+
+Primary Objective: State the primary goal of your research project in 1–2 sentences.
+Primary Hypothesis / Mathematical Conjecture: State 1–2 testable, explicit predictions or formal mathematical conjectures.
+4. Methodology [15 points]
+
+Provide a step-by-step technical description of your research project. To systematically address the research problem, the methodology is divided into three sequential execution phases, as outlined below:
+
+Phase I (Theoretical Framework & Setup): Studying literature, formalizing mathematical/graph models, and establishing the software development pipeline.
+Phase II (Execution & Modeling): Formulating core logic, programming dynamic algorithms, and setting up initial simulation environments.
+Phase III (Validation & Testing): Executing multi-scenario benchmark tests, gathering quantitative performance metrics, and verifying results against static baselines.
+(You can use a flowchart here showing different phases of your research)
+
+One-page handout (rough summary)
+
+Header: “Modeling the Magnetic Stirrer Vortex to Design a Faster-Mixing Stir Bar” · Jiashen Li · Lab: [ ] · Research Director: [ ] · Date of Defense: [ ]
+
+1. Abstract (193 words; the limit is 150–200)
+Magnetic stir bars are standard lab equipment, but the common pill-shaped bar can be slow, especially for viscous mixtures, polymers and binders, and poorly soluble solids near saturation, where stirring can take hours. Prior work models the stir-bar vortex, measures its velocity field cheaply with smartphone particle image velocimetry (PIV), and uses shape optimization to find stirrers that mix significantly better, but little links the vortex directly to time to stir or applies optimized shapes to standard stir bars. This project will (1) build a Burgers-vortex model linking bar geometry, speed and container size to the 3D velocity field and time to stir; (2) validate it with smartphone PIV and timed mixing tests on 15 solid–liquid and liquid–liquid combinations; (3) extend it to commercial non-cylindrical bars; and (4) use penalization-based shape optimization to design 3D-printed attachments that clip onto standard bars. Targets are time-to-stir predictions within 5% for standard bars and 10% for complex shapes, and an attachment that cuts stir time by 50%, lasts 100 hours and costs under $2. Faster, more controllable stirring would save hours on slow lab preparations, and at industrial scale small efficiency gains mean significant cost savings.
+
+2. Literature Review and Research Gap
+
+Previous work:
+The stir-bar vortex follows Rankine and Burgers models, and its depth scales with frequency squared [Halász et al., 2007]
+The Burgers vortex can be derived from Navier–Stokes in cylindrical coordinates [Schmitt, 1999]
+Phone video plus PIVlab measures rotating flow accurately [Shah et al., 2022]
+Adjoint and penalization optimization finds better-mixing stirrer shapes [Eggl & Schmid, 2020]
+Gap: efficiency is shown only qualitatively (dye patterns). No model links shape → velocity field → time to stir for real mixtures (viscous, near-saturated, clumping). Optimization hasn’t been applied to an attachment for a standard bar on the beaker floor.
+Significance: saves hours on the slowest mixes, offers controllable and gentle options, costs under $2, works with existing stir plates, and at industrial scale small gains mean significant cost savings
+
+3. Objective and Hypothesis
+
+1. For 15 solid-liquid and liquid-liquid combinations, at different stirring frequencies, be able to predict time to stir with <5% error for a regular stir bar
+2. For the speed optimized stirrer, for 15 solid-liquid and liquid-liquid combinations, reduce stir time by 50%. 
+3. For 15 solid-liquid and liquid-liquid combinations, at different stirring frequencies, be able to predict time to stir with <10% error for my custom stir bar and bars on the market
+4. Create a stirrer attachment that does not deteriorate with 100 hours of use, especially in viscous or hard and abrasive-solid contexts. 
+5. Create a final stirrer attachment with a unit cost less than 2$
+6. The stirrer should be an attachment that fits on standard magnetic stir bars, and is easy to remove and replace
+7. Create a smooth stirrer that reduces shear forces on the liquid, reduces splashing, spraying, or breaking the liquid surface. 
+8. Create a stirrer that smoothly increases the rate of mixing as frequency increases.
+9. Create a stirrer that on average, will stir most quickly. 
+10. Create software that allows you to create your own stirrer. 
+
+
+1. Methodology
+
+Phase I: literature review; the scipy model (already done: a 5 cm bar at 500 rpm mixes 1 L in about 18 s); set up the stir plate, glassware, phone camera and PIVlab pipeline
+Phase II: measure velocity fields and time to stir across speeds, containers and the 15 mixtures; calibrate and refine the model; extend it to commercial bars; build the penalization optimizer for a floor-mounted attachment
+Phase III: print candidate attachments and test them against standard bars on time, model error, durability, cost, fit, shear and speed response
+Flowchart: model → calibrate → error OK? → extend → optimize → print → test → targets met? → final design
+
+
+5. Research Timeline [5 points]
+
+November: Begin preliminary experiments to verify theoretical model
+December: Begin preliminary experiments to verify theoretical model
+January: Extend theoretical model to existing product designs, scaled down, and investigating
+their efficacy when scaled down
+February: Extend theoretical model to existing product designs, scaled down, and investigating
+their efficacy when scaled down
+March: Finalize theoretical model
+April: Build penalization algorithm, begin running it to produce optimum stirrer considering only
+time
+May: Have prototype stirrer by end of the year that by justification is the single most effective
+based on one criterion, for example time, possibly for a certain liquid configuration first. Other
+considerations should be made next year
+
+1. Key References
+
+Halász, G., Gyüre, B., Jánosi, I. M., Szabó, K. G., & Tél, T. (2007). Vortex flow generated by a magnetic stirrer. American Journal of Physics, 75(12), 1092–1098.
+
+Shah, S. P., Mumana, N., Barad, P., Desai, R. P., & Joshi, P. S. (2022). Optimizing recording speed and interrogation window for rotating flow recorded in the ambient light: PIV analysis (arXiv:2210.04547). https://doi.org/10.48550/arXiv.2210.04547
+
+Schmitt, P. A. (1999). Numerical and analytical analyses of a tornado model [Thesis, Texas Tech University]. http://hdl.handle.net/2346/10280
+
+Eggl, M. F., & Schmid, P. J. (2020). Shape optimization of stirring rods for mixing binary fluids. IMA Journal of Applied Mathematics, 85(5), 762–789. https://doi.org/10.1093/imamat/hxaa012
+
+Thielicke, W., & Stamhuis, E. J. (2014). PIVlab – Towards user-friendly, affordable and accurate digital particle image velocimetry in MATLAB. Journal of Open Research Software, 2(1), e30. https://doi.org/10.5334/jors.bl
+
+Murthy Shekhar, S., & Jayanti, S. (2002). CFD study of power and mixing time for paddle mixing in unbaffled vessels. Chemical Engineering Research and Design, 80(5), 482–498.
 
 # others
