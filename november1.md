@@ -1,5 +1,5 @@
 - [ ] choosing capital for treeland
-- [ ] tandem repeats
+- [x] tandem repeats
 - [ ] chat screenshots
 - [ ] peculiar movie preferences
 - [ ] mysterious present
