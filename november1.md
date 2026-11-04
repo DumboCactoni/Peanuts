@@ -48,3 +48,11 @@
 - [ ] 1
 - [ ] 2
 - [ ] 3
+
+sudo dnf install --skip-unavailable --skip-broken --exclude='kernel*,grub2*,shim*,*firmware*,*microcode*,intel-*,amd-*,nvidia-*,gdm,gnome-shell*,gnome-session*,gnome-classic-session,chatgpt,*proton*' $(cat ~/asahi-migration/packages.txt)
+
+sudo dnf install flatpak
+
+flatpak remote-add --user --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+xargs -r -n1 flatpak install --user -y flathub < ~/asahi-migration/flatpaks.txt
