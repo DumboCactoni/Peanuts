@@ -1,9 +1,12 @@
 - [ ] choosing capital for treeland
 - [x] tandem repeats
 - [x] chat screenshots
-- [ ] peculiar movie preferences
+- [x] peculiar movie preferences
 - [ ] mysterious present
-- [ ] 4 from 1800
+- [ ] table decorations
+- [ ] distance in tree
+- [ ] multiplication table
+- [ ] sports festival
 25b
 - [ ] 4
 - [ ] 5
@@ -58,28 +61,3 @@
 - [ ] 5
 
 
-
-Use git over SSH with the hotspot laptop as the remote. It's always at 10.42.0.1 on the hotspot network.
-sudo systemctl enable --now sshd
-git -C ~/path/to/repo config receive.denyCurrentBranch updateInstead
-```
-
-The second line allows pushes into this repo even though it has a branch checked out. Its working files update automatically, as long as it has no uncommitted changes at the time. If this laptop runs Debian or Ubuntu, the service is called `ssh` instead of `sshd`.
-
-**On the other laptop (once):**
-
-```
-cd ~/path/to/repo
-git remote add laptop yourusername@10.42.0.1:path/to/repo
-```
-
-The path is relative to that user's home folder on the hotspot laptop.
-
-**Then use normal git, run from the joining laptop for both directions:**
-
-```
-git pull laptop main
-git push laptop main
-```
-
-Running everything from the joining side means only the hotspot laptop needs SSH turned on.
