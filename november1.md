@@ -1,6 +1,6 @@
 - [ ] choosing capital for treeland
-- [ ] tandem repeats
-- [ ] chat screenshots
+- [x] tandem repeats
+- [x] chat screenshots
 - [ ] peculiar movie preferences
 - [ ] mysterious present
 - [ ] 4 from 1800
@@ -33,26 +33,53 @@
 - [ ] 70
 # amc
 2017 amc 12a
-- [ ] 1
-- [ ] 2
-- [ ] 3
+- [x] 1
+- [x] 2
+- [x] 3
+- [x] 4
+- [ ] 5
 2017 amc 12b
 - [ ] 1
 - [ ] 2
 - [ ] 3
+- [ ] 4
+- [ ] 5
 2018 amc12a
 - [ ] 1
 - [ ] 2
 - [ ] 3
+- [ ] 4
+- [ ] 5
 2018 amc12b
 - [ ] 1
 - [ ] 2
 - [ ] 3
+- [ ] 4
+- [ ] 5
 
-sudo dnf install --skip-unavailable --skip-broken --exclude='kernel*,grub2*,shim*,*firmware*,*microcode*,intel-*,amd-*,nvidia-*,gdm,gnome-shell*,gnome-session*,gnome-classic-session,chatgpt,*proton*' $(cat ~/asahi-migration/packages.txt)
 
-sudo dnf install flatpak
 
-flatpak remote-add --user --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+Use git over SSH with the hotspot laptop as the remote. It's always at 10.42.0.1 on the hotspot network.
+sudo systemctl enable --now sshd
+git -C ~/path/to/repo config receive.denyCurrentBranch updateInstead
+```
 
-xargs -r -n1 flatpak install --user -y flathub < ~/asahi-migration/flatpaks.txt
+The second line allows pushes into this repo even though it has a branch checked out. Its working files update automatically, as long as it has no uncommitted changes at the time. If this laptop runs Debian or Ubuntu, the service is called `ssh` instead of `sshd`.
+
+**On the other laptop (once):**
+
+```
+cd ~/path/to/repo
+git remote add laptop yourusername@10.42.0.1:path/to/repo
+```
+
+The path is relative to that user's home folder on the hotspot laptop.
+
+**Then use normal git, run from the joining laptop for both directions:**
+
+```
+git pull laptop main
+git push laptop main
+```
+
+Running everything from the joining side means only the hotspot laptop needs SSH turned on.
