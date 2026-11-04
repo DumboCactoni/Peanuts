@@ -1,6 +1,6 @@
 - [ ] choosing capital for treeland
 - [x] tandem repeats
-- [ ] chat screenshots
+- [x] chat screenshots
 - [ ] peculiar movie preferences
 - [ ] mysterious present
 - [ ] 4 from 1800
