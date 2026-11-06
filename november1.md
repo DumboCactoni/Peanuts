@@ -2,18 +2,14 @@
 - [x] tandem repeats
 - [x] chat screenshots
 - [x] peculiar movie preferences
-- [ ] mysterious present
+- [x] mysterious present
 - [ ] table decorations
 - [ ] distance in tree
 - [ ] multiplication table
 - [ ] sports festival
 # 25b
-- [ ] 4
-- [ ] 5
 - [ ] passport application
 - [ ] journalling
-- [ ] chem hw
-- [ ] big idea
 
 # 300 creative
 - [ ] 51
@@ -58,17 +54,10 @@
 - [x] 11
 - [x] 12
 - [x] 13
-## 2024 aime 2
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
+## 2018 amc 12a
+- [x] 1
+- [x] 2
+- [x] 3
 
 
 
