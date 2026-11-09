@@ -3,9 +3,9 @@
 - [x] chat screenshots
 - [x] peculiar movie preferences
 - [x] mysterious present
-- [ ] table decorations
+- [x] table decorations
 - [ ] distance in tree
-- [ ] multiplication table
+- [x] multiplication table
 - [ ] sports festival
 # 25b
 - [ ] passport application

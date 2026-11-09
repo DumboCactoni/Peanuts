@@ -49,8 +49,6 @@ def factors(num):
     return factors
 # fr(x).limit_denominator()
 
-a = 3.44**2+50**2
-b = frac(3.44*50**2, 9.8*25**2)-50**2
-c = frac(50**4, 4*9.8**2*25**4)
-x = frac(-b + sqrt(b**2-4*a*c), 2*a)
-print(f"{x:.3e}")
+frac = frac(7**2*sin(36.87)*cos(36.87)**2, 2+7*sin(36.87)**2)
+ans = fpow(1+7, 9.81*(7*sin(36.87)-1+frac), 1/2)
+print(f"{ans:.3e}")
