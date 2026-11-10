@@ -2,7 +2,12 @@
 - [x] sports festival
 - [ ] passport application
 - [ ] journalling
+- [ ] usaaao 2018 nac paper
 
+# math
+12a 13-18
+- [ ] 1
+- [ ] 2
 
 # 300 creative
 - [ ] 51
@@ -27,7 +32,7 @@
 - [ ] 70
 
 # salvati
-time systems
+## time systems
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -42,7 +47,7 @@ time systems
 - [ ] 12
 - [ ] 13
 - [ ] 1
-moon
+## moon
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -61,10 +66,3 @@ moon
 - [ ] 4
 - [ ] 5
 - [ ] 6
-
-- [ ] usaaao 2018 nac paper
-
-# math
-12a 13-18
-- [ ] 1
-- [ ] 2
