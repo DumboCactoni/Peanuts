@@ -144,7 +144,6 @@ exoplanets, population stars, do books?
 - [ ] 45
 
 #### book 2
-#### book 1
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -192,7 +191,6 @@ exoplanets, population stars, do books?
 - [ ] 45
 
 #### book 3
-#### book 1
 - [ ] 1
 - [ ] 2
 - [ ] 3
