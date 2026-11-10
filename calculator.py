@@ -49,6 +49,8 @@ def factors(num):
     return factors
 # fr(x).limit_denominator()
 
-frac = frac(7**2*sin(36.87)*cos(36.87)**2, 2+7*sin(36.87)**2)
-ans = fpow(1+7, 9.81*(7*sin(36.87)-1+frac), 1/2)
-print(f"{ans:.3e}")
+x = frac(12*sin(45)+14-6, 16)
+y = frac(12*sin(45), 16)
+theta = atan(y/x)
+ans = sqrt(x**2+y**2)
+print(f"{ans:.3e}", f"{theta:.3e}")
