@@ -369,4 +369,5 @@ Thielicke, W., & Stamhuis, E. J. (2014). PIVlab – Towards user-friendly, affor
 
 Murthy Shekhar, S., & Jayanti, S. (2002). CFD study of power and mixing time for paddle mixing in unbaffled vessels. Chemical Engineering Research and Design, 80(5), 482–498.
 
+## [[researchequations]]
 # others
