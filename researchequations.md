@@ -1,5 +1,6 @@
 # Time to stir: equations
 
+
 Sources: [MSJ] Murthy Shekhar & Jayanti (2002), the paper on unbaffled vessels · [H] Halász et al. (2007), the magnetic-stirrer paper · your notes, with the date of the entry · standard: a textbook result · my choice: an assumption made in the chat.
 
 ## 1 · A: original equations, taken as given
@@ -300,3 +301,5 @@ The first time it is, interpolated between the two steps either side, is $t_{95}
 - A3's $v_r$ and $v_z$: used only to derive B5 and B6; B4 replaces them.
 - A4's $\Delta h$: used only through B2.
 - Computed for output only: $\sigma$ (the volume-weighted RMS deviation), the exponential-tail fit, the table, the CSV and the plots.
+
+
