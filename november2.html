@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>usaaao 2018 nac paper</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+/* From extension foam.foam-vscode */
+.foam-placeholder-link {
+  color: var(--vscode-editorWarning-foreground);
+  cursor: default;
+}
+
+.foam-note-link,
+.foam-attachment-link {
+  color: var(--vscode-textLink-foreground);
+}
+
+.foam-tag {
+  color: var(--vscode-editorLineNumber-foreground);
+}
+
+.foam-cyclic-link-warning {
+  border: 1px solid var(--vscode-editorWarning-foreground);
+  background-color: var(--vscode-editorError-background);
+  color: var(--vscode-editorError-foreground);
+  padding: 0.5em;
+}
+
+.foam-cyclic-link-warning__stack {
+  color: var(--vscode-editorWarning-foreground);
+}
+
+.foam-embed-not-supported-warning {
+  border: 1px solid var(--vscode-editorWarning-foreground);
+  background-color: var(--vscode-editorError-background);
+  color: var(--vscode-editorWarning-foreground);
+  padding: 0.5em;
+}
+
+.embed-container-note {
+  padding: 0.75em 1em;
+  margin: 1.5em 0;
+  border: 1px solid var(--vscode-widget-border);
+}
+
+.embed-container-note h1 {
+  font-size: calc(var(--markdown-font-size, 14px) * 1.4);
+}
+.embed-container-note h2 {
+  font-size: calc(var(--markdown-font-size, 14px) * 1.2);
+}
+.embed-container-note h3 {
+  font-size: calc(var(--markdown-font-size, 14px) * 1.1);
+}
+.embed-container-note h4,
+.embed-container-note h5,
+.embed-container-note h6 {
+  font-size: var(--markdown-font-size, 14px);
+}
+
+.embed-container-attachment {
+  padding: 0.25em;
+  margin: 1.5em 0;
+  text-align: center;
+  border: 1px solid var(--vscode-widget-border);
+}
+
+.foam-query-warning {
+  border-left: 3px solid var(--vscode-editorWarning-foreground);
+  color: var(--vscode-editorWarning-foreground);
+  padding: 0.25em 0.75em;
+  margin: 0.5em 0;
+  font-size: 0.9em;
+}
+
+.foam-query-warning p {
+  margin: 0.2em 0;
+}
+
+.foam-query-error {
+  border-left: 3px solid var(--vscode-editorError-foreground);
+  color: var(--vscode-editorError-foreground);
+  padding: 0.25em 0.75em;
+  margin: 0.5em 0;
+  font-size: 0.9em;
+}
+
+.foam-query-empty {
+  color: var(--vscode-descriptionForeground);
+  font-style: italic;
+}
+
+.foam-query-placeholder {
+  border: 1px dashed var(--vscode-editorLineNumber-foreground);
+  background-color: var(--vscode-textBlockQuote-background);
+  color: var(--vscode-foreground);
+  padding: 0.75em 1em;
+  margin: 1em 0;
+  opacity: 0.8;
+}
+
+.foam-query-placeholder pre {
+  background-color: var(--vscode-textPreformat-background);
+  padding: 0.4em 0.6em;
+  margin: 0.5em 0;
+}
+
+.embed-container-image {
+  margin: auto;
+  padding: 0.25em;
+  text-align: center;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 24px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <span id="markdown-mermaid" aria-hidden="true" data-config="{&quot;darkModeTheme&quot;:&quot;vscode&quot;,&quot;lightModeTheme&quot;:&quot;vscode&quot;,&quot;maxTextSize&quot;:50000,&quot;clickDrag&quot;:&quot;alt&quot;,&quot;showControls&quot;:&quot;onHoverOrFocus&quot;,&quot;resizable&quot;:true,&quot;maxHeight&quot;:&quot;&quot;}"></span>
+				<ul class="contains-task-list">
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> distance in tree</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox" checked=""type="checkbox"> sports festival</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> passport application</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> journalling</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> 12a 13-18</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> good substrings</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> carousel</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> maximum white subtree</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> pashmak and parmida</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> little elephant and array</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> vasily multiset</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> stoned game</p>
+</li>
+<li class="task-list-item enabled">
+<p><input class="task-list-item-checkbox"type="checkbox"> kefa and dishes</p>
+</li>
+</ul>
+<h1 id="usaaao-2018-nac-paper">usaaao 2018 nac paper</h1>
+<ul class="contains-task-list">
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 1</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 2</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 3</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 4</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 5</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 6</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 7</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 8</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 9</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 10</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 11</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 1a</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 1b</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 1c</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 2a</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 2b</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 2c</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 3a</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 3b</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 3c</li>
+</ul>
+<h1 id="300-creative">300 creative</h1>
+<h3 id="split">split</h3>
+<ul class="contains-task-list">
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" checked=""type="checkbox"> 51</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" checked=""type="checkbox"> 52</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" checked=""type="checkbox"> 53</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" checked=""type="checkbox"> 54</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" checked=""type="checkbox"> 55</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" checked=""type="checkbox"> 56</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 57</li>
+</ul>
+<h3 id="split-1">split</h3>
+<ul class="contains-task-list">
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 58</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 59</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 60</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 61</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 62</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 63</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 64</li>
+</ul>
+<h3 id="split-2">split</h3>
+<ul class="contains-task-list">
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 65</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 66</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 67</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 68</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 69</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 70</li>
+</ul>
+<h1 id="salvati">salvati</h1>
+<h2 id="time-systems">time systems</h2>
+<ul class="contains-task-list">
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 1</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 2</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 3</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 4</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 5</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 6</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 7</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 8</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 9</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 10</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 11</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 12</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 13</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 1</li>
+</ul>
+<h2 id="moon">moon</h2>
+<ul class="contains-task-list">
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 1</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 2</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 3</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 4</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 5</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 6</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 7</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 8</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 9</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 10</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 11</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 12</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 1</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 2</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 3</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 4</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 5</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> 6</li>
+</ul>
+
+            
+            <script async type="text/javascript">
+/* From extension foam.foam-vscode */
+/**
+ * Handles in-preview scroll-to-fragment for Foam block anchors.
+ *
+ * Block anchor elements have ids prefixed with '__' (e.g. id="__myblock").
+ *
+ * Two cases:
+ *
+ * 1. Same-document links ([[#^blockid]] → href="#__blockid"):
+ *    VS Code's click handler returns early for '#'-prefixed hrefs, relying on
+ *    browser-native hash navigation. In VS Code's webview this doesn't reliably
+ *    scroll to arbitrary elements (only headings work via the sync mechanism).
+ *    We intercept the click ourselves and call scrollIntoView directly.
+ *
+ * 2. Cross-document links ([[note#^blockid]] → href="/note.md#__blockid"):
+ *    VS Code opens the new note's preview. We stash the fragment in
+ *    sessionStorage before the navigation happens, and read it when the target
+ *    note's preview script runs (either on initial load or via the
+ *    vscode.markdown.updateContent event for in-place re-renders).
+ */
+
+const BLOCK_ANCHOR_PREFIX = '__';
+const FRAGMENT_STORAGE_KEY = 'foam-block-anchor-fragment';
+
+function scrollToBlockAnchor(fragment) {
+  if (!fragment || !fragment.startsWith(BLOCK_ANCHOR_PREFIX)) {
+    return false;
+  }
+  const el = document.getElementById(fragment);
+  if (el) {
+    el.scrollIntoView();
+    return true;
+  }
+  return false;
+}
+
+function getFragmentFromSettings() {
+  try {
+    const dataEl = document.getElementById('vscode-markdown-preview-data');
+    if (!dataEl) {
+      return null;
+    }
+    const settings = JSON.parse(dataEl.getAttribute('data-settings') ?? '{}');
+    const state = JSON.parse(dataEl.getAttribute('data-state') ?? '{}');
+    return settings.fragment ?? state.fragment ?? null;
+  } catch {
+    return null;
+  }
+}
+
+function getPendingFragment() {
+  try {
+    const f = sessionStorage.getItem(FRAGMENT_STORAGE_KEY);
+    if (f) {
+      sessionStorage.removeItem(FRAGMENT_STORAGE_KEY);
+    }
+    return f;
+  } catch {
+    return null;
+  }
+}
+
+function tryScrollFromContext() {
+  scrollToBlockAnchor(getFragmentFromSettings() ?? getPendingFragment());
+}
+
+// Case 1 & 2: intercept all block anchor link clicks (window capture phase runs
+// before VS Code's document-level handler).
+window.addEventListener(
+  'click',
+  e => {
+    const a = e.target.closest('a[href]');
+    if (!a) {
+      return;
+    }
+    const href = a.getAttribute('href');
+    if (!href) {
+      return;
+    }
+
+    const hashIndex = href.lastIndexOf('#');
+    if (hashIndex === -1) {
+      return;
+    }
+
+    const fragment = href.slice(hashIndex + 1); // fragment without '#'
+    if (!fragment.startsWith(BLOCK_ANCHOR_PREFIX)) {
+      return;
+    }
+
+    const pathPart = href.slice(0, hashIndex);
+
+    if (!pathPart) {
+      // Same-document link: scroll directly and suppress default navigation.
+      if (scrollToBlockAnchor(fragment)) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    } else {
+      // Cross-document link: stash the fragment so the target note's preview
+      // script can pick it up on load or on the updateContent event.
+      try {
+        sessionStorage.setItem(FRAGMENT_STORAGE_KEY, fragment);
+      } catch {
+        // sessionStorage unavailable — silently ignore.
+      }
+    }
+  },
+  true
+);
+
+// On (re)load: scroll to any pending block anchor fragment. markdown.previewScripts
+// execute after VS Code has appended the rendered content, so the element is in DOM.
+tryScrollFromContext();
+
+// Also handle in-place re-renders triggered by live editing or cross-document
+// navigation that reuses the same webview panel.
+window.addEventListener('vscode.markdown.updateContent', tryScrollFromContext);
+
+</script>
+
+        </body>
+        </html>
