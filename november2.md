@@ -5,13 +5,12 @@
 - [x] 12a 13-18
 
 - [ ] good substrings
-- [ ] carousel
-- [ ] maximum white subtree
+- [ ] carousel **
+- [ ] maximum white subtree 
 - [ ] pashmak and parmida
 - [ ] little elephant and array
-- [ ] vasily multiset
-- [ ] stoned game
-- [ ] kefa and dishes
+- [ ] stoned game **
+- [ ] kefa and dishes **
 
 # 300 creative
 - [x] 51
