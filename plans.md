@@ -35,7 +35,7 @@ review oscillations
 
 #### 200 more confusing
 - [x] kinematics dynamics dimensional analysis
-- [ ] gravitation mech precheckw
+- [ ] gravitation mech recheck
 - [ ] collisions rigid bodies
 - [ ] elasticity ropes
 - [ ] liquids surface tension
@@ -240,7 +240,7 @@ exoplanets, population stars, do books?
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=1600-
 november amc; january usaco; february usaaao f=ma
 must do 8 cf a week, 130 problems
-10 problems 1600, 30 1700 oct, 30 1800 nov, 30 1900 dec, 30 2000 jan, 30 2100 feb, pray for gold. 
+10 problems 1600, 30 1700 oct, 30 1800 nov, 30 1900 dec, 30 2000 jan, 30 2100 feb, pray for plat qual. 
 final stages cannot prioritize either must lock both
 
 sept2 300 confusing 1
@@ -252,15 +252,18 @@ oct3 Evan Chen 2
 oct4 amc and aime
 nov1 amc and aime and 300 confusing 1
 nov2 astro 
-nov3 300 confusing 2
-nov4 astro
-dec1 200 more puzzling 
+
+1800: 9/30, 
+nov3 300 creative 5,6,7,8,9
+nov4 book 1, 2 1,2,3,4,5; 1,2,3,4,5
+dec1 200 more puzzling 1,2,3,4,5
 dec2 math
-dec3 astro
-dec4 200 puzzling
-jan1 astro
-jan2 300 confusing 3
-jan3 astro
+dec3 book 3 1,2,3,4,5
+dec4 200 puzzling 1,4,5
+jan1 math 
+jan2 astro 2,3,4,5,6,7,8
+jan3 300 reative 3 10,11,12,13
 jan4 f=ma
+feb 1 last one
 
 

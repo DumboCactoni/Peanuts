@@ -1,10 +1,7 @@
 - [ ] distance in tree
-- [x] sports festival
 - [ ] passport application
 - [ ] journalling
-- [x] 12a 13-18
 
-- [x] good substrings
 - [ ] carousel **
 - [ ] maximum white subtree 
 - [ ] pashmak and parmida **
