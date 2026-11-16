@@ -4,11 +4,11 @@
 - [ ] journalling
 - [x] 12a 13-18
 
-- [ ] good substrings
+- [x] good substrings
 - [ ] carousel **
 - [ ] maximum white subtree 
-- [ ] pashmak and parmida
-- [ ] little elephant and array
+- [ ] pashmak and parmida **
+- [ ] little elephant and array *
 - [ ] stoned game **
 - [ ] kefa and dishes **
 
