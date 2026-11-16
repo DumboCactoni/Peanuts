@@ -254,16 +254,42 @@ nov1 amc and aime and 300 confusing 1
 nov2 astro 
 
 1800: 9/30, 
-nov3 300 creative 5,6,7,8,9
-nov4 book 1, 2 1,2,3,4,5; 1,2,3,4,5
-dec1 200 more puzzling 1,2,3,4,5
+1- 300 creative 5,6,7,8,9
+2- 200 more puzzling 2,3,4,5
+3- 300 creative 10,11,12,13,14
+4- krotov 2,3,4,5,6
+5- finish 200s, creative, krotov
+
+1- book1 1,2,3,4,5
+2- book2 1,2,3,4,5
+3- salvati 1,2,3,4,5,6
+4- book3 1,2,3,4,5
+5- salvati 7,8,9,10,11,12,13
+6- ioaa salvati books finish
+
+1- 2016-2017 f=ma
+2- 2018-2021
+3- 2022-2024
+4- 2025-2026
+
+1- 2019-2022 nac
+2- 2023-2026
+3- 2019-2022 usaaao
+4- 2023-2026
+
+nov3 physics1
+nov4 astro1, astro2
+
+dec1 physics2
 dec2 math
-dec3 book 3 1,2,3,4,5
-dec4 200 puzzling 1,4,5
-jan1 math 
-jan2 astro 2,3,4,5,6,7,8
-jan3 300 reative 3 10,11,12,13
-jan4 f=ma
-feb 1 last one
+
+dec3 astro3, astro4
+dec4 physics3, physics4
+jan1 astro5, astro6
+
+jan2 math
+jan3 physics5
+jan4 astro
+feb1 last one
 
 
