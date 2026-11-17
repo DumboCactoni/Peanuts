@@ -278,19 +278,19 @@ nov2 astro
 3- 2019-2021 usaaao
 4- 2022-2026
 
-nov3 physics1
-nov4 astro1, astro2
+nov3 physics1, paper1
+nov4 astro1, astro2, paper1
 
-dec1 physics2
+dec1 physics2, paper2
 dec2 math
 
-dec3 astro3, astro4
-dec4 physics3, physics4
-jan1 astro5, astro6
+dec3 astro3, astro4, paper2
+dec4 physics3, physics4, paper3
+jan1 astro5, astro6, paper3
 
 jan2 math
-jan3 physics5
-jan4 astro
+jan3 physics5, paper4
+jan4 astro, paper4
 feb1 last one
 
 
