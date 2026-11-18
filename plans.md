@@ -74,7 +74,7 @@ exoplanets, population stars, do books?
 - [ ] 2
 - [ ] 3
 - [ ] 4
-- [ ] 5
+- [x] 5
 - [ ] 6
 - [ ] 7
 - [ ] 8
@@ -83,6 +83,7 @@ exoplanets, population stars, do books?
 - [ ] 11
 - [ ] 12
 - [ ] 13
+- [ ] Time system 7,1
 #### IOAA
 - [ ] 1
 - [ ] 2
@@ -268,14 +269,14 @@ nov2 astro
 6- ioaa salvati books finish
 
 1- 2016-2017 f=ma
-2- 2018-2021
-3- 2022-2024
-4- 2025-2026
+2- 2018-2020
+3- 2021-2023
+4- 2024-2026
 
 1- 2019-2022 nac
 2- 2023-2026
-3- 2019-2022 usaaao
-4- 2023-2026
+3- 2019-2021 usaaao
+4- 2022-2026
 
 nov3 physics1, paper1
 nov4 astro1, astro2, paper1

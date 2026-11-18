@@ -31,6 +31,7 @@
 - [x] 65
 - [x] 66
 - [x] 67
+<<<<<<< HEAD
 - [ ] 68
 - [ ] 69
 - [x] 70
@@ -100,5 +101,10 @@ whats the best education system: establish goals, and best way. ideal circumstan
 20, 60: 9.596, 9.679
 20, 45: 9.667, 9.319
 20, 30: 9.356, 9.221
+=======
+- [x] 68
+- [x] 69
+- [ ] 70
+>>>>>>> 5d8c3ce6df41a0153c825bbe0c2024ffcb76b708
 
 
