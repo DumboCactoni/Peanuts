@@ -370,4 +370,17 @@ Thielicke, W., & Stamhuis, E. J. (2014). PIVlab – Towards user-friendly, affor
 Murthy Shekhar, S., & Jayanti, S. (2002). CFD study of power and mixing time for paddle mixing in unbaffled vessels. Chemical Engineering Research and Design, 80(5), 482–498.
 
 ## [[researchequations]]
+
+## more bohemian
+1. Does T depends on mass m?
+2. Does T depends on length L?
+3. what is the x-axis? what is y-axis?
+4. How did you calculate g?
+
+Error analysis
+1. What is the absolute and relative error of your measured g compared to 9.80 m/s^2?
+
+2. Describe qualitatively all possible sources of error that leads your error seen in 1.
+
+3. Calculate quantitatively the relative and absolute error from the data you obtained.
 # others
