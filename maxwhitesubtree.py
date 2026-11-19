@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("main.in","r")
+#sys.stdin = open("main.in","r")
 vertices = int(input())
 colors = [(int(i) if int(i)==1 else -1) for i in input().split()]
 edges = dict(); dp=[0]*(vertices+1); rooted=dict()
@@ -33,7 +33,7 @@ while stack:
    visited.add(curr)
    for to in edges[curr]:
       if to not in visited: 
-         best[to] = dp[to]+max(0,max(best[curr])-max(0,dp[to]))
+         best[to] = dp[to]+max(0,best[curr]-max(0,dp[to]))
 
 print(" ".join([str(i) for i in best][1:]))
 

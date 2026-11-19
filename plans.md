@@ -13,7 +13,7 @@ review oscillations
 - [x] 2
 - [x] 3
 - [x] 4
-- [ ] 5
+- [x] 5
 - [ ] 6
 - [ ] 7
 - [ ] 8
@@ -42,7 +42,27 @@ review oscillations
 - [ ] kinematics da
 - [ ] dynamics 17 19 6 27 39 40 45
 
+#### mech and waves
+- [ ] 1
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
 
+#### indian
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 10
 ## Math
 trig identities
 #### number theory
@@ -255,7 +275,7 @@ nov1 amc and aime and 300 confusing 1
 nov2 astro 
 
 1800: 9/30, 
-1- 300 creative 5,6,7,8,9
+1- 300 creative 5,6,7,8,9, mech 10,1,3,4, indian 10
 2- 200 more puzzling 2,3,4,5
 3- 300 creative 10,11,12,13,14
 4- krotov 2,3,4,5,6
