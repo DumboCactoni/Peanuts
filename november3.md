@@ -9,8 +9,18 @@
 - [ ] stoned game **
 - [ ] kefa and dishes **
 
-- [ ] 2016f=ma
-- [ ] 2017f=ma
+# f=ma
+- [ ] 2016 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+
+- [ ] 2017 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
 
 # 300 creative
 ## 5 6
@@ -133,8 +143,28 @@
 - [ ] 12
 - [ ] 13
 - [ ] 14
-- [ ] 15g
+- [ ] 15
 # indian, 10
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+- [ ] 14
+- [ ] 15
+- [ ] 16
+- [ ] 17
+- [ ] 18
+- [ ] 19
+- [ ] 20
 # bohemian
 youth symphonies playing mahler new jersey
 how does set hashing work a lot of set properties seem magical
