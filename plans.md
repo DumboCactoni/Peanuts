@@ -1,7 +1,17 @@
 ## Physics
 Coriolis effect
 review oscillations
-
+- [ ] 2016
+- [ ] 2017
+- [ ] 2018
+- [ ] 2019
+- [ ] 2020
+- [ ] 2021
+- [ ] 2022
+- [ ] 2023
+- [ ] 2024
+- [ ] 2025
+- [ ] 2026
 #### krotov
 - [x] 25,45
 - [ ] 45,70
@@ -89,6 +99,22 @@ counting and prob
 
 ## Astronomy
 exoplanets, population stars, do books?
+- [ ] 2019
+- [ ] 2020
+- [ ] 2021
+- [ ] 2022
+- [ ] 2023
+- [ ] 2024
+- [ ] 2025
+- [ ] 2026
+- [ ] 2019
+- [ ] 2020
+- [ ] 2021
+- [ ] 2022
+- [ ] 2023
+- [ ] 2024
+- [ ] 2025
+- [ ] 2026
 #### salvati only exercise
 - [ ] 1
 - [ ] 2
@@ -275,18 +301,18 @@ nov1 amc and aime and 300 confusing 1
 nov2 astro 
 
 1800: 9/30, 
-1- 300 creative 5,6,7,8,9, mech 10,1,3,4, indian 10
-2- 200 more puzzling 2,3,4,5
-3- 300 creative 10,11,12,13,14
+1- 300 creative 5,6,7,8
+2- 200 more puzzling 2,3,4,5 mech 10,1,3,4, indian 10
+3- 300 creative 9, 10,11,12,13,14
 4- krotov 2,3,4,5,6
-5- finish 200s, creative, krotov
+5- finish esp 200
 
 1- book1 1,2,3,4,5
 2- book2 1,2,3,4,5
 3- salvati 1,2,3,4,5,6
 4- book3 1,2,3,4,5
 5- salvati 7,8,9,10,11,12,13
-6- ioaa salvati books finish
+6- finish esp ioaa
 
 1- 2016-2017 f=ma
 2- 2018-2020
